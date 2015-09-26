@@ -1,189 +1,189 @@
 1)  DUCK
-{happyB} Good! I'm gonna drive the tractor!
+{happyB} Tèt l¾m ¹! Con sÏ l¸i xe kÐo!
 2)  DUCK
-{happyC} I'm the foreman! [to shawn]Lift with your back, Shawn!
+{happyC} Con lµ ®èc c«ng! [to shawn]N©ng b»ng l­ng ®i, Shawn!
 3)  LEE
-{happyA} How you doing, Duck?
+{happyA} Sao råi h¶, Duck?
 4)  
-Look at
+Nh×n vµo
 5)  DUCK
-DON'T LET 'EM TAKE ME!
+*§õng ®Ó chóng b¾t con*!
 6)  DUCK
-THEY'RE GONNA EAT ME!
+*Chóng sÏ ¨n con mÊt*!
 7)  DUCK
-LEE, HELP!
+*Lee*, *cøu con*!
 8)  DUCK
-NO, PLEASE PLEASE NO!
+*Kh«ng*, *lµm ¬n lµm ¬n kh«ng*!
 9)  DUCK
 AHH!
 10)  DUCK
-DAD! HELP!
+*Cha*! *Cøu con*!
 11)  SHAWN
-[working, manual labor] Hey, Lee.
+[working, manual labor] Nµy, Lee.
 12)  
-Need a hand?
+CÇn gióp mét tay kh«ng?
 13)  
 Hey.
 17)  LEE
 Hey.
 14)  
-Leave
+Rêi ®i
 15)  LEE
-{thinkingA} I'm gonna go uhh... check on the others.
+{thinkingA} T«i sÏ uhh... ®i xem t×nh h×nh nh÷ng ng­êi kh¸c.
 16)  SHAWN
-{HappyA} Whatever you want, man.
+{HappyA} Anh muèn sao còng ®­îc, anh b¹n ¹.
 18)  SHAWN
-{HappyB} That'd be great. {SadA} If you could cut those two-bys to length, that'd sure speed things up.
+{HappyB} Nh­ thÕ thËt tuyÖt. {SadA} NÕu anh cã thÓ c­a chóng thµnh hai ®o¹n b»ng nhau, sÏ gióp mäi viÖc nhanh chãng h¬n nhiÒu.
 109)  SHAWN
-{HappyB} That'd be great. {SadA} If you could cut those two-bys to length, that'd sure speed things up.
+{HappyB} Nh­ thÕ thËt tuyÖt. {SadA} NÕu anh cã thÓ c­a chóng thµnh hai ®o¹n b»ng nhau, sÏ gióp mäi viÖc nhanh chãng h¬n nhiÒu.
 19)  LEE
-{happyA} Need a hand?
+{happyA} CÇn gióp mét tay kh«ng?
 110)  LEE
-{happyA} Need a hand?
+{happyA} CÇn gióp mét tay kh«ng?
 111)  LEE
-{happyA} Need a hand?
+{happyA} CÇn gióp mét tay kh«ng?
 20)  LEE
-{happyA} Still need a hand?
+{happyA} Cßn cÇn gióp mét tay kh«ng?
 112)  LEE
-{happyA} Still need a hand?
+{happyA} Cßn cÇn gióp mét tay kh«ng?
 21)  SHAWN
-That'd be great.
+Nh­ thÕ thËt tuyÖt.
 22)  SHAWN
-{HappyA} I'm good. Maybe go check on my dad in the barn?
+{HappyA} T«i æn. Hay anh ®i xem t×nh h×nh cha t«i trong chuång xem?
 23)  SHAWN
-{SadA} My dad doesn't know how bad it is.
+{SadA} Cha t«i kh«ng biÕt mäi sù tÖ nh­ thÕ nµo.
 24)  LEE
-{sadA} No, he doesn't.
+{sadA} Kh«ng, «ng Êy kh«ng biÕt ®©u.
 25)  SHAWN
-{FearA} I saw a guy in Atlanta kill a kid. A boy. Just shot him right in the face.
+{FearA} T«i thÊy mét g· ë Atlanta giÕt mét ®øa trÎ. Mét cËu bÐ. Cø b¾n th¼ng vµo mÆt nã.
 26)  
 Silence
 27)  
-Sometimes it's kill or be killed.
+§«i khi ph¶i giÕt hoÆc bÞ giÕt.
 28)  LEE
-{fearA} Damn.
+{fearA} KhØ thËt.
 29)  LEE
-{thinkingA} You gotta do what you can to survive.
+{thinkingA} Ta cÇn ph¶i lµm nh÷ng g× cÇn lµm ®Ó tån t¹i.
 30)  LEE
-{disgustA} Was the boy one of the walkers?
+{disgustA} CËu bÐ cã ph¶i lµ mét trong bän x¸c chÕt b­íc ®i kh«ng?
 31)  
-Damn.
+KhØ thËt.
 32)  
-You gotta do what you gotta do.
+Ta cÇn ph¶i lµm nh÷ng g× cÇn lµm.
 47)  LEE
-You gotta do what you gotta do.
+Ta cÇn ph¶i lµm nh÷ng g× cÇn lµm.
 33)  
 Was the boy one of the walkers?
 34)  SHAWN
-{SadA} No shit, damn.
+{SadA} Quû tha ma b¾t, khØ thËt.
 35)  SHAWN
-{fearA} Like put a gun to that kid's head and pull the trigger? {disgustA} Fuck that, man.
+{fearA} B»ng c¸ch ®­a sóng lªn ®Çu mét cËu bÐ vµ bãp cß sao? {disgustA} Chã thËt, anh b¹n ¹.
 36)  SHAWN
-{thinkingA} I don't even know. He was either attacking the guy or asking for help.
+{thinkingA} T«i cßn kh«ng hÒ biÕt. CËu bÐ hoÆc ®ang tÊn c«ng g· hoÆc ®ang muèn nhê gióp ®ì.
 37)  SHAWN
-{angryA} You don't see things like that. {normalB} It's not like in the movies.
+{angryA} Ta kh«ng thÊy mäi thø nh­ vËy bao giê. {normalB} Nã kh«ng ph¶i nh­ trong phim.
 38)  SHAWN
-{FearA} He didn't even hesitate. He just turned, put the barrel of the gun right between this kid's eyes {sadB}and pulled the trigger.
+{FearA} G· cßn kh«ng hÒ ngÇn ng¹i. G· chØ xoay ng­êi, ®­a nßng sóng ngay gi÷a hai m¾t ®øa bÌ nµy {sadB}vµ bãp cß.
 39)  LEE
 {normalD} Oh, uh...
 40)  SHAWN
-{sadA} Did you have to do it?
+{sadA} Anh cã tõng ph¶i lµm ®iÒu ®ã kh«ng?
 41)  LEE
-{thinkingA} Do what?
+{thinkingA} Lµm g×?
 42)  SHAWN
-{thinkingB} Yeah. It's not like a rag doll or a puppet without strings. It's heavy.
+{thinkingB} Yeah. Kh«ng ph¶i nh­ h×nh ném hay lµ con rèi kh«ng d©y. Nã nÆng nÒ l¾m.
 43)  LEE
-{normalC} They don't fall like you think.
+{normalC} Chóng kh«ng bÞ h¹ nh­ cËu nghÜ ®©u.
 44)  SHAWN
-{thinkingA} Kill. Have you had to off one yet?
+{thinkingA} GiÕt. Anh cã ph¶i h¹ mét con bao giê ch­a?
 45)  LEE
-{thinkingA} I had to shoot one.
+{thinkingA} T«i ph¶i b¾n mét con.
 46)  LEE
-{disgustB} I bashed a poor girl's brains in.
+{disgustB} T«i ®Ëp tan n·o cña mét c« g¸i téi nghiÖp.
 48)  LEE
-{normalD} Sometimes it's kill {angryA}or be killed.
+{normalD} §«i khi ph¶i giÕt {angryA}hoÆc bÞ giÕt.
 49)  
-I had to shoot one.
+T«i ph¶i b¾n mét con.
 50)  
-I bashed a poor girl's brains in.
+T«i ®Ëp n·o cña mét c« g¸i téi nghiÖp.
 52)  SHAWN
-{thinkingA} It's cool, don't worry about it.
+{thinkingA} §iÒu ®ã æn mµ, ®õng lo l¾ng vÒ nã.
 106)  SHAWN
-{thinkingA} It's cool, don't worry about it.
+{thinkingA} §iÒu ®ã æn mµ, ®õng lo l¾ng vÒ nã.
 53)  SHAWN
-{thinkingA} I could shoot one, maybe. {sadA} If it were far away.
+{thinkingA} T«i cã thÓ b¾n mét con, cã lÏ thÕ. {sadA} NÕu nh­ nã ë xa.
 54)  SHAWN
-{fearB} Whoa, I couldn't do that.
+{fearB} Whoa, t«i kh«ng thÓ lµm thÕ ®­îc.
 55)  SHAWN
-{sadA} I guess. {thinkingA} I don't think I'd sleep good after that.
+{sadA} T«i ®o¸n thÕ. {thinkingA} T«i kh«ng nghÜ t«i cã thÓ ngñ ngon sau ®ã.
 56)  SHAWN
-{normalC} How about yours? How's your family?
+{normalC} Cßn anh th× sao? Gia ®×nh anh sao råi?
 91)  SHAWN
-{normalC} How about yours? How's your family?
+{normalC} Cßn anh th× sao? Gia ®×nh anh sao råi?
 57)  SHAWN
-{happyA} I'm just glad we're getting this fence built. {sadA} Dad just wants to keep the family safe and thinks inviting people in is a bigger threat than {thinkingA}whatever's out there.
+{happyA} T«i chØ mõng lµ chóng ta ®· ®ang tiÕn hµnh x©y dùng c¸i hµng rµo nµy. {sadA} Cha t«i chØ muèn gi÷ cho gia ®×nh an toµn vµ nghÜ r»ng mêi ng­êi kh¸c vµo lµ mét mèi ®e däa lín h¬n {thinkingA}bÊt kÓ thø g× ngoµi kia.
 58)  LEE
-{normalC} My brother and parents are in Macon, {sadA}I hope.
+{normalC} Cha mÑ vµ em t«i ë Macon, {sadA}T«i mong thÕ.
 59)  LEE
-{thinkingA} I'm not quite sure where my ex-wife is.
+{thinkingA} T«i kh«ng ch¾c vî cò t«i ®ang ë ®©u.
 60)  LEE
-{normalD} I'm not too close with my family.
+{normalD} T«i kh«ng th©n thiÕt l¾m víi gia ®×nh m×nh.
 61)  
-My parents are in Macon with my brother.
+Cha me t«i ë Macon víi em trai t«i.
 62)  
-I don't know where my ex-wife is.
+T«i kh«ng biÕt vî cò t«i ®ang ë ®©u.
 63)  
-I don't know where my ex-wife is.
+T«i kh«ng biÕt vî cò t«i ®ang ë ®©u.
 64)  
-I'm not too close with my family.
+T«i kh«ng th©n thiÕt l¾m víi gia ®×nh m×nh.
 65)  SHAWN
-{thinkingA} Oh man, I hope so too. {fearA} Maybe it's not too bad there.
+{thinkingA} Oh anh b¹n, t«i còng mong thÕ. {fearA} Cã thÓ mäi thø kh«ng qu¸ tÖ ë ®Êy.
 66)  SHAWN
-[awkard ex-wife talk] {happyB} Ah. {thinkingB} Oh. {sadA} Yeah. For sure.
+[awkard ex-wife talk] {happyB} Ah. {thinkingB} Oh. {sadA} Yeah. Ch¾c råi.
 67)  SHAWN
-{thinkingA} Oh. Well, they weren't in Atlanta, right? {sadB} So that's good.
+{thinkingA} Oh. Th×, hä kh«ng ë Atlanta, ph¶i kh«ng? {sadB} Nh­ vËy tèt råi.
 68)  SHAWN
-[filling awkward silence] {thinkingB} Well, whoever they are, wherever they are, {happyB} I hope they're ok.
+[filling awkward silence] {thinkingB} ThËt t×nh th×, dï hä lµ ai, dï hä ë ®©u, {happyB} t«i mong r»ng hä ®Òu æn.
 107)  SHAWN
-[filling awkward silence] {thinkingB} Well, whoever they are, wherever they are, {happyB} I hope they're ok.
+[filling awkward silence] {thinkingB} ThËt t×nh th×, dï hä lµ ai, dï hä ë ®©u, {happyB} t«i mong r»ng hä ®Òu æn.
 69)  LEE
-{normalD} Thanks.
+{normalD} C¸m ¬n.
 108)  LEE
-{normalD} Thanks.
+{normalD} C¸m ¬n.
 70)  SHAWN
-{normalB} That's probably all I need cut for now. Thanks.
+{normalB} §ã cã lÏ lµ tÊt c¶ nh÷ng g× t«i cÇn c­a hiÖn giê. C¸m ¬n.
 71)  SHAWN
-{sadA} Maybe you can help my dad out in the barn?
+{sadA} Cã lÏ anh cã thÓ gióp cha t«i ë trong chuång?
 72)  LEE
-{happyA} I like doing the work.
+{happyA} T«i thÝch lµm viÖc.
 73)  LEE
-{normalB} I'll go see.
+{normalB} T«i sÏ ®i xem.
 74)  LEE
-Shit! They're gonna get him.
+KhØ thËt! Chóng sÏ b¾t cËu Êy.
 75)  LEE
-He's trapped under the tractor!
+CËu Êy m¾c kÑt ë d­íi m¸y kÐo!
 76)  LEE
-I got to get that thing off of him!
+T«i ph¶i lÊy thø ®ã ra khái ng­êi cËu Êy!
 77)  LEE
-They're coming under the fence!!!
+Chóng tíi d­íi hµng rµo k×a!!!
 78)  LEE
-Shawn's still working on that fence.
+Shawn vÉn ®ang lµm ®o¹n rµo ®ã.
 79)  SHAWN
-My leg is stuck!
+Ch©n t«i bÞ kÑt råi!
 80)  SHAWN
-Fuck, it's crushed! Move this thing!
+Chã chÕt, nã ®Ì lªn råi! §Èy thø nµy ®i
 81)  SHAWN
-KENNY! FUCK! HELP ME!
+KENNY! *MÑ kiÕp*! *Gióp t«i*!
 82)  SHAWN
-LEE, please help me!
+LEE, lµm ¬n gióp t«i!
 83)  SHAWN
-HELP! FUCK! HELP!
+*Cøu*! *Chã chÕt*! *Cøu víi*!
 84)  SHAWN
-Get it off of me!
+LÊy nã ra khái t«i!
 85)  LEE
-We're gonna get this thing off you!
+Chóng t«i sÏ lÊy thø nµy ra khái ng­êi cËu!
 86)  SHAWN
-Fuck, they're coming man, they're coming!
+Chã chÕt, chóng tíi k×a anh b¹n, chóng tíi k×a!
 87)  DUCK
 [a bunch of panicked/trapped/I don't want to die sounds1]
 88)  DUCK
@@ -193,24 +193,24 @@ Fuck, they're coming man, they're coming!
 90)  DUCK
 [scream2]
 92)  SHAWN
-{happyA} I'm just glad we're getting this fence built. {sadA} Dad just wants to keep the family safe and thinks inviting people in is a bigger threat than {thinkingA} whatever is out there.
+{happyA} T«i chØ mõng lµ chóng ta ®· ®ang tiÕn hµnh x©y dùng c¸i hµng rµo nµy. {sadA} Cha t«i chØ muèn gi÷ cho gia ®×nh an toµn vµ nghÜ r»ng mêi ng­êi kh¸c vµo lµ mét mèi ®e däa lín h¬n {thinkingA} bÊt kÓ thø g× ngoµi kia.
 93)  
-Talk to
+Nãi víi
 95)  
-Talk to
+Nãi víi
 94)  
-Look At
+Nh×n vµo
 96)  
-Look At
+Nh×n vµo
 100)  SHAWN
-[pickup1] {sadA} Thanks, I appreciate it.
+[pickup1] {sadA} C¸m ¬n, t«i biÕt ¬n ®iÒu ®ã.
 101)  SHAWN
-[pickup1] Anyway, when you see my dad around, he might want some help in the barn.
+[pickup1] Nh©n tiÖn, khi nµo anh thÊy cha t«i, «ng Êy cã thÓ muèn vµi sù trî gióp ë trong chuång.
 105)  SHAWN
-[pickup1] Anyway, when you see my dad around, he might want some help in the barn.
+[pickup1] Nh©n tiÖn, khi nµo anh thÊy cha t«i, «ng Êy cã thÓ muèn vµi sù trî gióp ë trong chuång.
 102)  LEE
-[pickup3] {sadA} I'm sorry about your friend.
+[pickup3] {sadA} T«i xin lçi vÒ b¹n cña cËu.
 103)  LEE
-[pickup3] {normalD} And Shawn, thanks again for the ride.
+[pickup3] {normalD} Vµ Shawn nµy, c¶m ¬n mét lÇn n÷a v× ®· cho ®i nhê xe.
 104)  SHAWN
-[pickup1] {happyA} No problem, Lee. Couldn't leave you behind.
+[pickup1] {happyA} Kh«ng cã vÊn ®Ò g× ®©u, Lee. Kh«ng thÓ bá anh l¹i phÝa sau ®­îc.

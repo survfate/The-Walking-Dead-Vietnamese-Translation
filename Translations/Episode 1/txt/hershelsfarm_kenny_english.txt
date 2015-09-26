@@ -1,94 +1,94 @@
 1)  LEE
-Hey there, uh, Kenny.[first time really approaching the guy]
+Nµy, uh, Kenny.[first time really approaching the guy]
 2)  LEE
-Hey there.
+Chµo.
 3)  KENNY
-Hey.
+Chµo.
 4)  LEE
-{happyA}{body-A} Need any help?
+{happyA}{body-A} CÇn gióp g× kh«ng?
 5)  LEE
-{normalD} How's your family doing?
+{normalD} Gia ®×nh anh sao råi?
 6)  LEE
-{thinkingA} So what's your family's plan?
+{thinkingA} VËy kÕ ho¹ch cña gia ®×nh anh lµ g×?
 7)  LEE
-{happyA} See ya.
+{happyA} GÆp sau.
 8)  
-Need any help?
+CÇn gióp g× kh«ng?
 9)  
-How's your son doing?
+Con anh sao råi?
 43)  LEE
-How's your son doing?
+Con anh sao råi?
 10)  
-What's your plan?
+KÕ ho¹ch cña anh lµ g×?
 11)  KENNY
-{happyA}{body-B} Do YOU need any help?
+{happyA}{body-B} Cßn *cËu* cã cÇn gióp g× kh«ng?
 12)  KENNY
-{normalB} Naw, I think I got it.
+{normalB} Kh«ng ®©u, t«i nghÜ t«i lµm ®­îc råi.
 29)  KENNY
-{normalB} Naw, I think I got it.
+{normalB} Kh«ng ®©u, t«i nghÜ t«i lµm ®­îc råi.
 13)  LEE
-{thinkingA} What do you mean?
+{thinkingA} Anh cã ý g× vËy?
 14)  KENNY
-{normalA} I mean, in taking care of that little girl. {sadA} You know what you're doing? You got kids of your own?
+{normalA} T«i muèn nãi lµ, vÒ viÖc ch¨m sãc cho c« bÐ con ®ã. {sadA} CËu biÕt cËu ®ang lµm g× chø? CËu cã con c¸i g× kh«ng?
 16)  
 Silence
 17)  LEE
-{normalD} Nah, nah. No... no kids.  [sort of wistful]
+{normalD} Kh«ng, kh«ng. Kh«ng... kh«ng con c¸i.  [sort of wistful]
 18)  LEE
-{normalB} I think I've got it handled ok.  {angryA} As long as I keep her safe, I think I'm doing alright.
+{normalB} T«i nghÜ lµ t«i ®· xö lý kh¸ æn.  {angryA} MiÔn lµ t«i cßn gi÷ ®­îc c« bÐ an toµn, t«i nghÜ t«i ®· lµm æn mäi viÖc.
 19)  LEE
-{happyA} I have no idea what I'm doing.
+{happyA} T«i kh«ng biÕt t«i ®ang lµm g× n÷a.
 20)  KENNY
-{happyB} Woulda liked one then.
+{happyB} CËu sÏ thÝch cã mét ®øa cho mµ xem.
 21)  LEE
-[casual, hiding emotion] {thinkingA} You know.
+[casual, hiding emotion] {thinkingA} Anh biÕt ®Êy.
 22)  
-No kids.
+Kh«ng con c¸i.
 23)  
-I'm ok.
+T«i æn.
 24)  
-I have no idea.
+T«i còng kh«ng biÕt n÷a.
 25)  KENNY
-{fearA} With those things out there, maybe, sure, that's enough. {thinkingA} But you gotta ask yourself if you're the type of guy who can do better than that{sadA} if her parents don't show up.
+{fearA} Víi nh÷ng thø kia ë ngoµi ®ã, cã thÓ, ch¾c lµ, nh­ thÕ lµ ®ñ. {thinkingA} Nh­ng cËu ph¶i tù hái b¶n th©n r»ng cËu cã ph¶i lµ lo¹i ng­êi cã thÓ lµm tèt h¬n thÕ{sadA} nÕu nh­ cha mÑ c« bÐ kh«ng xuÊt hiÖn.
 26)  LEE
-{thinkingA} I'll keep that in mind.
+{thinkingA} T«i sÏ ghi nhí ®iÒu ®ã.
 27)  KENNY
-{happyA} At least you're honest. {disgustA} Shit, better than I was when Duck showed up. {happyB} You'll figure it out.
+{happyA} ChÝ Ýt th× cËu còng thµnh thËt. {disgustA} KhØ thËt, tèt h¬n c¶ t«i khi Duck xuÊt hiÖn. {happyB} CËu sÏ t×m ra c¸ch th«i.
 28)  KENNY
-{normalC} Well, whether you do or not, she's a sweetheart. {fearA} We saw some crazy shit getting here. The kind of stuff might mess up a little angel like that.
+{normalC} Chµ, dï cËu cã æn hay kh«ng, c« bÐ vÉn cßn ng©y th¬. {fearA} Chóng ta ®· thÊy nhiÒu thø ®iªn lo¹n ngoµi ®ã. Nh÷ng thø mµ cã thÓ sÏ lµm rèi lo¹n mét thiªn thÇn nhá bÐ nh­ thÕ.
 48)  KENNY
-{normalC} Well, whether you do or not, she's a sweetheart. {fearA} We saw some crazy shit getting here. The kind of stuff might mess up a little angel like that.
+{normalC} Chµ, dï cËu cã æn hay kh«ng, c« bÐ vÉn cßn ng©y th¬. {fearA} Chóng ta ®· thÊy nhiÒu thø ®iªn lo¹n ngoµi ®ã. Nh÷ng thø mµ cã thÓ sÏ lµm rèi lo¹n mét thiªn thÇn nhá bÐ nh­ thÕ.
 30)  KENNY
-{sadA} Good, I think. {normalB} Katjaa's got a sister up in Memphis; we were coming back from visiting her. {disgustA} We were in a gas station and some guy grabbed my boy.
+{sadA} Tèt, t«i nghÜ thÕ. {normalB} Katjaa cã mét ng­êi chÞ ë Memphis; bän t«i ®ang trªn ®­êng quay trë vÒ sau chuyÕn th¨m c« Êy. {disgustA} Bän t«i ®ang ë tr¹m x¨ng vµ mét g· nµo ®ã chôp lÊy th»ng bÐ t«i.
 31)  KENNY
-[continued] {fearA} I thought he was kidnapping him. I was on the fucker in about two seconds and...  {happyB} Christ.  {normalC} Just lucky I was there. We saw a lot of bodies before we stumbled upon Hershel's. {angryA} But we're a tough family, Lee. Ain't nothing gonna faze us.
+[continued] {fearA} T«i t­ëng lµ h¾n ®Þnh b¾t cãc nã. T«i ®Ì lªn th»ng chã ®ã chõng hai gi©y vµ...  {happyB} Chóa ¬i.  {normalC} ThËt may m¾n t«i ®· cã ë ®ã. Bän t«i ®· thÊy rÊt nhiÒu x¸c ng­êi tr­íc khi gÆp ®­îc Hershel's. {angryA} Nh­ng bän t«i lµ mét gia ®×nh cøng r¾n, Lee ¹. Kh«ng g× cã thÓ lµm bän t«i sî h·i.
 32)  KENNY
-{happyB} We're doing good, thanks for asking.
+{happyB} Bän t«i æn, c¸m ¬n v× ®· hái th¨m.
 33)  KENNY
-{angryA} Get back on down to Lauderdale and let this mess get sorted out.
+{angryA} Quay vÒ Lauderdale vµ gi¶i quyÕt mí hçn lo¹n nµy.
 37)  KENNY
-{angryA} Get back on down to Lauderdale and let this mess get sorted out.
+{angryA} Quay vÒ Lauderdale vµ gi¶i quyÕt mí hçn lo¹n nµy.
 34)  KENNY
-{happyA} I'm a commercial fisherman, catching mackerel, dolphin, whatever's biting and paying.  {disgustA} Katjaa wouldn't be wild about it,{happyA} but the boat's not that bad.
+{happyA} T«i lµ mét ng­ d©n th­¬ng m¹i, b¾t c¸ thu, c¸ heo, bÊt cø thø g× c¾n c©u vµ b¸n ®­îc.  {disgustA} Katjaa kh«ng dÔ chÞu l¾m vÒ ®iÒu ®ã,{happyA} nh­ng chiÕc thuyÒn kh«ng tÖ ®Õn thÕ.
 35)  LEE
-{normalD} You've got a boat?
+{normalD} Anh cã thuyÒn sao?
 36)  KENNY
-{normalA} Government will start handing out shots and the national guard will do its thing. {thinkingA} On the odd chance things got too bad, we could hop on my boat, I guess.
+{normalA} ChÝnh phñ sÏ b¾t ®Çu ph©n ph¸t vò khÝ vµ lùc l­îng c¶nh vÖ quèc gia sÏ lµm viÖc cña hä. {thinkingA} NÕu ch¼ng may mäi chuyÖn trë nªn qu¸ tÖ, chóng ta cã thÓ lªn thuyÒn cña t«i, t«i nghÜ thÕ.
 38)  LEE
-Hey Kenny, you good?
+Nµy Kenny, anh æn chø?
 39)  KENNY
 Yep.
 40)  LEE
-Can I get you anything?
+T«i cã thÓ lÊy cho anh thø g× kh«ng?
 41)  KENNY
-All good, thanks.
+Mäi thø ®Òu æn, c¸m ¬n.
 42)  
-See ya.
+GÆp sau.
 44)  LEE
-[pickup3] He seems like an all right dude.
+[pickup3] Anh Êy tr«ng cã vÎ lµ mét ng­êi kh¸ tèt.
 45)  LEE
-[pickup3] He's working on his truck.
+[pickup3] Anh Êy ®ang lµm viÖc víi c¸i xe t¶i con cña m×nh.
 46)  
-Look At
+Nh×n vµo
 47)  
-Talk to
+Nãi víi

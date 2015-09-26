@@ -1,399 +1,399 @@
 1)  SHAWN
-{SurprisedA} {body-StandA}HOLY SHIT!
+{SurprisedA} {body-StandA}*Khèn khiÕp*!
 2)  LEE
-[quiet, looking around]{ThinkingA} {body-A}Hey there.
+[quiet, looking around]{ThinkingA} {body-A}Nµy cËu.
 83)  LEE
-[quiet, looking around]{ThinkingA} {body-A}Hey there.
+[quiet, looking around]{ThinkingA} {body-A}Nµy cËu.
 3)  LEE
-{HappyB}You stuck, Shawn Greene?
+{HappyB}CËu gÆp c¶n trë g× sao, Shawn Greene?
 88)  LEE
-{HappyB}You stuck, Shawn Greene?
+{HappyB}CËu gÆp c¶n trë g× sao, Shawn Greene?
 4)  SHAWN
-[pickup1][nervous, out in the open]{NormalC}How about you help us clear the way and{ThinkingA} we'll take you and your daughter out of here, and down to my family's farm. {HappyA}It should be safer there.
+[pickup1][nervous, out in the open]{NormalC}Hay lµ cËu gióp bän t«i dän ®­êng vµ{ThinkingA} bän t«i sÏ ®­a cËu vµ con g¸i cËu ra khái ®©y, vµ xuèng n«ng tr¹i cña gia ®×nh t«i. {HappyA}SÏ an toµn h¬n ë ®ã.
 81)  SHAWN
-[pickup1][nervous, out in the open]{NormalC}How about you help us clear the way and{ThinkingA} we'll take you and your daughter out of here, and down to my family's farm. {HappyA}It should be safer there.
+[pickup1][nervous, out in the open]{NormalC}Hay lµ cËu gióp bän t«i dän ®­êng vµ{ThinkingA} bän t«i sÏ ®­a cËu vµ con g¸i cËu ra khái ®©y, vµ xuèng n«ng tr¹i cña gia ®×nh t«i. {HappyA}SÏ an toµn h¬n ë ®ã.
 5)  LEE
 {FearA} We're friendly.
 6)  SHAWN
-{ConfusedA}Yeah. {JoyB}Little help?
+{ConfusedA}Yeah. {JoyB}Gióp tÝ nhÐ?
 84)  SHAWN
-{ConfusedA}Yeah. {JoyB}Little help?
+{ConfusedA}Yeah. {JoyB}Gióp tÝ nhÐ?
 7)  SHAWN
-{NormalC}I'm Shawn, Shawn Greene.
+{NormalC}T«i lµ Shawn, Shawn Greene.
 89)  SHAWN
-{NormalC}I'm Shawn, Shawn Greene.
+{NormalC}T«i lµ Shawn, Shawn Greene.
 8)  LEE
-{HappyA}Lee.  This is Clementine.
+{HappyA}Lee.  §©y lµ Clementine.
 85)  LEE
-{HappyA}Lee.  This is Clementine.
+{HappyA}Lee.  §©y lµ Clementine.
 9)  LEE
-{DisgustA}{body-C}My leg's a little banged up, {ThinkingA}but we'll see what I can do.
+{DisgustA}{body-C}Ch©n t«i h¬i tÖ chót, {ThinkingA}nh­ng ®Ó xem t«i cã thÓ lµm g× ®­îc.
 90)  LEE
-{DisgustA}{body-C}My leg's a little banged up, {ThinkingA}but we'll see what I can do.
+{DisgustA}{body-C}Ch©n t«i h¬i tÖ chót, {ThinkingA}nh­ng ®Ó xem t«i cã thÓ lµm g× ®­îc.
 10)  SHAWN
-[pickup1] {SurprisedA}Phew, {NormalC}thought for a second {NormalA} you and the little one were {ThinkingA}BOTH going to give us the chomp.
+[pickup1] {SurprisedA}Phï, {NormalC}trong mét tho¸ng t«i t­ëng {NormalA} cËu vµ c« nhãc ®ã {ThinkingA}*c¶ hai* sÏ nhai bän t«i chø.
 87)  SHAWN
-[pickup1] {SurprisedA}Phew, {NormalC}thought for a second {NormalA} you and the little one were {ThinkingA}BOTH going to give us the chomp.
+[pickup1] {SurprisedA}Phï, {NormalC}trong mét tho¸ng t«i t­ëng {NormalA} cËu vµ c« nhãc ®ã {ThinkingA}*c¶ hai* sÏ nhai bän t«i chø.
 11)  
-Ok, sounds good.
+§­îc råi, nghe æn ®Êy.
 93)  
-Ok, sounds good.
+§­îc råi, nghe æn ®Êy.
 12)  
-Where's your farm?
+N«ng tr¹i cña cËu ë ®©u?
 102)  
-Where's your farm?
+N«ng tr¹i cña cËu ë ®©u?
 13)  
-You have a doctor there?
+CËu cã b¸c sÜ ë ®Êy kh«ng?
 110)  
-You have a doctor there?
+CËu cã b¸c sÜ ë ®Êy kh«ng?
 14)  
-She's not my daughter.
+C« bÐ kh«ng ph¶i lµ con t«i.
 120)  
-She's not my daughter.
+C« bÐ kh«ng ph¶i lµ con t«i.
 15)  LEE
-{HappyB}{body-B}Ok, sounds good.
+{HappyB}{body-B}§­îc råi, nghe æn ®Êy.
 94)  LEE
-{HappyB}{body-B}Ok, sounds good.
+{HappyB}{body-B}§­îc råi, nghe æn ®Êy.
 16)  LEE
-{ThinkingA}{body-B}Where's your farm?
+{ThinkingA}{body-B}N«ng tr¹i cña cËu ë ®©u?
 103)  LEE
-{ThinkingA}{body-B}Where's your farm?
+{ThinkingA}{body-B}N«ng tr¹i cña cËu ë ®©u?
 17)  LEE
-{SurpriseA}{body-C}You got a doctor or something?
+{SurpriseA}{body-C}CËu cã b¸c sÜ hay ®¹i lo¹i thÕ kh«ng?
 111)  LEE
-{SurpriseA}{body-C}You got a doctor or something?
+{SurpriseA}{body-C}CËu cã b¸c sÜ hay ®¹i lo¹i thÕ kh«ng?
 18)  LEE
-{SadA}{body-B}This isn't my daughter.
+{SadA}{body-B}§©y kh«ng ph¶i con g¸i t«i.
 121)  LEE
-{SadA}{body-B}This isn't my daughter.
+{SadA}{body-B}§©y kh«ng ph¶i con g¸i t«i.
 19)  SHAWN
 {SadB}Well, Atlanta's gone to shit.
 100)  SHAWN
 {SadB}Well, Atlanta's gone to shit.
 20)  LEE
-{HappyA}Sounds good.
+{HappyA}§­îc ®Êy.
 32)  LEE
-{HappyA}Sounds good.
+{HappyA}§­îc ®Êy.
 101)  LEE
-{HappyA}Sounds good.
+{HappyA}§­îc ®Êy.
 105)  LEE
-{HappyA}Sounds good.
+{HappyA}§­îc ®Êy.
 21)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 33)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 40)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 99)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 106)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 118)  SHAWN
-{ConfusedA}Is this your house?
+{ConfusedA}§©y lµ nhµ cña cËu µ?
 22)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 31)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 41)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 47)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 95)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 104)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 116)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 124)  LEE
-{NormalC}{body-B}No. {ThinkingA}I live here in Atlanta but {NormalD}my family's all from Macon.
+{NormalC}{body-B}Kh«ng. {ThinkingA}T«i ë ngay t¹i Atlanta ®©y nh­ng {NormalD}toµn bé gia ®×nh t«i ®Òu tõ Macon.
 23)  SHAWN
-{JoyB}Farm's south of here, on the way to Macon, {NormalB}if that suits you.
+{JoyB}N«ng tr¹i ë phÝa Nam tõ ®©y, trªn ®­êng tíi Macon, {NormalB}nÕu cËu thÊy hîp.
 98)  SHAWN
-{JoyB}Farm's south of here, on the way to Macon, {NormalB}if that suits you.
+{JoyB}N«ng tr¹i ë phÝa Nam tõ ®©y, trªn ®­êng tíi Macon, {NormalB}nÕu cËu thÊy hîp.
 24)  SHAWN
-{NormalB}{body-StandA}Right on. It's south of here, {SadA}I don't know if that's all right.
+{NormalB}{body-StandA}Ngay ®©y. VÒ h­íng Nam, {SadA}T«i kh«ng biÕt thÕ cã æn kh«ng.
 97)  SHAWN
-{NormalB}{body-StandA}Right on. It's south of here, {SadA}I don't know if that's all right.
+{NormalB}{body-StandA}Ngay ®©y. VÒ h­íng Nam, {SadA}T«i kh«ng biÕt thÕ cã æn kh«ng.
 25)  LEE
-{ThinkingB}That ok, Clementine?
-34)  LEE
-{ThinkingB}That ok, Clementine?
-43)  LEE
-{ThinkingB}That ok, Clementine?
-48)  LEE
-{ThinkingB}That ok, Clementine?
-96)  LEE
-{ThinkingB}That ok, Clementine?
-107)  LEE
-{ThinkingB}That ok, Clementine?
-115)  LEE
-{ThinkingB}That ok, Clementine?
-128)  LEE
-{ThinkingB}That ok, Clementine?
+{ThinkingB}Nh­ vËy ®­îc kh«ng, Clementine?
 26)  LEE
-That ok, Clementine?
+Nh­ thÕ ®­îc kh«ng, Clementine?
 27)  SHAWN
-So you're in then?
+VËy cËu theo chø?
 28)  SHAWN
-{NormalC}{body-StandB}Farm's south of here, on the way to Macon, {NormalA}if that suits you.
+{NormalC}{body-StandB}N«ng tr¹i ë phÝa Nam tõ ®©y, trªn ®­êng tíi Macon, {NormalA}nÕu cËu thÊy hîp.
 109)  SHAWN
-{NormalC}{body-StandB}Farm's south of here, on the way to Macon, {NormalA}if that suits you.
+{NormalC}{body-StandB}N«ng tr¹i ë phÝa Nam tõ ®©y, trªn ®­êng tíi Macon, {NormalA}nÕu cËu thÊy hîp.
 29)  SHAWN
-This your house?
+§©y lµ nhµ cËu?
 30)  LEE
-No. I live here in Atlanta but my family's all from Macon.
+Kh«ng. T«i ë ngay t¹i Atlanta ®©y nh­ng toµn bé gia ®×nh t«i ®Òu tõ Macon.
+34)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+43)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+48)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+96)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+107)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+115)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
+128)  LEE
+{ThinkingB}Nh­ thÕ ®­îc kh«ng, Clementine?
 35)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 42)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 49)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 52)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 108)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 112)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 126)  SHAWN
-{JoyA}So you're in then?
+{JoyA}VËy cËu theo chø?
 36)  LEE
-[good natured] {HappyB}All right.
+[good natured] {HappyB}§­îc råi.
 114)  LEE
-[good natured] {HappyB}All right.
+[good natured] {HappyB}§­îc råi.
 37)  SHAWN
-{JoyA}He can fix you up. Our farm's south of here, {NormalC}towards Macon.
+{JoyA}¤ng Êy cã thÓ ch÷a cho cËu. N«ng tr¹i cña bän t«i ë phÝa Nam tõ ®©y, {NormalC}trªn ®­êng tíi Macon.
 117)  SHAWN
-{JoyA}He can fix you up. Our farm's south of here, {NormalC}towards Macon.
+{JoyA}¤ng Êy cã thÓ ch÷a cho cËu. N«ng tr¹i cña bän t«i ë phÝa Nam tõ ®©y, {NormalC}trªn ®­êng tíi Macon.
 38)  SHAWN
-{NormalC}{body-StandXArmsA}My dad. Well, {NormalB}he's a vet. {SurprisedA}A large animal vet though! {NormalA}So, not like dogs.
+{NormalC}{body-StandXArmsA}Cha t«i. Chµ, {NormalB}«ng Êy lµ b¸c sÜ thó y. {SurprisedA}Nh­ng lµ b¸c sÜ ch÷a cho c¸c lo¹i thó lín k×a! {NormalA}VËy nªn, kh«ng h¼n nh­ chã ®©u.
 119)  SHAWN
-{NormalC}{body-StandXArmsA}My dad. Well, {NormalB}he's a vet. {SurprisedA}A large animal vet though! {NormalA}So, not like dogs.
+{NormalC}{body-StandXArmsA}Cha t«i. Chµ, {NormalB}«ng Êy lµ b¸c sÜ thó y. {SurprisedA}Nh­ng lµ b¸c sÜ ch÷a cho c¸c lo¹i thó lín k×a! {NormalA}VËy nªn, kh«ng h¼n nh­ chã ®©u.
 39)  LEE
-{SurpriseA}{body-B}Your dad, the horse doctor, {ThinkingA}won't mind working on a person?
+{SurpriseA}{body-B}Cha cËu, b¸c sÜ cho ngùa, {ThinkingA}kh«ng phiÒn lµm viÖc trªn mét ng­êi chø?
 113)  LEE
-{SurpriseA}{body-B}Your dad, the horse doctor, {ThinkingA}won't mind working on a person?
+{SurpriseA}{body-B}Cha cËu, b¸c sÜ cho ngùa, {ThinkingA}kh«ng phiÒn lµm viÖc trªn mét ng­êi chø?
 44)  LEE
-{NormalC}{body-B}The folks who own this house. {ThinkingA}Found her in the backyard, {SurpriseB}surviving on her own.
+{NormalC}{body-B}Nh÷ng ng­êi chñ c¨n nhµ nµy. {ThinkingA}T«i t×m thÊy c« bÐ ë s©n sau, {SurpriseB}®ang tù t×m c¸ch sèng sãt.
 129)  LEE
-{NormalC}{body-B}The folks who own this house. {ThinkingA}Found her in the backyard, {SurpriseB}surviving on her own.
+{NormalC}{body-B}Nh÷ng ng­êi chñ c¨n nhµ nµy. {ThinkingA}T«i t×m thÊy c« bÐ ë s©n sau, {SurpriseB}®ang tù t×m c¸ch sèng sãt.
 45)  SHAWN
-{ConfusedA}{body-StandXArmsA}Then whose is she?
+{ConfusedA}{body-StandXArmsA}VËy c« bÐ lµ con ai?
 123)  SHAWN
-{ConfusedA}{body-StandXArmsA}Then whose is she?
+{ConfusedA}{body-StandXArmsA}VËy c« bÐ lµ con ai?
 46)  SHAWN
-{SurprisedA}{body-StandC}Shit. {ConfusedA}You a neighbor or something?
+{SurprisedA}{body-StandC}KhØ. {ConfusedA}CËu lµ hµng xãm hay sao?
 127)  SHAWN
-{SurprisedA}{body-StandC}Shit. {ConfusedA}You a neighbor or something?
+{SurprisedA}{body-StandC}KhØ. {ConfusedA}CËu lµ hµng xãm hay sao?
 50)  LEE
-Well that works.
+Chµ, thÕ còng ®­îc.
 125)  LEE
-Well that works.
+Chµ, thÕ còng ®­îc.
 51)  SHAWN
-Our farm's on the way if that's where you're headed.
+N«ng tr¹i cña bän t«i còng cïng ®­êng nÕu nh­ ®ã lµ n¬i cËu ®ang ®Õn.
 122)  SHAWN
-Our farm's on the way if that's where you're headed.
+N«ng tr¹i cña bän t«i còng cïng ®­êng nÕu nh­ ®ã lµ n¬i cËu ®ang ®Õn.
 53)  SHAWN
-{NormalB}{body-StandA}Ok, you ready?
+{NormalB}{body-StandA}§­îc råi, cËu s½n sµng ch­a?
 70)  SHAWN
-{NormalB}{body-StandA}Ok, you ready?
+{NormalB}{body-StandA}§­îc råi, cËu s½n sµng ch­a?
 54)  LEE
-{NormalC}{body-B}Let's do it.
+{NormalC}{body-B}H·y lµm nµo.
 71)  LEE
-{NormalC}{body-B}Let's do it.
+{NormalC}{body-B}H·y lµm nµo.
 55)  SHAWN
-{NormalC}One, two, {MadA}THREE!
+{NormalC}Mét, hai, {MadA}*BA*!
 69)  SHAWN
-{NormalC}One, two, {MadA}THREE!
+{NormalC}Mét, hai, {MadA}*BA*!
 56)  LEE
-{NormalC}{body-F}I won't leave you alone.
+{NormalC}{body-F}Ta sÏ kh«ng ®Ó con mét m×nh ®©u.
 79)  LEE
-{NormalC}{body-F}I won't leave you alone.
+{NormalC}{body-F}Ta sÏ kh«ng ®Ó con mét m×nh ®©u.
 138)  LEE
-{NormalC}{body-F}I won't leave you alone.
+{NormalC}{body-F}Ta sÏ kh«ng ®Ó con mét m×nh ®©u.
 57)  LEE
-{ThinkingB}Yeah, ok. [knows he wont find them] You come with me {HappyA}{body-B}and I'll take care of you until then.
+{ThinkingB}Yeah, ®­îc råi. [knows he wont find them] Con ®i víi ta {HappyA}{body-B}vµ ta sÏ ch¨m sãc cho con ®Õn lóc ®ã.
 78)  LEE
-{ThinkingB}Yeah, ok. [knows he wont find them] You come with me {HappyA}{body-B}and I'll take care of you until then.
+{ThinkingB}Yeah, ®­îc råi. [knows he wont find them] Con ®i víi ta {HappyA}{body-B}vµ ta sÏ ch¨m sãc cho con ®Õn lóc ®ã.
 139)  LEE
-{ThinkingB}Yeah, ok. [knows he wont find them] You come with me {HappyA}{body-B}and I'll take care of you until then.
+{ThinkingB}Yeah, ®­îc råi. [knows he wont find them] Con ®i víi ta {HappyA}{body-B}vµ ta sÏ ch¨m sãc cho con ®Õn lóc ®ã.
 58)  SHAWN
-{SadA}This sucks.
+{SadA}§iÒu nµy thËt tÖ.
 73)  SHAWN
-{SadA}This sucks.
+{SadA}§iÒu nµy thËt tÖ.
 140)  SHAWN
-{SadA}This sucks.
+{SadA}§iÒu nµy thËt tÖ.
 59)  LEE
-{SurpriseA}{body-B}What?
+{SurpriseA}{body-B}Sao?
 80)  LEE
-{SurpriseA}{body-B}What?
+{SurpriseA}{body-B}Sao?
 137)  LEE
-{SurpriseA}{body-B}What?
+{SurpriseA}{body-B}Sao?
 60)  CLEMENTINE
-{ThinkingA}{body-HandOnWrist}Should I stay?
+{ThinkingA}{body-HandOnWrist}Con cã nªn ë l¹i kh«ng?
 74)  CLEMENTINE
-{ThinkingA}{body-HandOnWrist}Should I stay?
+{ThinkingA}{body-HandOnWrist}Con cã nªn ë l¹i kh«ng?
 135)  CLEMENTINE
-{ThinkingA}{body-HandOnWrist}Should I stay?
+{ThinkingA}{body-HandOnWrist}Con cã nªn ë l¹i kh«ng?
 61)  SHAWN
-{AngryA}{body-A}Maaan...
+{AngryA}{body-A}Trêi ¹...
 77)  SHAWN
-{AngryA}{body-A}Maaan...
+{AngryA}{body-A}Trêi ¹...
 132)  SHAWN
-{AngryA}{body-A}Maaan...
+{AngryA}{body-A}Trêi ¹...
 62)  SHAWN
-{DisgustA}I can't go a quarter mile without another accident.
+{DisgustA}T«i kh«ng thÓ ®i mét phÇn t­ dÆm mµ kh«ng cã mét vô tai n¹n kh¸c.
 72)  SHAWN
-{DisgustA}I can't go a quarter mile without another accident.
+{DisgustA}T«i kh«ng thÓ ®i mét phÇn t­ dÆm mµ kh«ng cã mét vô tai n¹n kh¸c.
 133)  SHAWN
-{DisgustA}I can't go a quarter mile without another accident.
+{DisgustA}T«i kh«ng thÓ ®i mét phÇn t­ dÆm mµ kh«ng cã mét vô tai n¹n kh¸c.
 63)  CLEMENTINE
-{FearA}I don't want to sleep in the treehouse tonight, but {FearA}I don't know if I should leave. {ThinkingA}What if my parents come home?
+{FearA}Con kh«ng muèn ph¶i ngñ ë nhµ trªn c©y tèi nay, nh­ng {FearA}con kh«ng biÕt liÖu con cã nªn ®i hay kh«ng. {ThinkingA}NÕu nh­ cha mÑ con vÒ nhµ th× sao?
 76)  CLEMENTINE
-{FearA}I don't want to sleep in the treehouse tonight, but {FearA}I don't know if I should leave. {ThinkingA}What if my parents come home?
+{FearA}Con kh«ng muèn ph¶i ngñ ë nhµ trªn c©y tèi nay, nh­ng {FearA}con kh«ng biÕt liÖu con cã nªn ®i hay kh«ng. {ThinkingA}NÕu nh­ cha mÑ con vÒ nhµ th× sao?
 136)  CLEMENTINE
-{FearA}I don't want to sleep in the treehouse tonight, but {FearA}I don't know if I should leave. {ThinkingA}What if my parents come home?
+{FearA}Con kh«ng muèn ph¶i ngñ ë nhµ trªn c©y tèi nay, nh­ng {FearA}con kh«ng biÕt liÖu con cã nªn ®i hay kh«ng. {ThinkingA}NÕu nh­ cha mÑ con vÒ nhµ th× sao?
 64)  CLEMENTINE
-{HappyA}{body-HandsOpen}Maybe we can go find my mom and dad then?
+{HappyA}{body-HandsOpen}Lóc ®ã chóng ta cã thÓ ®i t×m mÑ vµ cha con ®­îc kh«ng?
 75)  CLEMENTINE
-{HappyA}{body-HandsOpen}Maybe we can go find my mom and dad then?
+{HappyA}{body-HandsOpen}Lóc ®ã chóng ta cã thÓ ®i t×m mÑ vµ cha con ®­îc kh«ng?
 134)  CLEMENTINE
-{HappyA}{body-HandsOpen}Maybe we can go find my mom and dad then?
+{HappyA}{body-HandsOpen}Lóc ®ã chóng ta cã thÓ ®i t×m mÑ vµ cha con ®­îc kh«ng?
 65)  LEE
-{ThinkingB}Well then I guess we shouldn't sit put.
+{ThinkingB}Chµ nÕu thÕ th× t«i nghÜ r»ng chóng ta kh«ng nªn ngåi yªn.
 91)  LEE
-{ThinkingB}Well then I guess we shouldn't sit put.
+{ThinkingB}Chµ nÕu thÕ th× t«i nghÜ r»ng chóng ta kh«ng nªn ngåi yªn.
 66)  SHAWN
-{FearB}{Body-A}Are you trying to get out of here? {NormalC}Because you should be. {FearA}Those things are all over the damn place.  {ThinkingA}I haven't seen anything as gnarly as this neighborhood {NormalB}since downtown Atlanta,{AngryA} fifteen miles back.
+{FearB}{Body-A}CËu cã tÝnh ra khái ®©y kh«ng? {NormalC}Bëi v× cËu nªn nh­ vËy. {FearA}Nh÷ng thø ®ã ë kh¾p mäi chç cña n¬i khØ giã nµy.  {ThinkingA}T«i ch­a thÊy thø g× tÖ ®Õn møc nh­ khu nµy {NormalB}tõ håi ë th«n d­íi cña Atlanta,{AngryA} n¨m m­¬i dÆm h­íng ng­îc l¹i.
 82)  SHAWN
-{FearB}{Body-A}Are you trying to get out of here? {NormalC}Because you should be. {FearA}Those things are all over the damn place.  {ThinkingA}I haven't seen anything as gnarly as this neighborhood {NormalB}since downtown Atlanta,{AngryA} fifteen miles back.
+{FearB}{Body-A}CËu cã tÝnh ra khái ®©y kh«ng? {NormalC}Bëi v× cËu nªn nh­ vËy. {FearA}Nh÷ng thø ®ã ë kh¾p mäi chç cña n¬i khØ giã nµy.  {ThinkingA}T«i ch­a thÊy thø g× tÖ ®Õn møc nh­ khu nµy {NormalB}tõ håi ë th«n d­íi cña Atlanta,{AngryA} n¨m m­¬i dÆm h­íng ng­îc l¹i.
 260)  SHAWN
-{FearB}{Body-A}Are you trying to get out of here? {NormalC}Because you should be. {FearA}Those things are all over the damn place.  {ThinkingA}I haven't seen anything as gnarly as this neighborhood {NormalB}since downtown Atlanta,{AngryA} fifteen miles back.
+{FearB}{Body-A}CËu cã tÝnh ra khái ®©y kh«ng? {NormalC}Bëi v× cËu nªn nh­ vËy. {FearA}Nh÷ng thø ®ã ë kh¾p mäi chç cña n¬i khØ giã nµy.  {ThinkingA}T«i ch­a thÊy thø g× tÖ ®Õn møc nh­ khu nµy {NormalB}tõ håi ë th«n d­íi cña Atlanta,{AngryA} n¨m m­¬i dÆm h­íng ng­îc l¹i.
 67)  SHAWN
-{NormalB}No doubt.
+{NormalB}Kh«ng nghi ngê g×.
 86)  SHAWN
-{NormalB}No doubt.
+{NormalB}Kh«ng nghi ngê g×.
 68)  SHAWN
 [pickup1][taken by surprise]{Body-A}{FearC}Whoashit!
 92)  SHAWN
 [pickup1][taken by surprise]{Body-A}{FearC}Whoashit!
 130)  LEE
-[pickup1] [having taken someone by surprise]{FearA}We're not going to hurt you.
+[pickup1] [having taken someone by surprise]{FearA}Chóng t«i kh«ng cã ý ®Þnh lµm h¹i.
 131)  LEE
-[pickup1] {HappyA}{Body-B}Hey!
+[pickup1] {HappyA}{Body-B}Nµy!
 141)  CLEMENTINE
-[pickup1] {SadA}I don't want to go out there.
+[pickup1] {SadA}Con kh«ng muèn ®i ra ngoµi ®ã.
 142)  LEE
-[pickup1] {ThinkingA}What's the matter?
+[pickup1] {ThinkingA}Cã vÊn ®Ò g× thÕ?
 143)  
-Ok, then stay.
+§­îc råi, vËy ë l¹i ®i.
 144)  
-Come on, it'll be fine.
+Coi nµo, sÏ æn mµ.
 145)  
-Those things are everywhere.
+Nh÷ng thø Êy ë kh¾p mäi n¬i.
 147)  LEE
-[pickup1] Come on, it'll be fine.
+[pickup1] Coi nµo, sÏ æn mµ.
 148)  CLEMENTINE
 [pickup1]
 149)  LEE
-[pickup1][semi-urgent-hushed, to clementine] {FearA}Come on.
+[pickup1][semi-urgent-hushed, to clementine] {FearA}Coi nµo.
 150)  LEE
-[pickup1] {ThinkingB}Let's go, it'll be fine.
+[pickup1] {ThinkingB}§i nµo, sÏ æn mµ.
 151)  LEE
-[pickup1]{ThinkingB} I'm not her dad. I'm...[thinking]
+[pickup1]{ThinkingB} T«i kh«ng ph¶i lµ cha c« bÐ. T«i lµ...[thinking]
 213)  LEE
-[pickup1]{ThinkingB} I'm not her dad. I'm...[thinking]
+[pickup1]{ThinkingB} T«i kh«ng ph¶i lµ cha c« bÐ. T«i lµ...[thinking]
 152)  
-...her babysitter.
+...ng­êi tr«ng trÎ cña c« bÐ.
 214)  
-...her babysitter.
+...ng­êi tr«ng trÎ cña c« bÐ.
 154)  
-...a neighbor.
+...mét ng­êi hµng xãm.
 217)  
-...a neighbor.
+...mét ng­êi hµng xãm.
 155)  
-...just some guy.
+...chØ lµ mét ng­êi qua ®­êng.
 220)  
-...just some guy.
+...chØ lµ mét ng­êi qua ®­êng.
 156)  LEE
-[pickup1][lead in; I'm...] {HappyA}{Body-F}...her babysitter. {FearA}
+[pickup1][lead in; I'm...] {HappyA}{Body-F}...ng­êi tr«ng trÎ cña c« bÐ. {FearA}
 216)  LEE
-[pickup1][lead in; I'm...] {HappyA}{Body-F}...her babysitter. {FearA}
+[pickup1][lead in; I'm...] {HappyA}{Body-F}...ng­êi tr«ng trÎ cña c« bÐ. {FearA}
 157)  LEE
-[pickup1] {ThinkingA}Her parents are out of town.
+[pickup1] {ThinkingA}Cha mÑ c« bÐ hiÖn kh«ng cã ë ®©y.
 163)  LEE
-[pickup1] {ThinkingA}Her parents are out of town.
+[pickup1] {ThinkingA}Cha mÑ c« bÐ hiÖn kh«ng cã ë ®©y.
 215)  LEE
-[pickup1] {ThinkingA}Her parents are out of town.
+[pickup1] {ThinkingA}Cha mÑ c« bÐ hiÖn kh«ng cã ë ®©y.
 219)  LEE
-[pickup1] {ThinkingA}Her parents are out of town.
+[pickup1] {ThinkingA}Cha mÑ c« bÐ hiÖn kh«ng cã ë ®©y.
 158)  LEE
-[pickup1]On my way from nowhere in particular and found this little girl, alone.
+[pickup1]§ang trªn ®­êng ®i tõ mét n¬i vµ t×m thÊy c« bÐ nµy, ®¬n ®éc.
 159)  LEE
-[pickup1[Lead in, "I'm..."] ...just passing through.
+[pickup1[Lead in, "I'm..."] ...chØ ®i ngang qua ®©y th«i.
 160)  LEE
-[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...a neighbor.
+[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...mét ng­êi hµng xãm.
 218)  LEE
-[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...a neighbor.
+[pickup1[Lead in, "I'm..."] {Body-F}{NormalC}...mét ng­êi hµng xãm.
 161)  LEE
-[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...just some guy.
+[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...chØ lµ mét ng­êi qua ®­êng.
 221)  LEE
-[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...just some guy.
+[pickup1[Lead in, "I'm..."] {NormalB}{Body-F}...chØ lµ mét ng­êi qua ®­êng.
 162)  SHAWN
-[pickup1] [hushed]{ThinkingA}She's alone?
+[pickup1] [hushed]{ThinkingA}C« bÐ chØ cã mét m×nh?
 222)  SHAWN
-[pickup1] [hushed]{ThinkingA}She's alone?
+[pickup1] [hushed]{ThinkingA}C« bÐ chØ cã mét m×nh?
 164)  SHAWN
-[pickup1] {ThinkingB}{Body-A}We shouldn't be out in the open like this.
+[pickup1] {ThinkingB}{Body-A}Chóng ta kh«ng nªn ë ngoµi nh­ thÕ nµy.
 165)  SHAWN
-[pickup1][nervous, out in the open]{Body-A}{ThinkingA}No idea. {FearA}So you've seen them then?
+[pickup1][nervous, out in the open]{Body-A}{ThinkingA}ChÞu. {FearA}CËu thÊy chóng råi sao?
 166)  LEE
-[pickup1] [keeping down, zombies around]{DisgustA}You could say that.
+[pickup1] [keeping down, zombies around]{DisgustA}CËu cã thÓ nãi nh­ thÕ.
 167)  LEE
-[pickup1] [hushed, nervous, zombies about]{ThinkingA}{Body-F}Lee. This is {NormalC}Clementine. [having just met her]
+[pickup1] [hushed, nervous, zombies about]{ThinkingA}{Body-F}Lee. §©y lµ {NormalC}Clementine. [having just met her]
 168)  SHAWN
-[pickup1] [filling in the blank]{Body-A}{ThinkingA}...a good Samaritan?
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...mét ng­êi Samaritan tèt bông?
 226)  SHAWN
-[pickup1] [filling in the blank]{Body-A}{ThinkingA}...a good Samaritan?
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...mét ng­êi Samaritan tèt bông?
 270)  SHAWN
-[pickup1] [filling in the blank]{Body-A}{ThinkingA}...a good Samaritan?
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...mét ng­êi Samaritan tèt bông?
 274)  SHAWN
-[pickup1] [filling in the blank]{Body-A}{ThinkingA}...a good Samaritan?
+[pickup1] [filling in the blank]{Body-A}{ThinkingA}...mét ng­êi Samaritan tèt bông?
 169)  LEE
-[pickup1][hushed, nervous]{Body-F}{FearB}Do you know what the hell this is?
+[pickup1][hushed, nervous]{Body-F}{FearB}CËu cã biÕt chuyÖn qu¸i g× ®ang diÔn ra kh«ng?
 170)  LEE
-[pickup1] {body-F}{NormalC}Yeah, a good Samaritan.
+[pickup1] {body-F}{NormalC}Yeah, mét ng­êi Samaritan tèt bông.
 225)  LEE
-[pickup1] {body-F}{NormalC}Yeah, a good Samaritan.
+[pickup1] {body-F}{NormalC}Yeah, mét ng­êi Samaritan tèt bông.
 269)  LEE
-[pickup1] {body-F}{NormalC}Yeah, a good Samaritan.
+[pickup1] {body-F}{NormalC}Yeah, mét ng­êi Samaritan tèt bông.
 275)  LEE
-[pickup1] {body-F}{NormalC}Yeah, a good Samaritan.
+[pickup1] {body-F}{NormalC}Yeah, mét ng­êi Samaritan tèt bông.
 171)  LEE
 [pickup1][hushed, concilliatory] {ThinkingA}Yeah.
 224)  LEE
 [pickup1][hushed, concilliatory] {ThinkingA}Yeah.
 172)  SHAWN
-[pickup1][hushed] {ThinkingB}{Body-A}Some guy?
+[pickup1][hushed] {ThinkingB}{Body-A}Ng­êi qua ®­êng?
 223)  SHAWN
-[pickup1][hushed] {ThinkingB}{Body-A}Some guy?
+[pickup1][hushed] {ThinkingB}{Body-A}Ng­êi qua ®­êng?
 173)  CLEMENTINE
-[pickup1][hushed but unsure and worried] {SadA}I...
+[pickup1][hushed but unsure and worried] {SadA}Con...
 174)  CLEMENTINE
 [pickup1][covered mouth; a zombie is wandering by your hiding place]
 175)  LEE
-[pickup1][hushed] {Body-F}{ThinkingA}What do you want to do?
+[pickup1][hushed] {Body-F}{ThinkingA}CËu muèn lµm g×?
 176)  SHAWN
-[pickup1][hushed]{Body-A}{ThinkingA}Let's get going. {FearA}Staying put for too long is a mistake.
+[pickup1][hushed]{Body-A}{ThinkingA}H·y ®i th«i. {FearA}Cø ë yªn m·i mét chç lµ mét sai lÇm.
 177)  SHAWN
-[pickup1][urgent! super hushed though] {SurprisedA}Oh fuck! {FearD}We gotta get out of here!
+[pickup1][urgent! super hushed though] {SurprisedA}¤i mÑ nã! {FearD}Chóng ta ph¶i ra khái ®©y!
 178)  SHAWN
-[pickup1][super hushed, urgent] {AngryB}Push!
+[pickup1][super hushed, urgent] {AngryB}§Èy!
 179)  LEE
 [hushed, exerted push]{Body-B}
 180)  SHAWN
 [pickup1] [hushed, exerted push]
 181)  SHAWN
-[pickup1][super hushed] {Body-A}{FearA}They saw that! {FearB}Keep pushing!
+[pickup1][super hushed] {Body-A}{FearA}Chóng thÊy råi! {FearB}TiÕp tôc ®Èy!
 182)  LEE
 [hushed, exerted push2]{Body-B}
 183)  CLEMENTINE
@@ -401,31 +401,31 @@ Those things are everywhere.
 184)  SHAWN
 [pickup1] [hushed, exerted push2]{Body-A}
 185)  SHAWN
-[pickup1][super urgent] {Body-A}{FearC}Get in!
+[pickup1][super urgent] {Body-A}{FearC}Vµo mau!
 186)  SHAWN
-[pickup1] [driving away, just escaped by the skin of your teeth]{SurprisedA}{Body-A}As babysitter's go; {HappyA}I'd say her parents owe you a tip.
+[pickup1] [driving away, just escaped by the skin of your teeth]{SurprisedA}{Body-A}§èi víi mét ng­êi gi÷ trÎ; {HappyA}T«i cã thÓ nãi r»ng cha mÑ c« bÐ nî cËu mét kho¶n phÝ ®Êy.
 187)  SHAWN
-[pickup1] [driving away, just escaped by the skin of your teeth]You know any of those guys back there?
+[pickup1] [driving away, just escaped by the skin of your teeth]CËu cã biÕt ai trong sè nh÷ng ng­êi ®»ng sau kia kh«ng?
 188)  LEE
-[pickup1][driving away, just escaped by the skin of your teeth] Why would I?
+[pickup1][driving away, just escaped by the skin of your teeth] T¹i sao t«i ph¶i biÕt?
 189)  SHAWN
-[pickup1] [driving away, just escaped by the skin of your teeth] {FearA}{Body-A}Were any of those guys neighbors too?
+[pickup1] [driving away, just escaped by the skin of your teeth] {FearA}{Body-A}Cã ai trong sè hä còng lµ hµng xãm?
 190)  SHAWN
-[pickup1][driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}For just "some guy," it {HappyA}seems like you've saved {HappyB}a bunch of lives today.
+[pickup1][driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}§èi víi "mét ng­êi qua ®­êng," it {HappyA}cã vÎ nh­ cËu ®· cøu ®­îc {HappyB}kh¸ nhiÒu m¹ng sèng h«m nay.
 191)  SHAWN
-[pickup1] [driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Those guys? [back there] {ThinkingB}NOT good Samaritans.
+[pickup1] [driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Hä? [back there] {ThinkingB}*Kh«ng ph¶i* lµ ng­êi Samaritan tèt bông.
 192)  SHAWN
-[pickup1] [quietish] Did you see any of those things? One of them just got our buddy, Chet.
+[pickup1] [quietish] CËu cã thÊy ai trong nh÷ng thø Êy kh«ng? Mét trong sè bän chóng võa b¾t ®­îc b¹n cña bän t«i, Chet.
 193)  MITCHELL
-[quietish] Officer Mitchell.
+[quietish] SÜ quan Mitchell.
 194)  SHAWN
-[pickup1][quietish] My name's Shawn, Shawn Greene. This is Andre--
+[pickup1][quietish] T«i tªn lµ Shawn, Shawn Greene. §©y lµ Andre--
 195)  
-No.
+Kh«ng.
 196)  
-A lot, in the forest.
+NhiÒu l¾m, ë trong rõng.
 197)  
-Just a girl, inside.
+ChØ cã mét c« g¸i, ë bªn trong.
 198)  
 [Remain Silent]
 227)  
@@ -433,114 +433,114 @@ Just a girl, inside.
 236)  
 [Remain Silent]
 199)  MITCHELL
-Not a bit though?
+Kh«ng dï chØ mét Ýt?
 200)  LEE
-[pickup3] [quietish]No, not for a while.
+[pickup3] [quietish]Kh«ng, kh«ng ®­îc mét lóc råi.
 201)  LEE
-[pickup3] [quietish] My leg, yeah. It's hurt pretty bad.
+[pickup3] [quietish] Ch©n t«i, yeah. Nã bÞ th­¬ng kh¸ tÖ.
 202)  LEE
-[pickup3] [quietish] No; definitely not.
+[pickup3] [quietish] Kh«ng; ch¾c ch¾n kh«ng.
 203)  MITCHELL
-Looks like you cut the shit out of yourself.
+Cã vÎ nh­ cËu võa c¾t b¶n th©n cËu mét c¸ch khØ giã nhØ.
 204)  LEE
-[pickup3] [quietish] I saw a lot in the forest, but that was a while ago.
+[pickup3] [quietish] T«i thÊy nhiÒu l¾m ë trong rõng, nh­ng ®ã lµ mét lóc tr­íc råi.
 205)  MITCHELL
-[quietish]Yeah, one we're looking for is still in the neighborhood.
+[quietish]Yeah, ng­êi mµ bän t«i t×m vÉn ®ang ë trong khu nµy.
 206)  SHAWN
-[pickup1] [quietish] Oh shit! You hurt your leg pretty bad.
+[pickup1] [quietish] ¤i khØ thËt! Ch©n cËu bÞ th­¬ng tÖ qu¸.
 210)  SHAWN
-[pickup1] [quietish] Oh shit! You hurt your leg pretty bad.
+[pickup1] [quietish] ¤i khØ thËt! Ch©n cËu bÞ th­¬ng tÖ qu¸.
 211)  SHAWN
-[pickup1] [quietish] Oh shit! You hurt your leg pretty bad.
+[pickup1] [quietish] ¤i khØ thËt! Ch©n cËu bÞ th­¬ng tÖ qu¸.
 272)  SHAWN
-[pickup1] [quietish] Oh shit! You hurt your leg pretty bad.
+[pickup1] [quietish] ¤i khØ thËt! Ch©n cËu bÞ th­¬ng tÖ qu¸.
 207)  LEE
-[pickup3] [quietish] I just saw a girl, inside that house.
+[pickup3] [quietish] T«i chØ thÊy mét c« g¸i, ë trong ng«i nhµ ®ã.
 208)  MITCHELL
-Nah, wasn't him.
+Nah, kh«ng ph¶i cËu Êy.
 209)  MITCHELL
-We'll take that as a "no" then...
+Chóng t«i sÏ coi nh­ ®ã lµ "kh«ng" vËy...
 273)  MITCHELL
-We'll take that as a "no" then...
+Chóng t«i sÏ coi nh­ ®ã lµ "kh«ng" vËy...
 212)  SHAWN
-[pickup1] [hushed] Look, help us find the thing that got our buddy and we'll take you and your daughter down to my dad's farm to safety. He should be able to fix your leg up, too.
+[pickup1] [hushed] Nghe nµy, gióp bän t«i t×m thø ®· b¾t b¹n cña bän t«i vµ bän t«i sÏ ®­a cËu vµ con g¸i cËu xuèng n«ng tr¹i cña cha t«i cho an toµn. ¤ng Êy còng cã thÓ ch÷a ch©n cËu n÷a.
 228)  SHAWN
-[pickup1] It's...CHET!
+[pickup1] §ã lµ...CHET!
 229)  MITCHELL
-Whoever you are, let's get a move on.
+Dï cËu lµ ai, h·y ®i ngay th«i.
 230)  SHAWN
-[pickup3][quietish] Oh shit!!
+[pickup3][quietish] ¤i mÑ nã!!
 231)  MITCHELL
-LET'S GO! GET TO MY CAR!
+*§i th«i*! *Tíi xe cña t«i*!
 232)  LEE
-[pickup3][quietish] We just w--
+[pickup3][quietish] Chóng t«i chØ m--
 233)  MITCHELL
-GO!
+*§I*!
 234)  CHET
-{Body-Handships}{SadA}I ain't never gettin' home to mama at this rate.
+{Body-Handships}{SadA}M×nh sÏ ch¼ng bao giê vÒ ®­îc nhµ víi mÑ nÕu cø thÕ nµy.
 235)  CHET
-{AngryA}It's hot dish night.
+{AngryA}Tèi nay lµ tèi mãn nãng.
 237)  
-I don't know...
+Ta kh«ng biÕt...
 238)  
-They won't. Let's go.
+Hä kh«ng ®©u. §i th«i.
 239)  
-I won't leave you alone.
+Ta sÏ kh«ng ®Ó con mét m×nh.
 240)  LEE
-[pickup3] {body-F}{SadA}They won't. {NormalC}We should go.
+[pickup3] {body-F}{SadA}Hä kh«ng ®©u. {NormalC}Chóng ta nªn ®i.
 241)  LEE
-[pickup3] {SadA}I won't leave you alone, ok?{Body-B}
+[pickup3] {SadA}Ta sÏ kh«ng ®Ó con mét m×nh, ®­îc chø?{Body-B}
 242)  CLEMENTINE
-[pickup1] {body-handonwrist}{SadA}Then they'll find me, right?
+[pickup1] {body-handonwrist}{SadA}Råi hä sÏ t×m thÊy con, ph¶i kh«ng?
 243)  CLEMENTINE
-[pickup1] {sadA}{body-handonwrist}Let's go somewhere safe that's close, {ThinkingA}ok?
+[pickup1] {sadA}{body-handonwrist}H·y ®i n¬i nµo ®ã an toµn vµ gÇn, {ThinkingA}®­îc kh«ng?
 248)  CLEMENTINE
-[pickup1] {sadA}{body-handonwrist}Let's go somewhere safe that's close, {ThinkingA}ok?
+[pickup1] {sadA}{body-handonwrist}H·y ®i n¬i nµo ®ã an toµn vµ gÇn, {ThinkingA}®­îc kh«ng?
 244)  LEE
-[pickup1] {HappyA}{body-F}That's a good idea.{Body-B}
+[pickup1] {HappyA}{body-F}§ã lµ mét ý hay.{Body-B}
 247)  LEE
-[pickup1] {HappyA}{body-F}That's a good idea.{Body-B}
+[pickup1] {HappyA}{body-F}§ã lµ mét ý hay.{Body-B}
 249)  LEE
-[pickup1] {HappyA}{body-F}That's a good idea.{Body-B}
+[pickup1] {HappyA}{body-F}§ã lµ mét ý hay.{Body-B}
 251)  LEE
-[pickup1] {HappyA}{body-F}That's a good idea.{Body-B}
+[pickup1] {HappyA}{body-F}§ã lµ mét ý hay.{Body-B}
 266)  LEE
-[pickup1] {HappyA}{body-F}That's a good idea.{Body-B}
+[pickup1] {HappyA}{body-F}§ã lµ mét ý hay.{Body-B}
 245)  CLEMENTINE
-[pickup1] {body-handonwrist}{SadA}Neither do I.
+[pickup1] {body-handonwrist}{SadA}Con còng kh«ng.
 246)  LEE
-[pickup3] {body-F}{ThinkingA}I don't know...
+[pickup3] {body-F}{ThinkingA}Ta kh«ng biÕt...
 250)  CLEMENTINE
-[pickup1] {body-handonwrist}{SadA}I can stay with you until they find me.
+[pickup1] {body-handonwrist}{SadA}Con cã thÓ ë víi chó ®Õn khi hä t×m thÊy con.
 267)  CLEMENTINE
-[pickup1] {body-handonwrist}{SadA}I can stay with you until they find me.
+[pickup1] {body-handonwrist}{SadA}Con cã thÓ ë víi chó ®Õn khi hä t×m thÊy con.
 252)  CHET
-{Body-A}{FearB}DON'T EAT US!!!
+{Body-A}{FearB}*§õng ¨n bän t«i*!!!
 253)  CHET
-[quiet] {Body-A}{SadA}Thanks for uh, {ThinkingA}not doing that. {HappyA}Eatin' us, that is.
+[quiet] {Body-A}{SadA}C¶m ¬n v× ®· êm, {ThinkingA}kh«ng lµm vËy. {HappyA}¡n bän t«i, ý t«i lµ thÕ.
 268)  CHET
-[quiet] {Body-A}{SadA}Thanks for uh, {ThinkingA}not doing that. {HappyA}Eatin' us, that is.
+[quiet] {Body-A}{SadA}C¶m ¬n v× ®· êm, {ThinkingA}kh«ng lµm vËy. {HappyA}¡n bän t«i, ý t«i lµ thÕ.
 254)  
-What are you doing?
+C¸c cËu ®ang lµm g× vËy?
 255)  
-What is going on?
+Cã chuyÖn g× ®ang diÔn ra vËy?
 256)  
-We're looking for help.
+Chóng t«i cÇn gióp ®ì.
 257)  SHAWN
-[pickup1] {ThinkingA}{Body-A}Trying to get home, {fearA}this neighborhood is a disaster.
+[pickup1] {ThinkingA}{Body-A}Cè g¾ng trë vÒ nhµ, {fearA}khu nµy ®óng lµ mét th¶m häa.
 258)  LEE
-[pickup3][hushed] {Body-F}What are you doing?
+[pickup3][hushed] {Body-F}C¸c cËu ®ang lµm g× vËy?
 259)  LEE
-[pickup3][hushed] {Body-F}We need help.
+[pickup3][hushed] {Body-F}Chóng t«i cÇn gióp ®ì.
 261)  CHET
-{HappyA}{Body-A}I'm Chet.
+{HappyA}{Body-A}T«i lµ Chet.
 262)  CHET
-{Body-A}{SurprisedA}Them monsters comin'! {FearB}WE GOTTA GO!
+{Body-A}{SurprisedA}Lï qu¸i vËt Êy ®Õn k×a! {FearB}*Chóng ta ph¶i ®i th«i*!
 263)  SHAWN
-[pickup1] {FearA}Lee, quick! {FearB}Let's go!
+[pickup1] {FearA}Lee, mau lªn! {FearB}§i th«i!
 264)  
-Car
+Xe
 265)  
-Push
+§Èy
 271)  
-Wait
+Chê

@@ -1,297 +1,297 @@
 1)  
-A man can't be too careful in the choice of his enemies.
+Mét ng­êi ®µn «ng kh«ng thÓ qu¸ cÈn thËn trong sù lùa chän kÎ thï cña anh Êy.
 2)  
-Happiness is a choice that requires effort at times.
+H¹nh phóc lµ mét lùa chän mµ ®«i khi ®ßi hái nç lùc.
 3)  
-Given a choice between grief and nothing, I'd choose grief.
+NÕu ph¶i chän gi÷a ®au th­¬ng vµ kh«ng g× c¶, t«i sÏ chän ®au th­¬ng.
 4)  
-Where there is no choice, we do well to make no difficulty.
+Khi kh«ng cßn lùa chän nµo kh¸c, chóng ta lµm tèt ®Ó v­ît qua khã kh¨n.
 5)  
-The hardest hit, as everywhere, are those who have no choice.
+§ßn ®au nhÊt, nh­ ë mäi n¬i, lµ nh÷ng kÎ kh«ng cã sù lùa chän.
 6)  
-You seem a little paranoid
+B¹n cã vÎ h¬i ho¶ng lo¹n
 7)  
-You seem a little down
+B¹n cã vÎ ñ rò
 8)  
-The officer doesn't like you very much
+Viªn sÜ quan kh«ng thÝch b¹n l¾m
 9)  
-Guess you have nothing to say
+Ch¾c lµ b¹n kh«ng cã g× ®Ó nãi
 10)  
-You were polite to the deputy.
+B¹n ®· th©n thiÖn víi viªn sÜ quan.
 11)  
-CHOICE:  The deputy thinks you're being defensive.
+Lùa Chän:  Viªn sÜ quan nghÜ r»ng b¹n khÐp kÝn.
 12)  
-CHOICE:  The deputy thought you were polite.
+Lùa Chän:  Viªn sÜ quan nghÜ r»ng b¹n ®· lÞch sù.
 13)  
-CHOICE:  You played it cool.
+Lùa Chän:  B¹n lµm ra vÎ.
 14)  
-You blew him off.
+B¹n mÆc kÖ tr­íc c©u hái.
 15)  
-CHOICE:  You blew him off.
+Lùa Chän:  B¹n mÆc kÖ tr­íc c©u hái.
 16)  
-CHOICE:  The deputy doesn't like you much.
+Lùa Chän:  Viªn sÜ quan kh«ng thÝch b¹n l¾m.
 17)  
-CHOICE:  You blew him off again.
+Lùa Chän:  B¹n mÆc kÖ c©u hái mét lÇn n÷a.
 18)  
-CHOICE:  You chose silence.
+Lùa Chän:  B¹n chän sù im lÆng.
 19)  
-She noticed you were concerned.
+C« Êy chó ý r»ng b¹n cã lo l¾ng.
 20)  
-CHOICE:  You showed a little suspicion.
+Lùa Chän:  B¹n thÓ hiÖn mét chót nghi ngê.
 21)  
-CHOICE:  You chose to reassure her.
+Lùa Chän:  B¹n chän an ñi.
 22)  
-CHOICE:  You snooped around a little.
+Lùa Chän:  B¹n r×nh mß xung quanh mét chót.
 23)  
-CHOICE:  You found out a bit more about the family who lived here.
+Lùa Chän:  B¹n biÕt thªm mét chóng vÒ gia ®×nh tõng sèng ë ®©y.
 24)  
-CHOICE:  Clementine is a little afraid of you.
+Lùa Chän:  Clementine cã phÇn e ng¹i b¹n.
 25)  
-CHOICE:  You showed 
-compassion for Clementine.
+Lùa Chän:  B¹n thÓ hiÖn 
+sù ®ång c¶m víi Clementine.
 26)  
-CHOICE:  You chose something.
+Lùa Chän:  B¹n chän mét thø g× ®ã.
 27)  
-CHOICE:  You chose the safety of daylight.
+Lùa Chän:  B¹n chän sù an toµn cña ¸nh s¸ng ban ngµy.
 28)  
-CHOICE:  You chose to wait until dark.
+Lùa Chän:  B¹n chän chê ®îi ®Õn khi trêi tèi.
 29)  
-You lied to Shawn.
+B¹n nãi dèi Shawn.
 127)  
-You lied to Shawn.
+B¹n nãi dèi Shawn.
 30)  
-You told a white lie to make things easier.
+B¹n nãi mét lêi nãi dèi v« h¹i ®Ó lµm mäi chuyÖn dÔ dµng h¬n.
 31)  
-CHOICE:  You were truthful.
+Lùa Chän:  B¹n ®· thµnh thËt.
 32)  
-Shawn drew his own conclusion.
+Shawn tù ®­a ra kÕt luËn.
 33)  
-CHOICE: You told a white lie.
+Lùa Chän: B¹n nãi mét lêi nãi dèi v« h¹i.
 34)  
-CHOICE:  You lied to Shawn.
+Lùa Chän:  B¹n nãi dèi Shawn.
 35)  
-CHOICE:  You were friendly to Hershel.
+Lùa Chän:  B¹n th©n thiÖn víi Hershel.
 36)  
-CHOICE:  You were surly.
+Lùa Chän:  B¹n céc c»n.
 37)  
-CHOICE:  You ignored Hershel.
+Lùa Chän:  B¹n mÆc kÖ Hershel.
 38)  
-CHOICE:  You told the truth.
+Lùa Chän:  B¹n nãi sù thËt.
 39)  
-CHOICE:  Hershel doubts your honesty.
+Lùa Chän:  Hershel nghi ngê sù trung thùc cña b¹n.
 40)  
-CHOICE:  You lied to Hershel.
+Lùa Chän:  B¹n nãi dèi Hershel.
 41)  
-CHOICE:  You dodged the question.
+Lùa Chän:  B¹n mÆc kÖ tr­íc c©u hái.
 42)  
-CHOICE: You chose to save Duck.
+Lùa Chän: B¹n chän cøu Duck.
 43)  
-CHOICE: You stood there, frozen in fear.
+Lùa Chän: B¹n ®øng ®©y, cøng ®¬ v× sî h·i.
 44)  
-CHOICE: You tried to blame Kenny.
+Lùa Chän: B¹n cè ®æ téi cho Kenny.
 45)  
-CHOICE: You tried to shield Kenny from blame.
+Lùa Chän: B¹n cè ®ì cho Kenny khái téi lçi.
 46)  
-CHOICE: You took the blame on yourself.
+Lùa Chän: B¹n chän ®ç lçi cho b¶n th©n.
 47)  
-CHOICE: Hershel doesn't blame you anyway.
+Lùa Chän: Hershel còng kh«ng ®æ lçi cho b¹n.
 48)  
-CHOICE: You chose to save Shawn.
+Lùa Chän: B¹n chän cøu Shawn.
 49)  
-CHOICE: You chose to be curious.
+Lùa Chän: B¹n chän trë nªn tß mß.
 50)  
-CHOICE: You chose to blow off the question.
+Lùa Chän: B¹n chän tr¸nh nÐ c©u hái.
 51)  
-CHOICE: You chose to joke about it.
+Lùa Chän: B¹n chän ®ïa giìn vÒ nã.
 52)  
-CHOICE: You chose to be silent.
+Lùa Chän: B¹n chän sù im lÆng.
 53)  
-Hershel knows your name.
+Hershel biÕt tªn b¹n.
 54)  
-Hershel will remember that.
+Hershel sÏ nhí ®iÒu ®ã.
 56)  
-Hershel will remember that.
+Hershel sÏ nhí ®iÒu ®ã.
 55)  
-Hershel believes you.
+Hershel tin b¹n.
 57)  
-Hershel made note of that.
+Hershel ghi chó ®iÒu ®ã.
 58)  
-Hershel doubts you.
+Hershel nghi ngê b¹n.
 59)  
-You didn't answer his question.
+B¹n kh«ng tr¶ lêi c©u hái cña «ng Êy.
 60)  
-He noticed what you said.
+¤ng Êy ®Ó ý nh÷ng g× b¹n ®· nãi.
 61)  
 Lilly will remember what you called her.
 62)  
-Lilly noticed what you said.
+Lilly ®Ó ý nh÷ng g× b¹n ®· nãi.
 63)  
-Kenny will remember your loyalty.
+Kenny sÏ nhí sù trung thµnh cña b¹n.
 64)  
-Kenny noticed that.
+Kenny ®Ó ý ®iÒu nµy.
 65)  
-Kenny noticed you didn't have his back.
+Kenny ®Ó ý r»ng b¹n kh«ng vÒ phÝa anh Êy.
 66)  
-You drew Larry's attention to Clementine.
+B¹n lÊy sù chó ý cña Larry vµo Clementine.
 67)  
-Clementine was hurt by that.
+Clementine bÞ th­¬ng bëi viÖc nµy.
 68)  
-Clementine understood.
+Clementine hiÓu.
 69)  
-Clementine noticed you ignored her.
+Clementine ®Ó ý r»ng b¹n ®ang lê c« bÐ ®i.
 70)  
 TEST 5 SECOND DELAY
 71)  
-Hershel will definitely remember that.
+Hershel sÏ ch¾c ch¾n nhí ®iÒu ®ã.
 72)  
-Shawn thinks you're the babysitter now.
+Shawn nghÜ r»ng b¹n lµ ng­êi tr«ng trÎ.
 73)  
-Shawn noticed what you said.
+Shawn ®Ó ý nh÷ng g× b¹n ®· nãi.
 74)  
-Clementine is really upset now.
+Clementine trë nªn rÊt bùc béi.
 75)  
-You helped Clementine calm down a little.
+B¹n gióp Clementine b×nh tÜnh h¬n mét chót.
 76)  
-The trooper heard that.
+Viªn sÜ quan b¾t nghe thÊy ®iÒu ®ã.
 77)  
-The trooper picked up on that.
+Viªn sÜ quan b¾t chuyÖn vÒ ®iÒu ®ã.
 78)  
-Clem will remember you protected her.
+Clem sÏ nhí r»ng b¹n ®· b¶o vÖ c« bÐ.
 79)  
-Clementine will remember you didn't save her.
+Clementine sÏ nhí r»ng b¹n kh«ng cøu c« bÐ.
 80)  
 Hi.  There's a logic thingie here that gets set to Clem Is Good.  Does that mean anything?
 81)  
-You checked on Clementine.
+B¹n kiÓm tra Clementine.
 82)  
-You took care of Clementine.
+B¹n ch¨m lo cho Clementine.
 83)  
-Kenny appreciates your concern for Duck.
+Kenny tr©n träng sù quan t©m cña b¹n dµnh cho Duck.
 84)  
-Carley will remember you said that.
+Carley sÏ nhí r»ng b¹n ®· nãi thÕ.
 85)  
-Carley noticed your concern.
+Carley chó ý sù quan t©m cña b¹n.
 86)  
-Kenny learned something about you.
+Kenny biÕt ®­îc vµi thø vÒ b¹n.
 87)  
-Kenny noticed your silence.
+Kenny ®Ó ý sù im lÆng cña b¹n.
 88)  
-You yelled at Carley.
+B¹n la Carley.
 89)  
-Carley accepts your decision.
+Carley ®ång ý víi quyÕt ®Þnh cña b¹n.
 90)  
-You helped the girl.
+B¹n gióp ®ì c« g¸i.
 91)  
-You refused the girl's request.
+B¹n tõ chèi yªu cÇu cña c« g¸i.
 92)  
-You chose to save Doug
+B¹n chän cøu Doug
 93)  
-You chose to save Carley.
+B¹n chän cøu Carley.
 94)  
-The officer picked up on that.
+Viªn sÜ quan b¾t chuyÖn vÒ ®iÒu ®ã.
 95)  
-The deputy picked up on that.
+Viªn sÜ quan b¾t chuyÖn vÒ ®iÒu ®ã .
 96)  
-The officer tried to fill in the silence.
+Viªn sÜ quan cè lÊp ®Çy sù im lÆng.
 97)  
-Carley will remember you trusted her.
+Carley sÏ nhí r»ng b¹n kh«ng tin c« Êy.
 98)  
-Carley will remember you didn't trust her.
+Carley sÏ nhí r»ng b¹n kh«ng tin c« Êy.
 99)  
-Clem feels hopeful about seeing her parents.
+Clem c¶m thÊy ®Çy hy väng vÒ viÖc gÆp l¹i cha mÑ.
 100)  
-Clementine is hopeful.
+Clementine ®Çy hy väng.
 101)  
-Clementine is worried.
+Clementine lo l¾ng.
 102)  
-She wonders why you're not talking.
+C« Êy th¾c m¾c t¹i sao b¹n kh«ng nãi.
 103)  
-She'll remember you were nice to her.
+C« Êy sÏ nhí r»ng b¹n ®èi xö tèt víi c« Êy.
 104)  
-You chose to save Shawn.
+B¹n chän cøu Shawn.
 105)  
-You chose to save Duck.
+B¹n chän cøu Duck.
 106)  
-You made no choice.
+B¹n kh«ng cã lùa chän.
 148)  
-You made no choice.
+B¹n kh«ng cã lùa chän.
 107)  
-You took the blame on yourself.
+B¹n nhËn hÕt lçi vÒ b¶n th©n.
 108)  
-You defended Kenny.
+B¹n biÖn b¹ch cho Kenny.
 109)  
-You blamed Kenny.
+B¹n ®ç lçi cho Kenny.
 110)  
-Hershel doesn't blame you anyway.
+Hershel kh«ng ®æ lçi cho b¹n.
 111)  
-Clementine is okay.
+Clementine æn.
 112)  
-You chose something.
+B¹n chän mét thø g× ®ã.
 113)  
-The officer thinks you're being defensive.
+Viªn sÜ quan nghÜ r»ng b¹n khÐp kÝn.
 114)  
-You blew him off again.
+B¹n mÆc kÖ «ng Êy mét lÇn n÷a.
 115)  
-The officer thought you were polite.
+Viªn sÜ quan nghÜ r»ng b¹n ®· lÞch sù.
 116)  
-The officer noticed your silence.
+Viªn sÜ quan ®Ó ý sù im lÆng cña b¹n.
 117)  
-You played it cool.
+B¹n lµm ra vÎ.
 118)  
-The deputy doesn't like you much.
+Ng­êi sÜ quan kh«ng thÝch b¹n l¾m.
 119)  
-You chose to be curious.
+B¹n chän sù tß mß.
 120)  
-You chose to blow off the question.
+B¹n chän mÆc kÖ tr­íc c©u hái.
 121)  
-You chose to joke about it.
+B¹n chän ®ïa giìn vÒ ®iÒu ®ã.
 122)  
-You chose to be silent.
+B¹n chän sù im lÆng.
 123)  
-Clementine seems afraid.
+Clementine cã vÎ sî sÖt.
 124)  
-You made Clementine feel better.
+B¹n lµm cho Clementine c¶m thÊy kh¸ h¬n.
 125)  
-You chose the safety of daylight.
+B¹n chän sù an toµn cña ¸nh s¸ng ban ngµy.
 126)  
-You chose to wait until dark.
+B¹n chän chê ®Õn khi trêi tèi.
 128)  
-You were truthful.
+B¹n ®· thµnh thËt.
 129)  
-He picked up on that.
+¤ng Êy b¾t chuyÖn vÒ ®iÒu ®ã.
 130)  
-He picked up on that.
+¤ng Êy b¾t chuyÖn vÒ ®iÒu ®ã.
 131)  
-Clementine will remember that.
+Clementine sÏ nhí ®iÒu ®ã.
 132)  
-You showed an interest in his family.
+B¹n thÓ hiÖn sù quan t©m ®Õn gia ®×nh anh Êy.
 133)  
-You learned about Kenny's boat.
+B¹n biÕt ®­îc vÒ thuyÒn cña Kenny.
 134)  
-You learned Katjaa is a veterinarian.
+B¹n biÕt ®­îc r»ng Katjaa lµ b¸c sÜ thó y.
 135)  
-Katjaa learned you were fired.
+Katjaa biÕt ®­îc r»ng b¹n bÞ ®uæi.
 136)  
-Katjaa will remember that.
+Katjaa sÏ nhí ®iÒu ®ã.
 137)  
-You learned Clementine is a first grader.
+B¹n biÕt ®­îc r»ng Clementine ®ang häc cÊp mét.
 138)  
-Shawn disagrees.
+Shawn kh«ng ®ång ý.
 139)  
-Shawn noticed your silence.
+Shawn ®Ó ý sù im lÆng cña b¹n.
 140)  
-Shawn won't forget that.
+Shawn sÏ kh«ng quªn ®iÒu ®ã.
 141)  
-You said nothing.
+B¹n kh«ng nãi g× c¶.
 142)  
-You didn't side with Kenny.
+B¹n kh«ng vÒ phe víi Kenny.
 143)  
-You made a difficult choice.
+B¹n ®­a ra quyÕt ®Þnh khã kh¨n.
 144)  
-Kenny will remember that.
+Kenny sÏ nhí ®iÒu ®ã.
 145)  
-Kenny will remember that.
+Kenny sÏ nhí ®iÒu ®ã.
 146)  
-Kenny will remember that.
+Kenny sÏ nhí ®iÒu ®ã.
 147)  
-You did nothing.
+B¹n kh«ng lµm g× c¶.

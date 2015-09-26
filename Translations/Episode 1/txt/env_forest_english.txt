@@ -11,65 +11,65 @@
 6)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]Ugh!
 7)  LEE
-[lee is hurriedly limping away from zombies and slips and falls]Shit!
+[lee is hurriedly limping away from zombies and slips and falls]KhØ!
 8)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]
 9)  LEE
-Hey! Hey officer! Are you all right?! I'm still cuffed back here!
+Nµy! Nµy «ng sÜ quan! ¤ng æn chø?! T«i vÉn bÞ cßng ë ®©y nµy!
 10)  LEE
-OFFICER! [to himself] That doesn't look good. He wasn't ejected from the car...
+*¤ng sÜ quan*! [to himself] Cã vÎ kh«ng æn råi. ¤ng Êy kh«ng ph¶i bÞ ®Èy ra khái xe...
 11)  LEE
-He's not moving.
+¤ng Êy kh«ng cö ®éng.
 12)  LEE
-Officer?
+¤ng sÜ quan?
 13)  LEE
-God damn...
+KhØ thËt...
 14)  LEE
-Fuck, my leg.
+MÑ nã chø, ch©n m×nh.
 15)  LEE
 [Moving your busted leg] Ahh!
 16)  LEE
-[Waking up after a car wreck] Ugh...[breathing deeply] Oww... shit.
+[Waking up after a car wreck] Ugh...[breathing deeply] Oww... khØ.
 17)  LEE
-[Woozy, waking up after being knocked out] …Thirsty.
+[Woozy, waking up after being knocked out] …Kh¸t qu¸.
 18)  LEE
-[First zombie you've ever seen approaching you] What in the hell?!
+[First zombie you've ever seen approaching you] C¸i qu¸i g× vËy?!
 19)  LEE
-[First zombie you've ever seen approaching you] What the fuck are you?!?
+[First zombie you've ever seen approaching you] ¤ng lµ thø khèn n¹n g× thÕ?!?
 20)  LEE
-[First zombie you've ever seen approaching you] What happened?! What HAPPENED??!
+[First zombie you've ever seen approaching you] Cã chuyÖn g× vËy?! Cã *chuyÖn g× vËy*??!
 21)  LEE
-{FearB}Are you dead?... {angryC}HEY! ARE YOU DEAD? [inspecting the first zombie ever]
+{FearB}¤ng chÕt ch­a?... {angryC}*Nµy*! *¤ng chÕt ch­a*? [inspecting the first zombie ever]
 22)  LEE
-{fearB}His skin's all rotten... and {SadC}he smells like shit. What {fearB}the hell is this?
+{fearB}Da «ng Êy ®· thèi r÷a hÕt... vµ {SadC}«ng Êy cã mïi tëm qu¸. C¸i {fearB}qu¸i g× thÕ nµy?
 23)  LEE
-He must have the handcuff keys on him.
+¤ng Êy ch¾c ph¶i cã chïm ch×a khãa cßng tay ë trªn ng­êi.
 24)  LEE
-I need those keys.
+M×nh cÇn chïm ch×a khãa ®ã.
 25)  LEE
-I'm going to need those.
+M×nh sÏ cÇn nã.
 26)  LEE
-Officer! I need those keys.
+¤ng sÜ quan! T«i cÇn chïm ch×a khãa ®ã.
 27)  LEE
-Well there are the handcuff keys. Just great.
+Chµ ®ã lµ chïm ch×a khãa cßng tay. TuyÖt.
 28)  LEE
-Officer... we've been in an accident.
+¤ng sÜ quan... chóng ta ®· gÆp mét vô tai n¹n.
 29)  ZOMBIE
 Guhhh...
 30)  LEE
-I'll go get help, just--
+T«i sÏ ®i t×m ng­êi gióp, h·y chØ--
 31)  LEE
-[The first time a zombie ever lunges at you] Holy shit!
+[The first time a zombie ever lunges at you] MÑ nã!
 32)  LEE
 [Landing on your rear] Uhh!
 33)  LEE
 [Zombie crawling towards you and you crawl away]  Ahh!
 34)  LEE
-{fearC}Get away from me!
+{fearC}Tr¸nh xa t«i ra!
 35)  LEE
-{fearB}What the hell are you?
+{fearB}¤ng lµ thø quû g× thÕ?
 36)  LEE
-{fearB}Just stop! {angryB}Back up!
+{fearB}H·y dõng l¹i! {angryB}Lïi l¹i!
 37)  LEE
 Ugh!
 77)  LEE
@@ -91,168 +91,168 @@ Ugh!
 41)  LEE
 [Landing on the ground on a broken leg] Uhh--AHHHH!!!
 42)  LEE
-[examining a shotgun] Looks empty.
+[examining a shotgun] Tr«ng cã vÎ rçng.
 43)  LEE
-It'll be easier to carry with these cuffs off.
+Nã sÏ dÔ cÇm h¬n sau khi th¸o ®­îc c¸i cßng nµy.
 44)  LEE
-{normalD}The officer's shotgun is over there.
+{normalD}KhÈu shotgun cña «ng sÜ quan ë ®»ng kia.
 45)  LEE
-{sadA}Why would he {angryA}have needed that?
+{sadA}T¹i sao «ng Êy {angryA}l¹i cÇn ®Õn nã?
 46)  LEE
-Don't make me do this...
+§õng b¾t t«i lµm ®iÒu nµy...
 47)  LEE
-[Phew, breathing heavily] …man.
+[Phew, breathing heavily] …trêi.
 48)  LEE
 [Phew, breathing heavily]
 49)  LEE
-No no...get the fuck away...
+Kh«ng kh«ng...tr¸nh ra ®å quû...
 50)  LEE
 [Cries out in pain, bitten by a zombie] AHHHHHHH!
 51)  LEE
-DAMMIT!
+*MÑ kiÕp*!
 52)  LEE
-Oh God...
+¤i chóa ¬i...
 53)  LEE
-HELP! Go get someone! There- There's been a shooting!
+*Gióp*! §i gäi ai ®ã ®i! §·- §· cã mét vô næ sóng!
 54)  LEE
-{angryA}Why the hell did he have his gun out?
+{angryA}C¸i qu¸i g× khiÕn «ng Êy ph¶i lÊy sóng ra?
 55)  LEE
-{thinkingB}Maybe it was tossed {fearA}from the car during the wreck?
+{thinkingB}Cã thÓ nã bÞ v¨ng {fearA}khái xe sau khi va ch¹m?
 56)  LEE
-Gotta get over that fence!
+Ph¶i leo qua hµng rµo ®ã!
 57)  LEE
-Hopefully these things can't climb...
+Mong lµ nh÷ng thø ®ã kh«ng biÕt leo...
 58)  LEE
-{thinkingA}I better get these handcuffs off {sadA}before I go for help.
+{thinkingA}M×nh tèt nhÊt nªn th¸o c¸i cßng tay nµy ra {sadA}tr­íc khi ®i t×m ng­êi gióp.
 59)  LEE
-{angryA}I think the keys are back on that cop.
+{angryA}M×nh nghÜ chïm ch×a khãa ®· rít l¹i trªn ng­êi «ng c¶nh s¸t Êy.
 60)  LEE
-Hmmph. Dammit.
+Hmmph. MÑ kiÕp.
 61)  LEE
-I need to get these damn things off.
+M×nh cÇn ph¶i th¸o thø khØ nµy ra.
 62)  LEE
-I don't want to see those again.
+M×nh kh«ng muèn nh×n thÊy chóng n÷a.
 63)  LEE
-I gotta move.
+M×nh ph¶i di chuyÓn.
 114)  LEE
-I gotta move.
+M×nh ph¶i di chuyÓn.
 64)  LEE
-Ahh! Dammit!
+Ahh! MÑ kiÕp!
 115)  LEE
-Ahh! Dammit!
+Ahh! MÑ kiÕp!
 65)  LEE
-[grits through your teeth] GET. UP.
+[grits through your teeth] *§øng*. *DËy*.
 116)  LEE
-[grits through your teeth] GET. UP.
+[grits through your teeth] *§øng*. *DËy*.
 66)  LEE
-[through your teeth] SHIT!
+[through your teeth] *KhØ*!
 117)  LEE
-[through your teeth] SHIT!
+[through your teeth] *KhØ*!
 67)  LEE
 [Limping around the cop car, using it for balance for broken leg]
 68)  LEE
 [Backing away from the zombie cop in a panic]
 72)  LEE
-There's a piece of the car over there... better than a piece of me.
+Cã mét m¶nh cña chiÕc xe ë ®»ng kia... ®ì h¬n lµ mét m¶nh cña m×nh.
 73)  LEE
 [looks at a piece of the wreck -- a broken police laptop and some papers from the clipboard]
 74)  LEE
-[tired, exasperated] Shit.
+[tired, exasperated] KhØ.
 75)  LEE
-[zombie is waking up] Uh, officer?...
+[zombie is waking up] Uh, «ng sÜ quan?...
 76)  LEE
 [looks up at the busted guard rail, or up at the top of the incline the cop car came down]
 78)  LEE
 [kicking out the window for the final time, popping out the glass] Ugh!
 80)  LEE
-Man, there's shit everywhere.
+Trêi ¹, v­¬ng v·i kh¾p mäi n¬i.
 81)  LEE
-Ugh, that's steep. I'm not going to be able to get back up to the road for help. Shit.
+Ugh, dèc qu¸. M×nh sÏ kh«ng thÓ lªn trªn ®­êng ®Ó nhê gióp ®ì. KhØ thËt.
 82)  
-Window
+Cöa sæ
 83)  
-Cop
+C¶nh s¸t
 84)  
-Keys
+Ch×a khãa
 85)  
-Shotgun
+Sóng Shotgun
 86)  
-Shotgun shell
+§¹n sóng Shotgun
 87)  
-Fence
+Hµng rµo
 88)  
-Handcuffs
+Cßng tay
 89)  
-Debris
+M¶nh vì
 90)  
-Guardrail
+Rµo ch¾n ®­êng
 91)  
-Shoot
+B¾n
 97)  
-Shoot
+B¾n
 92)  
-Look At
+Nh×n vµo
 94)  
-Look At
+Nh×n vµo
 98)  
-Look At
+Nh×n vµo
 100)  
-Look At
+Nh×n vµo
 105)  
-Look At
+Nh×n vµo
 106)  
-Look At
+Nh×n vµo
 108)  
-Look At
+Nh×n vµo
 109)  
-Look At
+Nh×n vµo
 111)  
-Look At
+Nh×n vµo
 113)  
-Look At
+Nh×n vµo
 125)  
-Look At
+Nh×n vµo
 93)  
-Take Keys From
+LÊy ch×a khãa tõ
 95)  
-Take Keys From
+LÊy ch×a khãa tõ
 96)  
-Take Keys From
+LÊy ch×a khãa tõ
 99)  
-Take
+LÊy
 126)  
-Take
+LÊy
 127)  
-Take
+LÊy
 101)  
-Climb
+Leo
 102)  
-Climb
+Leo
 103)  
-Kick
+§¸
 104)  
-Climb Out
+Leo ra
 121)  
-Climb Out
+Leo ra
 107)  
-Unlock
+Më khãa
 110)  
-Pick Up
+NhÆt
 112)  
-Pick Up
+NhÆt
 118)  
-Hill
+Ngän ®åi
 119)  LEE
-{sadB}[in pain] I need to… drag myself out that window…
+{sadB}[in pain] M×nh ph¶i… chui ra khái cöa sæ ®ã…
 128)  LEE
-{sadB}[in pain] I need to… drag myself out that window…
+{sadB}[in pain] M×nh ph¶i… chui ra khái cöa sæ ®ã…
 120)  
-Look
+Nh×n
 122)  
-Little Girl
+C« bÐ
 123)  
-Call Out To
+Gäi lín
 124)  
-Mysterious Figure
+Bãng ng­êi bÝ Èn
 129)  
-Search
+Lôc

@@ -1,181 +1,181 @@
 1)  LEE
-{thinkingB} ...Hello?
+{thinkingB} ...A l«?
 2)  CLEMENTINE
-[Walkie-Talkie processed] Are you alive?
+[Walkie-Talkie processed] Chó cßn sèng kh«ng?
 3)  ACTION
 pickup
 4)  LEE
-{happyA} Yeah, I'm alive.
+{happyA} Yeah, ta vÉn cßn sèng.
 5)  LEE
-{happyA} I'm not a monster.
+{happyA} Ta kh«ng ph¶i qu¸i vËt ®©u.
 6)  LEE
-{normalC} Who is this?
+{normalC} Ai ®Êy?
 7)  LEE
-{sadA} Are you ok?
+{sadA} Con æn kh«ng?
 8)  LEE
 ...
 9)  CLEMENTINE
-[Walkie-Talkie processed] Me too.
+[Walkie-Talkie processed] Con còng thÕ.
 10)  LEE
-[a little charmed by Clementine] {happyB} Good.
+[a little charmed by Clementine] {happyB} Tèt.
 11)  CLEMENTINE
-[Walkie-Talkie processed] [relieved] Good.
+[Walkie-Talkie processed] [relieved] Tèt.
 12)  CLEMENTINE
-[Walkie-talkie processed] You're not my daddy.
-104)  CLEMENTINE
-[Walkie-talkie processed] You're not my daddy.
-139)  CLEMENTINE
-[Walkie-talkie processed] You're not my daddy.
-13)  LEE
-{sadC} No, I'm not.
-102)  LEE
-{sadC} No, I'm not.
-140)  LEE
-{sadC} No, I'm not.
-14)  LEE
-{happyA} Hi, Clementine. I'm Lee.
-105)  LEE
-{happyA} Hi, Clementine. I'm Lee.
-138)  LEE
-{happyA} Hi, Clementine. I'm Lee.
-15)  CLEMENTINE
-[Walkie-talkie processed] I'm Clementine. This is my house.
-103)  CLEMENTINE
-[Walkie-talkie processed] I'm Clementine. This is my house.
-137)  CLEMENTINE
-[Walkie-talkie processed] I'm Clementine. This is my house.
-16)  CLEMENTINE
-[Walkie-talkie processed] I'm ok. They tried to get me. But I'm hiding until my parents come home.
-17)  CLEMENTINE
-[Walkie-talkie processed] Hello? Did they get you?
-188)  CLEMENTINE
-[Walkie-talkie processed] Hello? Did they get you?
-195)  CLEMENTINE
-[Walkie-talkie processed] Hello? Did they get you?
-199)  CLEMENTINE
-[Walkie-talkie processed] Hello? Did they get you?
-18)  LEE
-[conjoiner] I'm sorry, I'm here.
-19)  LEE
-[conjoiner] I'm sorry, I'm here.
-20)  LEE
-[conjoiner] I'm sorry, I'm here.
-21)  LEE
-[conjoiner] {normalB} I'm sorry, I'm here.
-187)  LEE
-[conjoiner] {normalB} I'm sorry, I'm here.
-194)  LEE
-[conjoiner] {normalB} I'm sorry, I'm here.
-200)  LEE
-[conjoiner] {normalB} I'm sorry, I'm here.
-22)  CLEMENTINE
-[Walkie-talkie processed] [sad] Please don't go.
-189)  CLEMENTINE
-[Walkie-talkie processed] [sad] Please don't go.
-196)  CLEMENTINE
-[Walkie-talkie processed] [sad] Please don't go.
-201)  CLEMENTINE
-[Walkie-talkie processed] [sad] Please don't go.
-23)  CLEMENTINE
-[Walkie-talkie processed]  [sniffling] ...Are you dead too?
-190)  CLEMENTINE
-[Walkie-talkie processed]  [sniffling] ...Are you dead too?
-197)  CLEMENTINE
-[Walkie-talkie processed]  [sniffling] ...Are you dead too?
-202)  CLEMENTINE
-[Walkie-talkie processed]  [sniffling] ...Are you dead too?
-24)  CLEMENTINE
-[Walkie-talkie processed] [very sad] Hello?...
-191)  CLEMENTINE
-[Walkie-talkie processed] [very sad] Hello?...
-198)  CLEMENTINE
-[Walkie-talkie processed] [very sad] Hello?...
-203)  CLEMENTINE
-[Walkie-talkie processed] [very sad] Hello?...
-25)  LEE
-No, I'm not.
-26)  LEE
-What's your name?
-48)  
-What's your name?
-193)  
-What's your name?
-209)  
-What's your name?
-27)  CLEMENTINE
-[Walkie-talkie processed] I'm Clementine.
+[Walkie-talkie processed] Chó kh«ng ph¶i cha con.
 28)  CLEMENTINE
-[Walkie-talkie processed] You're not my dad.
+[Walkie-talkie processed] Chó kh«ng ph¶i cha con.
+104)  CLEMENTINE
+[Walkie-talkie processed] Chó kh«ng ph¶i cha con.
+139)  CLEMENTINE
+[Walkie-talkie processed] Chó kh«ng ph¶i cha con.
+13)  LEE
+{sadC} Kh«ng, ta kh«ng ph¶i.
+102)  LEE
+{sadC} Kh«ng, ta kh«ng ph¶i.
+140)  LEE
+{sadC} Kh«ng, ta kh«ng ph¶i.
+14)  LEE
+{happyA} Chµo, Clementine. Ta tªn Lee.
+105)  LEE
+{happyA} Chµo, Clementine. Ta tªn Lee.
+138)  LEE
+{happyA} Chµo, Clementine. Ta tªn Lee.
+15)  CLEMENTINE
+[Walkie-talkie processed] Con lµ Clementine. §©y lµ nhµ con.
+103)  CLEMENTINE
+[Walkie-talkie processed] Con lµ Clementine. §©y lµ nhµ con.
+137)  CLEMENTINE
+[Walkie-talkie processed] Con lµ Clementine. §©y lµ nhµ con.
+16)  CLEMENTINE
+[Walkie-talkie processed] Con æn. Chóng cè b¾t con. Nh­ng con ®ang trèn tíi khi cha mÑ con vÒ nhµ.
+17)  CLEMENTINE
+[Walkie-talkie processed] A l«? Chóng b¾t ®­îc chó råi sao?
+188)  CLEMENTINE
+[Walkie-talkie processed] A l«? Chóng b¾t ®­îc chó råi sao?
+195)  CLEMENTINE
+[Walkie-talkie processed] A l«? Chóng b¾t ®­îc chó råi sao?
+199)  CLEMENTINE
+[Walkie-talkie processed] A l«? Chóng b¾t ®­îc chó råi sao?
+18)  LEE
+[conjoiner] Ta xin lçi, ta ®©y.
+19)  LEE
+[conjoiner] Ta xin lçi, ta ®©y.
+20)  LEE
+[conjoiner] Ta xin lçi, ta ®©y.
+21)  LEE
+[conjoiner] {normalB} Ta xin lçi, ta ®©y.
+187)  LEE
+[conjoiner] {normalB} Ta xin lçi, ta ®©y.
+194)  LEE
+[conjoiner] {normalB} Ta xin lçi, ta ®©y.
+200)  LEE
+[conjoiner] {normalB} Ta xin lçi, ta ®©y.
+22)  CLEMENTINE
+[Walkie-talkie processed] [sad] Lµm ¬n ®õng ®i.
+189)  CLEMENTINE
+[Walkie-talkie processed] [sad] Lµm ¬n ®õng ®i.
+196)  CLEMENTINE
+[Walkie-talkie processed] [sad] Lµm ¬n ®õng ®i.
+201)  CLEMENTINE
+[Walkie-talkie processed] [sad] Lµm ¬n ®õng ®i.
+23)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chó còng chÕt råi sao?
+190)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chó còng chÕt råi sao?
+197)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chó còng chÕt råi sao?
+202)  CLEMENTINE
+[Walkie-talkie processed]  [sniffling] ...Chó còng chÕt råi sao?
+24)  CLEMENTINE
+[Walkie-talkie processed] [very sad] A l«?...
+191)  CLEMENTINE
+[Walkie-talkie processed] [very sad] A l«?...
+198)  CLEMENTINE
+[Walkie-talkie processed] [very sad] A l«?...
+203)  CLEMENTINE
+[Walkie-talkie processed] [very sad] A l«?...
+25)  LEE
+Kh«ng, Ta kh«ng ph¶i.
+26)  LEE
+Tªn con lµ g×?
+48)  
+Tªn con lµ g×?
+193)  
+Tªn con lµ g×?
+209)  
+Tªn con lµ g×?
+27)  CLEMENTINE
+[Walkie-talkie processed] Con lµ Clementine.
 29)  LEE
-{happyA} That's smart.
+{happyA} Th«ng minh ®Êy.
 43)  LEE
-{happyA} That's smart.
+{happyA} Th«ng minh ®Êy.
 30)  CLEMENTINE
-[Walkie-talkie processed] I'm outside in my treehouse. They can't get in.
+[Walkie-talkie processed] Con ë trong ng«i nhµ trªn c©y ë ngoµi s©n. Chóng kh«ng vµo ®­îc.
 45)  CLEMENTINE
-[Walkie-talkie processed] I'm outside in my treehouse. They can't get in.
+[Walkie-talkie processed] Con ë trong ng«i nhµ trªn c©y ë ngoµi s©n. Chóng kh«ng vµo ®­îc.
 31)  CLEMENTINE
-[Walkie-talkie processed] See?
+[Walkie-talkie processed] ThÊy kh«ng?
 46)  CLEMENTINE
-[Walkie-talkie processed] See?
+[Walkie-talkie processed] ThÊy kh«ng?
 32)  LEE
-{thinkingB} Where are you?
+{thinkingB} Con ë ®©u?
 33)  CLEMENTINE
-[Walkie-talkie processed] Can you see me? I can see you through the window.
+[Walkie-talkie processed] Chó thÊy con kh«ng? Con cã thÓ thÊy chó qua cöa sæ nÌ.
 42)  CLEMENTINE
-[Walkie-talkie processed] Can you see me? I can see you through the window.
+[Walkie-talkie processed] Chó thÊy con kh«ng? Con cã thÓ thÊy chó qua cöa sæ nÌ.
 34)  CLEMENTINE
-[Walkie-talkie processed] They took a trip and left me with Sandra. They're in Savannah, I think. Where the boats are.
+[Walkie-talkie processed] Hä cã chuyÕn ®i vµ ®Ó con l¹i víi Sandra. Hä ®ang ë Savannah, con nghÜ thÕ. N¬i cã mÊy c¸i thuyÒn.
 35)  LEE
-{sadB} Where are your parents?
+{sadB} Cha mÑ con ®©u råi?
 36)  CLEMENTINE
-[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+[Walkie-talkie processed] [sad] V©ng. Con kh«ng biÕt nh÷ng ng­êi kh¸c ë ®©u c¶.
 134)  CLEMENTINE
-[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+[Walkie-talkie processed] [sad] V©ng. Con kh«ng biÕt nh÷ng ng­êi kh¸c ë ®©u c¶.
 143)  CLEMENTINE
-[Walkie-talkie processed] [sad] Yes. I don't know where anybody is.
+[Walkie-talkie processed] [sad] V©ng. Con kh«ng biÕt nh÷ng ng­êi kh¸c ë ®©u c¶.
 37)  CLEMENTINE
-[Walkie-talkie processed] Eight.
+[Walkie-talkie processed] T¸m.
 131)  CLEMENTINE
-[Walkie-talkie processed] Eight.
+[Walkie-talkie processed] T¸m.
 145)  CLEMENTINE
-[Walkie-talkie processed] Eight.
+[Walkie-talkie processed] T¸m.
 38)  LEE
-And you're all alone?
+Vµ con chØ cã mét m×nh?
 130)  LEE
-And you're all alone?
+Vµ con chØ cã mét m×nh?
 39)  LEE
-How old are you?
+Con bao nhiªu tuæi?
 53)  
-How old are you?
+Con bao nhiªu tuæi?
 129)  LEE
-How old are you?
+Con bao nhiªu tuæi?
 192)  
-How old are you?
+Con bao nhiªu tuæi?
 210)  
-How old are you?
+Con bao nhiªu tuæi?
 40)  CLEMENTINE
-[Walkie-talkie processed] I don't know. A few nights. I'm ok, though. I just want my mom and dad to come home.
+[Walkie-talkie processed] Con kh«ng biÕt. Vµi ®ªm. Dï sao, con còng æn. Con chØ muèn mÑ vµ cha con vÒ nhµ th«i.
 41)  LEE
-[semi to himself] {thinkingB} Maybe we can find them or something.
+[semi to himself] {thinkingB} Cã thÓ chóng ta sÏ t×m ®­îc hä hay sao ®ã.
 44)  LEE
-{fearA} Are you safe?
+{fearA} Con an toµn chø?
 47)  
-Yeah, I'm alive.
+Yeah, Ta vÉn cßn sèng.
 49)  
-Are you ok?
+Con æn kh«ng?
 51)  
-Where are you?
+Con ®ang ë ®©u?
 55)  
-Where are you?
+Con ®ang ë ®©u?
 52)  
-Where are your parents?
+Cha mÑ con ®©u?
 54)  
-Are you safe?
+Con cã an toµn kh«ng?
 56)  
-Who is this?
+Ai ®Êy?
 57)  
-I'm not a monster.
+Ta kh«ng ph¶i lµ qu¸i vËt.
 58)  CLEMENTINE
 [Walkie-talkie processed] AHHHH!
 179)  CLEMENTINE
@@ -185,13 +185,13 @@ I'm not a monster.
 178)  ZOMBIE
 [Groannn]
 60)  LEE
-[looking at a bunch of blood on the ground] {sadC} Jesus...
+[looking at a bunch of blood on the ground] {sadC} L¹y chóa...
 61)  LEE
 [slips, hurts leg] {fearD} AHH!
 62)  LEE
 [hits grounds, linoleum] {DisgustB} UGH.
 63)  LEE
-What the hell is going on?...
+C¸i qu¸i g× ®ang diÔn ra thÕ nµy?...
 64)  ACTION
 hit with plate
 75)  ACTION
@@ -219,9 +219,9 @@ hit with jar
 76)  ACTION
 hit with bottle
 77)  CLEMENTINE
-[Walkie-Talkie processed] Daddy?
+[Walkie-Talkie processed] Cha?
 156)  CLEMENTINE
-[Walkie-Talkie processed] Daddy?
+[Walkie-Talkie processed] Cha?
 78)  LEE
 [Heard something, a child] {surpriseA} Huh?
 79)  LEE
@@ -233,17 +233,17 @@ hit with bottle
 81)  LEE
 [Heard something, a child]{surpriseA} Huh?
 82)  CLEMENTINE
-Daddy, is that you?
+Cha, cã ph¶i cha ®Êy kh«ng?
 83)  CLEMENTINE
-[Walkie-Talkie processed] [Upset, on the verge of tears] Please, Daddy, I'm all alone.
+[Walkie-Talkie processed] [Upset, on the verge of tears] Lµm ¬n, Cha ¬i, con ®ang mét m×nh.
 84)  CLEMENTINE
-[Walkie-Talkie processed] [Talking to her Dad on a walkie talkie] Come back... I miss you...
+[Walkie-Talkie processed] [Talking to her Dad on a walkie talkie] Quay l¹i ®i mµ... con nhí cha...
 85)  HINT
-Use answering machine
+Dïng ®iÖn tho¹i
 86)  LEE
-{thinkingB} What's that beeping?
+{thinkingB} TiÕng bÝp tõ ®©u vËy?
 87)  LEE
-Maybe I should check those messages.
+Cã lÏ m×nh nªn kiÓm tra mÊy tin nh¾n ®ã.
 88)  ACTION
 drink
 89)  LEE
@@ -253,51 +253,51 @@ Bottles, Plates, Bowls and a Vase
 Alas, the zombie eventually grabs you and she is on-top of you -- snarling and snapping, thick bile and blood dripping from her mouth and into your eyes. She is going to bite you soon and then it will all be over.
 You hear the SLIDING GLASS DOOR OPENS. You attention is drawn to CLEMENTINE IN THE DOORWAY. She is holding a HAMMER.
 91)  ACTION
-Look
+Nh×n
 92)  LEE
-That'll stop this thing.
+Nh­ thÕ sÏ dõng ®­îc thø nµy.
 93)  ACTION
-Use
+Dïng
 186)  
-Use
+Dïng
 94)  ACTION
-open
+Më
 95)  LEE
-{angryA} This place has been ransacked. Just about anything worthwhile is gone.
+{angryA} N¬i nµy ®· bÞ lôc tung. Nh÷ng thø g× cã gi¸ trÞ ®Òu kh«ng cßn.
 96)  ACTION
-look (at mess)
+Nh×n (vµo ®èng hçn ®én)
 97)  ANSWERING MACHINE LADY
-There are THREE new messages.
+Cã ba tin nh¾n míi.
 98)  LEE
-{fearA} These people might need more help than I do.
+{fearA} Nh÷ng ng­êi nµy cã lÏ cÇn gióp ®ì nhiÒu h¬n m×nh.
 99)  LEE
-{sadA} Ahh, shit. {thinkingB} Hello? I'm not an intruder... {sadA} or one of THEM.
+{sadA} Ahh, khØ. {thinkingB} Xin chµo? T«i kh«ng ph¶i lµ kÎ x©m ph¹m... {sadA} hoÆc mét trong sè *chóng*.
 100)  LEE
-{thinkingA} All right, so there's shit going on in Savannah. {sadA} I wonder if Macon got hit too.
+{thinkingA} §­îc råi, vËy lµ cã mÊy thø chÕt tiÖt ®ang diÔn ra ë Savannah. {sadA} M×nh kh«ng biÕt Macon cã thÕ kh«ng.
 101)  MOM
-Clementine? Baby, if you can hear this, call the police. That's 9-1-1. We love you… we love you…we love y-
+Clementine? Con yªu, nÕu con cã thÓ nghe ®­îc ®iÒu nµy, h·y gäi c¶nh s¸t. Sè 9-1-1 nhÐ. Chóng ta yªu con… chóng ta yªu con…chóng ta yªu c-
 106)  LEE
-I'm 37.
+Ta 37.
 133)  LEE
-I'm 37.
+Ta 37.
 107)  CLEMENTINE
-[Walkie-talkie processed] Ok.
+[Walkie-talkie processed] V©ng.
 135)  CLEMENTINE
-[Walkie-talkie processed] Ok.
+[Walkie-talkie processed] V©ng.
 146)  CLEMENTINE
-[Walkie-talkie processed] Ok.
+[Walkie-talkie processed] V©ng.
 108)  CLEMENTINE
-[Walkie-talkie processed] How old are you?
+[Walkie-talkie processed] Chó bao nhiªu tuæi?
 132)  CLEMENTINE
-[Walkie-talkie processed] How old are you?
+[Walkie-talkie processed] Chó bao nhiªu tuæi?
 144)  CLEMENTINE
-[Walkie-talkie processed] How old are you?
+[Walkie-talkie processed] Chó bao nhiªu tuæi?
 109)  LEE
 [grabbing a weapon with a zombie ontop of you] {fearC} AH!
 110)  LEE
-[zombie chasing you] {fearB} Get away!
+[zombie chasing you] {fearB} BiÕn ®i!
 174)  LEE
-[zombie chasing you] {fearB} Get away!
+[zombie chasing you] {fearB} BiÕn ®i!
 111)  LEE
 [pushing away a zombie] {fearC} AHH!
 173)  LEE
@@ -307,9 +307,9 @@ I'm 37.
 149)  LEE
 [yelling at a zombie in the face] {fearD} AHHHHH!
 113)  LEE
-[kicking a zombie] {fearC} Get the--GET--BACK!
+[kicking a zombie] {fearC} BiÕn m--*biÕn*--*®i*!
 175)  LEE
-[kicking a zombie] {fearC} Get the--GET--BACK!
+[kicking a zombie] {fearC} BiÕn m--*biÕn*--*®i*!
 114)  LEE
 [wince1]
 115)  LEE
@@ -321,11 +321,11 @@ I'm 37.
 118)  LEE
 [wince2]
 119)  LEE
-[talking to himself] {thinkingA} What the hell could this be? {fearB} Maybe madcow and then riots or looting?
+[talking to himself] {thinkingA} ChuyÖn nµy cã thÓ lµ thø qu¸i quû g× ®­îc c¬ chø? {fearB} Cã lÏ lµ bß ®iªn råi b¹o lo¹n hoÆc h«i cña?
 120)  LEE
-[talking to himself] {surpriseA} Maybe we were invaded... {thinkingB} or a biological weapon attack.
+[talking to himself] {surpriseA} Cã thÓ chóng ta bÞ x©m l­îc... {thinkingB} hoÆc tÊn c«ng b»ng vò khÝ sinh häc.
 121)  LEE
-[talking to himself] {sadC} Someone bled like hell in here...
+[talking to himself] {sadC} Ai ®ã ®· ch¶y m¸u nh­ ®iªn ë ®©y...
 122)  LEE
 {disgustA} Or maybe people finally got fed-up with cuts to public education and took to the streets. {sadA} Yeah...and those guys in the forest were just Neo-Cons.
 123)  LEE
@@ -343,45 +343,45 @@ I'm 37.
 128)  LEE
 {angryC} AHHHHH! [huge swing of a hammer into a zombie's head]
 136)  LEE
-{normalC} What's your name?
+{normalC} Tªn con lµ g×?
 141)  LEE
-{normalC} I'm uhh… 37.
+{normalC} Ta êm… 37.
 142)  LEE
-{sadC} How old are you?
+{sadC} Con bao nhiªu tuæi?
 147)  LEE
-{fearB} And you're all alone?
+{fearB} Vµ con chØ cã mét m×nh?
 148)  LEE
-{thinkingA} Hmm... The Marsh House. That's a Savannah area-code. {sadA} But that's the type of note you'd leave a babysitter...
+{thinkingA} Hmm... Nhµ Marsh. §ã lµ m· vïng cña Savannah. {sadA} Nh­ng ®ã lµ lo¹i ghi chó mµ ng­êi ta th­êng ®Ó cho ng­êi tr«ng trÎ...
 150)  LEE
-[to himself] {thinkingA} Maybe there's something on there.
+[to himself] {thinkingA} Cã thÓ cã g× ë ®ã.
 151)  CLEMENTINE
-[pickup1] You need to be quiet.
+[pickup1] Chó cÇn ph¶i yªn lÆng.
 153)  LEE
 308404250
 154)  LEE
 [angry yell, attacking something 2]
 155)  LEE
-[pickup1] Hmm... cable's out.
+[pickup1] Hõm... truyÒn h×nh c¸p ®· bÞ c¾t.
 158)  
-Answering Machine
+§iÖn tho¹i
 159)  
-Pool of Blood
+Vòng m¸u
 160)  
-Glass Bottle
+B×nh thñy tinh
 161)  
-Drawer
+Ng¨n kÐo
 162)  
-Cabinet
+Tñ ®å
 163)  
-Cup of Water
+Ly n­íc
 164)  
-Glass Jar
+Lä thñy tinh
 165)  
-Note
+Ghi chó
 166)  
-Plate
+§Üa
 167)  
-Vase
+Lä hoa
 168)  LEE
 [sounds of Lee whincing1]
 169)  LEE
@@ -393,48 +393,48 @@ Vase
 172)  LEE
 [a bunch of sounds of Lee whincing5]
 176)  CLEMENTINE
-I found something!
+Con t×m thÊy thø g× ®ã!
 177)  CLEMENTINE
-[pickup1][trepedacious] Here...
+[pickup1][trepedacious] §©y...
 180)  LEE
-[pickup3] It's fake. Damn.
+[pickup3] Nã lµ ®å gi¶. KhØ thËt.
 181)  LEE
-[pickup3]This whole neighborhood is deserted… What the hell?
+[pickup3]C¶ khu nµy ®Òu bÞ bá hoang… C¸i qu¸i g×?
 182)  LEE
-[pickup3]Furniture overturned… blood everywhere… Jesus…
+[pickup3]§å ®¹c tø tung… m¸u ë kh¾p n¬i… Chóa ¬i…
 183)  LEE
-[pickup3] God, a kid lived here...
+[pickup3] Chóa ¬i, mét ®øa trÎ sèng ë ®©y...
 184)  
-Television
+Ti vi
 185)  
-Look At
+Nh×n vµo
 204)  
-Bowl of Fruit
+T« tr¸i c©y
 205)  
-Bookshelf
+KÖ s¸ch
 206)  
-Kid's Paintings
+Bøc vÏ cña trÎ con
 207)  
-Windows
+Cöa sæ
 208)  
-Coloring Book
+S¸ch t« mµu
 211)  LEE
-[to himself] Maybe there is something on there.
+[to himself] Cã thÓ cã thø g× ë ®ã ch¨ng.
 212)  LEE
-Something went down in Savannah, too. I hope Macon's all right.
+Cã chuyÖn g× còng ®· x¶y ra ë d­íi Savannah råi. M×nh mong lµ Macon vÉn æn.
 213)  ANSWERING MACHINE
-Three new messages.
+Ba tin nh¾n míi.
 214)  ANSWERING MACHINE
-Message one. Left at five-forty-three p.m.
+Tin nh¾n thø nhÊt. NhËn lóc n¨m-giê-bèn-m­¬i-ba chiÒu.
 215)  MOM
-Hey, Sandra, this is Diana. We're still in Savannah. Ed had a little 'incident' with some crazy guy near the hotel, so we had to get him back to the ER and have it checked out. Anyway, he's not feeling well enough to drive back tonight, so we're staying an extra day. Thanks so much for looking after Clementine, and I promise we'll be back in time before your spring break!
+Nµy, Sandra, Diana ®©y. Bän m×nh vÉn ®ang ë Savannah. Ed cã tÝ 'lïm xïm' víi mét g· ®iªn khïng nµo ®ã gÇn kh¸ch s¹n, v× vËy bän m×nh ph¶i ®­a anh Êy vÒ ER vµ tr¶ phßng. C¬ mµ, anh Êy hiÖn kh«ng c¶m thÊy ®ñ kháe ®Ó l¸i vÒ tèi nay, v× vËy bän m×nh sÏ ë thªm mét ngµy n÷a. C¸m ¬n rÊt nhiÒu v× ®· tr«ng nom Clementine hé m×nh, vµ m×nh høa lµ bän m×nh sÏ vÒ kÞp tr­íc kú nghØ xu©n cña cËu!
 216)  ANSWERING MACHINE
-Message two. Left at eleven-nine-teen p.m.
+Tin nh¾n thø hai. NhËn lóc m­êi-mét-giê-m­êi-chÝn tèi.
 217)  MOM
-Oh my God, finally! I don't know if you've tried to reach us; all the calls are getting dropped. They're not letting us leave and aren't telling us anything about Atlanta. Please, please, just leave the city and take Clementine with you back to Marietta. I've got to get back to the hospital. Please let me know that you're safe.
+¤i chóa ¬i, cuèi cïng còng ®­îc! M×nh kh«ng biÕt cËu cã cè liªn l¹c víi bän m×nh kh«ng; tÊt c¶ cuéc gäi ®Òu bÞ c¾t ngang. Hä kh«ng cho bän m×nh rêi ®i vµ kh«ng nãi víi bän m×nh bÊt cø thø g× vÒ Atlanta. Lµm ¬n, lµm ¬n, rêi thµnh phè vµ ®em Clementine theo víi cËu tíi Marietta. M×nh ph¶i quay l¹i bÖnh viÖn. Lµm ¬n h·y cho m×nh biÕt r»ng cËu an toµn.
 218)  ANSWERING MACHINE
-Message three. Left at six-fifty-one a.m.
+Tin nh¾n thø ba. NhËn lóc s¸u-giê-n¨m-m­¬i-mèt s¸ng.
 219)  MOM
-Clementine? Baby, if you can hear this, call the police. That's 911. We will always love y-
+Clementine? Con yªu, nÕu con cã thÓ nghe ®­îc ®iÒu nµy, h·y gäi c¶nh s¸t. Sè 911 nhÐ. Chóng ta sÏ lu«n yªu c-
 220)  ANSWERING MACHINE
-No new messages.
+Kh«ng cã tin nh¾n míi.

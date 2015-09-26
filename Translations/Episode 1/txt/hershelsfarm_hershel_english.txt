@@ -1,25 +1,25 @@
 1)  HERSHEL
-{normalC} A man asks you your name, you give it. {disgustA} Unless that name is no good.
+{normalC} Mét ng­êi hái tªn cËu, cËu nãi. {disgustA} Trõ phi c¸i tªn Êy cã vÊn ®Ò.
 2)  HERSHEL
-{angryA} You should know that if you weren't leaving with Kenny today, {disgustA} I wouldn't stand for your lack of honesty last night.
+{angryA} CËu nªn biÕt r»ng nÕu nh­ cËu kh«ng rêi ®i víi Kenny h«m nay, {disgustA} T«i ®· kh«ng bá qua sù thiÕu trung thùc cña cËu tèi qua.
 3)  LEE
-{thinkingB} I'm not sure I follow.
+{thinkingB} T«i kh«ng ch¾c lµ t«i hiÓu ý «ng.
 4)  HERSHEL
-{disgustA} How'd you get out of Atlanta?
+{disgustA} CËu rêi Atlanta nh­ thÕ nµo?
 5)  LEE
-{sadA} ...On foot. I headed south and {fearA}hoofed it out of there. [sets logic liar]
+{sadA} ...B»ng ch©n. T«i h­íng vÒ phÝa ®«ng vµ {fearA}®i bé ra khái ®ã. [sets logic liar]
 6)  LEE
-{normalD} ...I got a ride and then I was in a wreck. I walked until your boy found me.
+{normalD} ...T«i cã xe vµ råi t«i trong mét vô tai n¹n. T«i ®i bé cho ®Õn khi con trai «ng t×m thÊy t«i.
 7)  LEE
-{normalD} ...I was on my way out anyway. Timing of all this just happened to be right. [sets logic liar]
+{normalD} ...T«i còng ®ang trªn ®­êng ra. TÊt c¶ mäi viÖc nµy ch¼ng canh giê mµ l¹i trïng khíp. [sets logic liar]
 8)  
-On foot.
+§i bé.
 9)  
-I got a ride.
+T«i cã xe.
 10)  
-I was on my way out anyway.
+T«i còng ®ang trªn ®­êng ra.
 11)  
-I was on my way out anyway.
+T«i còng ®ang trªn ®­êng ra.
 12)  
 [Remain Silent]
 29)  
@@ -29,115 +29,115 @@ I was on my way out anyway.
 50)  
 [Remain Silent]
 13)  HERSHEL
-{thinkingA} That's a long walk.
+{thinkingA} §i bé mét qu·ng ®­êng dµi nhØ.
 14)  HERSHEL
-{thinkingA} Hmm. Well you're no worse for wear.
+{thinkingA} Hmm. Mµ cËu tr«ng vÉn cßn sung søc l¾m nhØ.
 15)  HERSHEL
-{thinkingA} Ha, if there ever is a good time for the supposed "apocalypse."
+{thinkingA} Ha, lµm nh­ thÓ cã thêi gian nµo tèt cho c¸i thø gäi lµ "tËn thÕ" nµy vËy.
 16)  HERSHEL
-[incredulous] {thinkingA} Well, I'm sure it was complicated.
+[incredulous] {thinkingA} Chµ, ta ch¾c r»ng nã kh¸ phøc t¹p.
 70)  HERSHEL
-[incredulous] {thinkingA} Well, I'm sure it was complicated.
+[incredulous] {thinkingA} Chµ, ta ch¾c r»ng nã kh¸ phøc t¹p.
 17)  LEE
-{thinkingA} Was brought up to, yes.
+{thinkingA} V©ng, t«i ®­îc nu«i lín víi ®iÒu ®ã.
 18)  LEE
-[trying to change the subject] {fearA}{body-C} This {happyB}farm's a nice plot of land.
+[trying to change the subject] {fearA}{body-C} C¸i {happyB}n«ng tr¹i nµy lµ mét m¶nh ®Êt kh¸ nhØ.
 19)  HERSHEL
-{sadA} Never was the plan, having a place like this. It was in the family, and I guess so was I. {happyA} Family's important; it's all that matters. {thinkingA}You agree with that?
+{sadA} Ch­a bao giê lªn kÕ ho¹ch, cã mét n¬i nh­ thÕ nµy. Nã ®· tõ trong gia ®×nh, vµ ta ®o¸n lµ ta còng thÕ. {happyA} Gia ®×nh quan träng; nã lµ tÊt c¶ nh÷ng g× quan träng. {thinkingA}CËu ®ång ý víi ®iÒu ®ã chø?
 20)  HERSHEL
-{thinkingA} Where's your family now? Parents? Wife? Girlfriend?
+{thinkingA} Gia ®×nh cËu giê ë ®©u? Cha mÑ? Vî? B¹n g¸i?
 21)  HERSHEL
-{thinkingA} Heh, had you told me twenty years ago I'd be still be doing this,{happyA} I would told you that you were full of crap.
+{thinkingA} Heh, nÕu mµ cËu nãi r»ng hai m­¬i n¨m tr­íc ta vÉn ®ang lµm viÖc nµy,{happyA} Ta sÏ nãi víi cËu r»ng cËu toµn thø ví vÈn.
 22)  LEE
-{normalD} My parents are in Macon, with my brother.
+{normalD} Cha mÑ t«i ë Macon, víi em trai t«i.
 23)  LEE
-{normalD} No wife, not anymore. I think she's up in Virginia, maybe.
+{normalD} Kh«ng vî, kh«ng cßn n÷a. T«i nghÜ lµ c« Êy ë Virginia, ch¾c thÕ.
 24)  LEE
-{normalD} No family. {happyA}I had a beta fish on my desk at the University.
+{normalD} Kh«ng gia ®×nh. {happyA}T«i cã mét con c¸ beta c¶nh ë trªn bµn lµm viÖc t¹i tr­êng §¹i Häc.
 25)  LEE
 ...
 26)  
-My parents are in Macon.
+Cha mÑ t«i ë Macon.
 27)  
-No wife anymore.
+Kh«ng cßn vî n÷a.
 28)  
-No family.
+Kh«ng gia ®×nh.
 30)  HERSHEL
-{happyA} Well I hope they're all right.
+{happyA} VËy ta mong r»ng hä vÉn æn.
 31)  HERSHEL
-{sadA} Sorry to hear it.
+{sadA} RÊt tiÕc v× ®iÒu ®ã.
 32)  HERSHEL
-{sadA} I hope someone remembered to feed him.
+{sadA} T«i mong ai ®ã nhí cho nã ¨n.
 33)  HERSHEL
-{angryA} Fine. Keep your mouth shut. {disgustA} Rude as hell, but what's a man to do.
+{angryA} §­îc th«i. Cø ngËm miÖng ®i. {disgustA} Th« lç l¾m, nh­ng b¶n lÜnh ®Êy.
 71)  HERSHEL
-{angryA} Fine. Keep your mouth shut. {disgustA} Rude as hell, but what's a man to do.
+{angryA} §­îc th«i. Cø ngËm miÖng ®i. {disgustA} Th« lç l¾m, nh­ng b¶n lÜnh ®Êy.
 34)  HERSHEL
-{sadA}{body-D} But now you've got this little girl to take care of.{body-handships} Clementine, is it? {thinkingA}You just stumbled up-on her?
+{sadA}{body-D} Nh­ng giê cËu cã c« bÐ nµy ®Ó ch¨m lo råi.{body-handships} Clementine, ph¶i kh«ng? {thinkingA}CËu chØ v« t×nh gÆp ph¶i c« bÐ µ?
 36)  LEE
-{normalC}{body-A} Yeah, I was looking for help in her house.
+{normalC}{body-A} Yeah, t«i ®ang t×m ng­êi gióp trong nhµ c« bÐ.
 37)  LEE
-{normalC}{body-A} I was being attacked and she came to my rescue.
+{normalC}{body-A} T«i ®· bÞ tÊn c«ng vµ c« bÐ ®Õn cøu t«i.
 38)  LEE
-{thinkingA}{body-A} What are you getting at?
+{thinkingA}{body-A} ¤ng ®ang muèn nãi ý g×?
 39)  
-I was looking for help in her house.
+T«i ®ang t×m ng­êi gióp trong nhµ c« bÐ.
 40)  
-I was being attacked and she came to my rescue.
+T«i ®· bÞ tÊn c«ng vµ c« bÐ ®Õn cøu t«i.
 41)  
-What are you getting at?
+¤ng ®ang muèn nãi ý g×?
 42)  HERSHEL
 [judgmental, distrusting] {disgustA} Hmmph. [like, is that so]
 43)  HERSHEL
-{angryA} Can I give you a piece of advice?
+{angryA} T«i cã thÓ cho cËu mét lêi khuyªn kh«ng?
 44)  LEE
-{normalB} Sure.
+{normalB} §­îc th«i.
 45)  LEE
-{angryA}{body-C} What is it.
+{angryA}{body-C} G× vËy.
 46)  LEE
-{angryB}{body-C} Mind your own business.
+{angryB}{body-C} Lo chuyÖn cña «ng ®i.
 47)  
-Sure.
+§­îc th«i.
 48)  
-What is it?
+G× vËy?
 49)  
-Mind your own business.
+Lo chuyÖn cña «ng ®i.
 51)  HERSHEL
-{normalC}{body-D} I don't know who you are or what you did.
+{normalC}{body-D} Ta kh«ng biÕt cËu lµ ai hay cËu ®· lµm g×.
 52)  HERSHEL
-{thinkingA}{body-D} But you better become a better liar, and fast.
+{thinkingA}{body-D} Nh­ng tèt h¬n lµ cËu nªn trë thµnh ng­êi nãi dèi giái h¬n, vµ mau lªn.
 53)  HERSHEL
-{thinkingA} But you better figure out your story. Or at least what you want your story to be.
+{thinkingA} Tèt h¬n lµ cËu nªn nghÜ ra c©u chuyÖn cña cËu. Hay Ýt nhÊt c¸i mµ cËu muèn c©u chuyÖn cña cËu trë thµnh.
 54)  HERSHEL
-{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+{fearA} Gi¶ sö r»ng mäi thø kh«ng trë nªn tèt h¬n ë trong thµnh phè. {normalB} HoÆc tÖ h¬n. {thinkingA} CËu sÏ cÇn ph¶i dùa vµo sù trung thùc cña nh÷ng ng­êi l¹ nÕu nh­ cËu muèn tån t¹i. {sadA} Vµ nÕu nh÷ng ng­êi ®ã ®Æt c©u hái vÒ sù trung thùc cña cËu, cËu sÏ gÆp ph¶i r¾c ®èi ®Êy.
 67)  HERSHEL
-{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+{fearA} Gi¶ sö r»ng mäi thø kh«ng trë nªn tèt h¬n ë trong thµnh phè. {normalB} HoÆc tÖ h¬n. {thinkingA} CËu sÏ cÇn ph¶i dùa vµo sù trung thùc cña nh÷ng ng­êi l¹ nÕu nh­ cËu muèn tån t¹i. {sadA} Vµ nÕu nh÷ng ng­êi ®ã ®Æt c©u hái vÒ sù trung thùc cña cËu, cËu sÏ gÆp ph¶i r¾c ®èi ®Êy.
 69)  HERSHEL
-{fearA} Let's say things don't get better back in the cities. {normalB} Or they get worse before they do. {thinkingA} You're going to have to depend on the honesty of strangers if you're going to make it. {sadA} And if those same people get to questioning yours, you're going to be in trouble.
+{fearA} Gi¶ sö r»ng mäi thø kh«ng trë nªn tèt h¬n ë trong thµnh phè. {normalB} HoÆc tÖ h¬n. {thinkingA} CËu sÏ cÇn ph¶i dùa vµo sù trung thùc cña nh÷ng ng­êi l¹ nÕu nh­ cËu muèn tån t¹i. {sadA} Vµ nÕu nh÷ng ng­êi ®ã ®Æt c©u hái vÒ sù trung thùc cña cËu, cËu sÏ gÆp ph¶i r¾c ®èi ®Êy.
 55)  HERSHEL
-{disgustA} So whoever you are, and whatever you did, keep it to your damn self.
+{disgustA} V× vËy dï cËu lµ ai, vµ cËu ®· lµm nh÷ng g×, cø gi÷ nh÷ng ®iÒu khØ giã Êy cho cËu ®i.
 68)  HERSHEL
-{disgustA} So whoever you are, and whatever you did, keep it to your damn self.
+{disgustA} V× vËy dï cËu lµ ai, vµ cËu ®· lµm nh÷ng g×, cø gi÷ nh÷ng ®iÒu khØ giã Êy cho cËu ®i.
 56)  HERSHEL
-[a hmmph, kind of to yourself] {happyA} But at least you have the common sense to listen to a man giving you advice.
+[a hmmph, kind of to yourself] {happyA} Nh­ng chÝ Ýt cËu còng biÕt ph¶i l¾ng nghe mét ng­êi ®µn «ng ®ang cho cËu lêi khuyªn.
 57)  HERSHEL
-{fearA} Oh, and {angryA}I'd start checking the attitude, friend.
+{fearA} Oh, vµ {angryA}t«i sÏ kiÓm tra th¸i ®é ®ã nÕu lµ t«i, anh b¹n ¹.
 58)  HERSHEL
-{sadA} Oh, and {angryA}trying to be less of an asshole would serve you just fine.
+{sadA} Oh, vµ {angryA}cè g¾ng c­ xö bít khèn n¹n sÏ gióp Ých cho cËu ®Êy.
 59)  HERSHEL
-{angryA} And another thing: {thinkingA} you're going to have to figure out how to answer a goddamn question when someone asks.
+{angryA} Vµ mét ®iÒu n÷a: {thinkingA} cËu sÏ ph¶i nghÜ ra c¸ch ®Ó tr¶ lêi mét c©u hái chÕt tiÖt mçi khi cã ai ®ã hái cËu.
 60)  HERSHEL
-{surprisedA} GO! I'll get my gun.
+{surprisedA} *§i*! T«i ®i lÊy sóng.
 61)  SHAWN
-[super far away scream] SHIT THEY'RE HERE! [gets leg trapped] AHH! HELP!
+[super far away scream] *Khèn thËt chóng ®Õn ®©y råi*! [gets leg trapped] AHH! *Gióp víi*!
 62)  CLEMENTINE
 [SCREAM!] AHHHHHH!
 63)  LEE
-{fearC} What the?!--
+{fearC} C¸i g×?!--
 64)  HERSHEL
-[pickup1] And honestly, I don't even want to know.
+[pickup1] Vµ thùc t×nh mµ nãi, t«i còng kh«ng muèn biÕt.
 65)  HERSHEL
-[pickup1] {disgustA} I ain't dumb. I caught you in that lie last night; about who were with in that car.
+[pickup1] {disgustA} T«i kh«ng ph¶i th»ng ngèc. T«i biÕt cËu nãi dèi t«i tèi qua; vÒ viÖc ai ®i cïng xe víi cËu.
 66)  HERSHEL
 [pickup1] HMMPH. [pissed]
 72)  HERSHEL

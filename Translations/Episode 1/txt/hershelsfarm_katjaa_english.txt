@@ -1,164 +1,164 @@
 1)  KATJAA
-You have such pretty hair!
+Con cã m¸i tãc rÊt ®Ñp!
 2)  CLEMENTINE
-It gets lots of tangles.
+Nã bÞ rèi nhiÒu l¾m.
 3)  KATJAA
-Did your daddy give you that hat?
+Cha con cho con c¸i nãn ®ã µ?
 4)  CLEMENTINE
 Mmhmm.
 5)  CLEMENTINE
-I have a goldfish named Peanut. Mom doesn't like dogs.
+Con cã mét con c¸ vµng tªn Peanut. MÑ con kh«ng thÝch chã.
 6)  KATJAA
-Do you have any pets?
+Con cã con vËt c­ng nµo kh«ng?
 7)  KATJAA
-Oh, well we have a lab named Franklin back in Fort Lauderdale.
+Oh, chóng ta cã mét con chã gièng Labrador Retriever tªn Franklin håi cßn ë Fort Lauderdale.
 8)  KATJAA
-What's your favorite color?
+Mµu yªu thÝch cña con lµ g×?
 9)  CLEMENTINE
-Purple.
+TÝm ¹.
 10)  CLEMENTINE
-They're my favorite.
+§ã còng lµ mµu yªu thÝch cña ta ®Êy.
 11)  KATJAA
-Ooh, I like your shoes!
+Ooh, ta thÝch giµy cña con!
 12)  LEE
-Hey there, girls.
+Xin chµo, c¸c c« g¸i.
 13)  LEE
-[warm] Hey.
+[warm] Nµy.
 14)  
-You two actually looked relaxed.
+Hai ng­êi tr«ng thùc sù th­ gi·n.
 15)  LEE
-{thinkingB} Well, yeah.[like "duh"]
+{thinkingB} Well, ®óng vËy.[like "duh"]
 16)  KATJAA
-{normalA} Anyway, it's almost like {thinkingA}we didn't see people eating each other for the past three days. {happyA}It's peaceful here, no?
+{normalA} Dï sao th×, nã gÇn nh­ thÓ lµ {thinkingA}chóng ta kh«ng thÊy ng­êi ta ¨n lÉn nhau trong ba ngµy qua vËy. {happyA}N¬i ®©y thËt yªn b×nh, ph¶i kh«ng?
 17)  CLEMENTINE
-{happyB} It's easy.
+{happyB} Nã dÔ l¾m.
 18)  LEE
-{thinkingA} Oh, uh, {happyB} how is that?
+{thinkingA} Oh, uh, {happyB} nã thÕ nµo?
 19)  LEE
-{fearA} Sooo you're {happyB}good?
+{fearA} V©y lµ con {happyB}giái h¶?
 20)  KATJAA
-{happyB} I think we're doing just fine. {happyC} Clementine was just telling me about first grade.
+{happyB} T«i nghÜ bän t«i ®ang rÊt æn. {happyC} Clementine võa kÓ cho t«i vÒ cÊp mét cña c« bÐ.
 21)  LEE
-{normalC} You two actually looked relaxed.
+{normalC} Hai ng­êi tr«ng thùc sù th­ gi·n.
 22)  
-How was the city?
+Thµnh phè thÕ nµo?
 23)  LEE
-{normalD} How did you handle getting through the city?
+{normalD} ChÞ v­ît qua thµnh phè nh­ thÕ nµo?
 24)  KATJAA
 {fearA} Used to?! {disgustA} Lee, there's a horrible thing going on {happyC}but the world certainly isn't over.
 25)  KATJAA
-{thinkingB} Kenny just...drove. {sadA} We passed so many people that needed help. {sadB} And... we just... passed people, over some. Just...just...
+{thinkingB} Kenny chØ...l¸i. {sadA} Chóng t«i bá qua rÊt nhiÒu ng­êi cÇn ®­îc gióp. {sadB} Vµ... chóng t«i chØ... v­ît qua mäi ng­êi kh¸c, c¸n qua mét vµi ng­êi. ChØ...chØ...
 26)  LEE
-{happyA} Good.
+{happyA} Tèt.
 27)  LEE
-{sadB} It's ok. It's fine, you don't have to say anymore.
+{sadB} §­îc råi. Nã æn mµ, chÞ kh«ng cÇn ph¶i nãi n÷a ®©u.
 28)  KATJAA
-{happyA} What is that you do, Lee?
+{happyA} Anh lµm viÖc g× vËy, Lee?
 29)  KATJAA
-{fearA} I'm just in shock. {happyC} Talking to your girl here is a welcome bit of normal.
+{fearA} T«i chØ bÞ sèc. {happyC} §­îc trß chuyÖn víi c« bÐ cña anh ë ®©y nh­ lµ mét niÒm vui cña nh÷ng ngµy b×nh th­êng.
 30)  LEE
-{normalB} I used to teach up at the University of Georgia.
+{normalB} T«i tõng d¹y häc t¹i §¹i häc Georgia.
 31)  LEE
-{thinkingA} No, I used to. {normalC} I was let go a little while back.
+{thinkingA} Kh«ng, t«i ®· tõng. {normalC} T«i ®­îc cho nghØ viÖc mét thêi gian tr­íc.
 32)  LEE
-[Lie] {normalD} Yeah, my mistake.
+[Lie] {normalD} Yeah, lçi cña t«i.
 59)  LEE
-[Lie] {normalD} Yeah, my mistake.
+[Lie] {normalD} Yeah, lçi cña t«i.
 33)  
-No, I USED to.
+Kh«ng, t«i *tõng* lµm.
 54)  
-No, I USED to.
+Kh«ng, t«i *tõng* lµm.
 34)  
-My mistake.
+Lçi cña t«i.
 57)  
-My mistake.
+Lçi cña t«i.
 35)  KATJAA
-{sadB} That's too bad. {normalB} Well, I hear people always clamor back to college after a big disaster. {happyB} People don't want to die ignorant, I guess.
+{sadB} ThÕ th× thËt tÖ. {normalB} Mµ, t«i nghe nãi mäi ng­êi th­êng rång r¾n trë l¹i tr­êng häc sau mçi th¶m häa lín. {happyB} Con ng­êi ta kh«ng muèn chÕt thiÕu hiÓu biÕt, t«i cho lµ thÕ.
 55)  KATJAA
-{sadB} That's too bad. {normalB} Well, I hear people always clamor back to college after a big disaster. {happyB} People don't want to die ignorant, I guess.
+{sadB} ThÕ th× thËt tÖ. {normalB} Mµ, t«i nghe nãi mäi ng­êi th­êng rång r¾n trë l¹i tr­êng häc sau mçi th¶m häa lín. {happyB} Con ng­êi ta kh«ng muèn chÕt thiÕu hiÓu biÕt, t«i cho lµ thÕ.
 36)  KATJAA
-{happyB} You'll be back in the classroom in no time.
+{happyB} Anh sÏ trë l¹i líp häc sím th«i.
 58)  KATJAA
-{happyB} You'll be back in the classroom in no time.
+{happyB} Anh sÏ trë l¹i líp häc sím th«i.
 37)  KATJAA
-{normalA} Well, I just think it's important to stay optimistic around [gesturing towards his daughter at your side] {happyC}our kids.
+{normalA} Th×, t«i chØ nghÜ r»ng viÖc gi÷ sù l¹c lµ rÊt quan träng xung quanh [gesturing towards his daughter at your side] {happyC}nh÷ng ®øa trÎ cña chóng ta.
 38)  KATJAA
-{happyC} Perhaps you should check on Hershel in the barn, he's {disgustA}been awfully quiet.
+{happyC} Cã lÏ cËu nªn xem thö Hershel nh­ thÕ nµo ë trong chuång, «ng Êy {disgustA}®· kh¸ im l¾ng mét lóc råi.
 39)  
-Back in a bit.
+Quay l¹i sau.
 40)  LEE
-{happyA} Back in a bit.
+{happyA} TÝ n÷a ta quay l¹i nhÐ.
 41)  KATJAA
-[goodbye] {happyC} Ok, Lee.
+[goodbye] {happyC} §­îc ¹, Lee.
 42)  LEE
-Seems like those two are getting along.
+Cã vÎ nh­ hai ng­êi nµy ®ang rÊt hîp nhau.
 43)  LEE
-[sizing her up, to himself] Katjaa's good with her.
+[sizing her up, to himself] Katjaa rÊt tèt víi c« bÐ.
 44)  CLEMENTINE
 {happyA} Yeah.
 45)  LEE
-You having a nice time with Katjaa, Clementine?
+Con cã kho¶ng thêi gian tèt víi Katjaa chø, Clementine?
 46)  LEE
-[having said a dumb thing] Yeah, ok.
+[having said a dumb thing] Yeah, ®­îc råi.
 47)  LEE
-Um, do you have to go to the bathroom, or anything like that?
+Um, con cã cÇn ph¶i vµo nhµ vÖ sinh, hay thø g× t­¬ng tù kh«ng?
 48)  KATJAA
-{thinkingA} Lee, the young woman can take care of herself!
+{thinkingA} Lee, c« g¸i trÎ cã thÓ tù ch¨m sãc cho c« Êy!
 49)  
-What do you do?
+ChÞ lµm g×?
 50)  KATJAA
-{happyC} More than you would think, actually.
+{happyC} NhiÒu h¬n anh cã thÓ nghÜ, thËt ra.
 51)  LEE
-{happyA} Maybe the odd alligator?
+{happyA} Cã thÓ lµ con c¸ sÊu kú l¹?
 52)  KATJAA
-{happyB} I am veterinarian back in Fort Lauderdale -- {fearA} like Hershel, here, {disgustA}except more with dogs and cats and not horses.
+{happyB} T«i lµ mét b¸c sÜ thó ý khi cßn ë Fort Lauderdale -- {fearA} nh­ Hershel, ë ®©y, {disgustA}ngo¹i trõ víi nhiÒu chã mÌo h¬n vµ kh«ng ph¶i ngùa.
 53)  LEE
-{thinkingA} So uhh, what do you do{happyA} when... corpses aren't walking around?
+{thinkingA} VËy uhh, chÞ lµm g×{happyA} khi mµ... x¸c chÕt kh«ng ®i l¹i kh¾p n¬i?
 56)  LEE
-{thinkingA} No, I used to. {normalC} I was let go a little while back
+{thinkingA} Kh«ng, t«i tõng lµm. {normalC} T«i ®­îc cho nghØ viÖc mét thêi gian tr­íc.
 60)  KATJAA
-{normalA} Well, I just think it's important to say optimistic around [gesturing towards his daughter at your side] {happyC} our little ones.
+{normalA} Th×, t«i chØ nghÜ r»ng viÖc gi÷ sù l¹c lµ rÊt quan träng xung quanh [gesturing towards his daughter at your side] {happyC} nh÷ng ®øa nhãc cña chóng ta.
 61)  KATJAA
-[pickup1] I want to go home tomorrow, but even then I can't take away the things we -- the things Duck -- went through.
+[pickup1] T«i muèn vÒ nhµ vµo ngµy mai, nh­ng dï vËy t«i kh«ng thÓ nµo lÊy ®i nh÷ng thø chóng t«i -- nh÷ng thø mµ Duck -- ®· ph¶i tr¶i qua.
 62)  KATJAA
-[pickup1] Don't you want to go back to the moment before you knew about all of this?
+[pickup1] Anh cã muèn quay trë l¹i thêi ®iÓm tr­íc khi anh biÕt vÒ nh÷ng thø nµy kh«ng?
 63)  
-Who wouldn't?
+Ai mµ kh«ng muèn chø?
 64)  
-Things happen for a reason.
+Mäi viÖc x¶y ra ®Òu cã lý do cña nã.
 65)  
-Was bad before.
+Tr­íc ®©y còng tÖ.
 66)  KATJAA
-[pickup1]All of those things.
+[pickup1]TÊt c¶ nh÷ng thø nµy.
 67)  LEE
-{happyA} Those are the things we live for, right? {fearA} With those gone, what's the point?
+{happyA} Chóng lµ nh÷ng thø ta sèng v×, ph¶i kh«ng? {fearA} Víi nh÷ng thø Êy mÊt ®i, cßn nghÜa lý g× chø?
 68)  LEE
-{normalD} Anybody in their right mind would. Families and BBQ's and beers with good friends.
+{normalD} BÊt kú ai ®Çu ãc b×nh th­êng còng muèn nh­ vËy. Gia ®×nh vµ thÞt n­íng vµ bia cïng nh÷ng ng­êi b¹n tèt.
 69)  KATJAA
-[pickup1]Not what we saw.
+[pickup1]Kh«ng ph¶i nh÷ng g× chóng t«i thÊy.
 70)  LEE
-{normalD} This could all be providence, you know.
+{normalD} TÊt c¶ nh÷ng thø nµy cã thÓ lµ ý Chóa, chÞ biÕt ®Êy.
 71)  LEE
-{thinkingA} You just never realize when something is happening to you what you're being given; {happyA} maybe this will all work out.
+{thinkingA} Chóng ta kh«ng bao giê nhËn ra m×nh cã ®­îc nh÷ng g× cho ®Õn lóc cã chuyÖn x¶y ®Õn; {happyA} cã lÏ viÖc nµy råi sÏ æn c¶ th«i.
 72)  KATJAA
-[pickup1]Your optimism is...refreshing. New. These past couple days, at least.
+[pickup1]Sù l¹c quan cña anh thËt lµ...t­¬i míi. Míi mÎ. Trong nh÷ng ngµy võa qua, chÝ Ýt lµ nh­ vËy.
 73)  LEE
-{thinkingB} But they weren't before? {angryA} The banks, the politics, the-the crap -- those things are gone. {normalB} Hell comes in a lot of different colors.
+{thinkingB} Nh­ng mµ chóng kh«ng tÖ tr­íc ®©y hay sao? {angryA} Ng©n hµng, chÝnh trÞ, thø-thø tåi tÖ -- nh÷ng thø ®ã ®· biÕn mÊt. {normalB} §Þa ngôc ®Õn theo rÊt nhiÒu c¸ch kh¸c nhau.
 74)  LEE
-{disgustB} Things were bad before, bad now, but they're different, you see?
+{disgustB} Mäi thø tõng tÖ tr­íc ®©y, vµ b©y giê còng thÕ, nh­ng mµ chóng kh¸c biÖt, chÞ thÊy ®Êy?
 75)  KATJAA
-[pickup1]People are eating each other.
+[pickup1]Ng­êi ta ¨n lÉn nhau.
 76)  KATJAA
-[pickup1]My last thought I had before seeing any of what happened was of those wrinkly Shar pei's I see at the clinic. I want to go right back to thinking about that silly dog.
+[pickup1]Suy nghÜ cuèi cïng mµ t«i cã tr­íc khi nh×n thÊy nh÷ng thø nµy x¶y ra lµ vÒ mÊy con chã Shar pei da xÖ t«i thÊy ë tr¹m x¸. T«i muèn quay trë l¹i viÖc suy nghÜ vÒ con chã ngèc ngÕch ®ã.
 82)  KATJAA
-[pickup1]My last thought I had before seeing any of what happened was of those wrinkly Shar pei's I see at the clinic. I want to go right back to thinking about that silly dog.
+[pickup1]Suy nghÜ cuèi cïng mµ t«i cã tr­íc khi nh×n thÊy nh÷ng thø nµy x¶y ra lµ vÒ mÊy con chã Shar pei da xÖ t«i thÊy ë tr¹m x¸. T«i muèn quay trë l¹i viÖc suy nghÜ vÒ con chã ngèc ngÕch ®ã.
 77)  KATJAA
-[pickup1]We need to HOPE that we go back to our jobs soon, Lee. Back to normal. It can't stay like this.
+[pickup1]Chóng ta cÇn ph¶i *hy väng* r»ng chóng ta sÏ sím trë vÒ víi c«ng viÖc cña m×nh, Lee ¹. Trë vÒ b×nh th­êng. Kh«ng thÓ thÕ nµy m·i ®­îc.
 78)  KATJAA
-[pickup1] We'll all be home soon.
+[pickup1] Chóng ta sÏ ®Òu ®­îc vÒ nhµ sím th«i.
 79)  KATJAA
-[pickup1] We'll all be home soon.
+[pickup1] Chóng ta sÏ ®Òu ®­îc vÒ nhµ sím th«i.
 80)  
-Look At
+Nh×n vµo
 81)  
-Talk to
+Nãi víi

@@ -21,92 +21,92 @@ Shawn
 11)  
 Zombie
 12)  
-Help keep the door closed.
+Gióp gi÷ cöa.
 13)  
-Hold <button> to hold the door.
+Gi÷ <button> ®Ó gi÷ cöa.
 14)  
-Barricade the door.
+ChÆn cöa.
 15)  
-Take the cane.
+LÊy c©y gËy.
 16)  
-Save Carley or Doug.
+Cøu Carley hoÆc Doug.
 17)  
-Kick out the window.
+§¸ cöa kÝnh.
 18)  
-Get your handcuffs off.
+Th¸o cßng tay.
 19)  
-Scramble to safety.
+Tr­ên tíi n¬i an toµn.
 20)  
-Get away.
+Tr¸nh ®i.
 21)  
-Look for something to save your life.
+T×m thø g× ®ã ®Ó tù cøu b¶n th©n.
 22)  
-Run.
+Ch¹y.
 23)  
-Get over the fence.
+V­ît qua hµng rµo.
 24)  
-Look for help.
+T×m sù gióp ®ì.
 25)  
-Check the machine.
+KiÓm tra c¸i m¸y.
 26)  
-Lock the door.
+Khãa cöa.
 27)  
-Ice Machine
+M¸y lµm ®¸
 28)  
-Look At
+Nh×n vµo
 29)  
-Talk To
+Nãi víi
 30)  
-Use
+Dïng
 31)  
-Take
+LÊy
 32)  
-Open
+Më
 33)  
-Go
+§i
 34)  
-Move To
+Di chuyÓn tíi
 35)  
-Push
+§Èy
 36)  
-Use Gear Shift
+Dïng cÇn sè
 37)  
-Unlock
+Më khãa
 38)  
-Search
+Lôc t×m
 39)  
-Look through
+Nh×n qua
 40)  
 Exit
 52)  
 Exit
 41)  
-Examine
+KiÓm tra
 42)  
-Move
+Di chuyÓn
 43)  
 Hershel
 44)  
-Help
+Gióp
 45)  
-Hit
+§Ëp
 46)  
-Pick Up
+NhÆt
 47)  
-Pull
+KÐo
 48)  
 Sean's Silence Text
 49)  
 ...
 50)  
-Stomp
+DÉm
 51)  
-TO BE CONTINUED...
+Cßn TiÕp...
 53)  
-Back
+Trë l¹i
 54)  
-Back
+Trë l¹i
 55)  
-Back
+Trë l¹i
 56)  
-Back
+Trë l¹i

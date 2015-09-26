@@ -1,100 +1,100 @@
 1)  LEE
-[gathering himself] {fearA} Man...
+[gathering himself] {fearA} Trêi...
 2)  CLEMENTINE
-{fearA} Did you kill it?
+{fearA} Chó giÕt nã ch­a?
 3)  
-Yes.
+Råi.
 4)  
-I don't know. I think so.
+Ta kh«ng biÕt. Ta nghÜ thÕ.
 5)  
-Something else did.
+Thø g× kh¸c ®· giÕt nã.
 7)  LEE
-{normalD}{body-c2}Yes.
+{normalD}{body-c2}Råi.
 8)  LEE
-{normalB} I think so too.
+{normalB} Ta nghÜ thÕ.
 9)  CLEMENTINE
-{sadA} {body-handsopen} It's okay. I think she was a monster.
+{sadA} {body-handsopen} Kh«ng sao ®©u. Con nghÜ c« Êy lµ qu¸i vËt.
 10)  CLEMENTINE
-{fearB} {body-handonwrist} Sometimes they come back.
+{fearB} {body-handonwrist} §«i khi chóng sèng l¹i.
 11)  LEE
-[disbelief] {surpriseA} Have you killed one?
+[disbelief] {surpriseA} Con ®· giÕt mét con nµo ch­a?
 12)  LEE
-{thinkingB} {body-c2} I don't know. {sadA} I think so.
+{thinkingB} {body-c2} Ta kh«ng biÕt. {sadA} Ta nghÜ thÕ.
 13)  LEE
-{thinkingB} {body-c2}I think something else did. {normalD} Before me, {sadA} I think.
+{thinkingB} {body-c2}Ta nghÜ thø g× kh¸c ®· giÕt nã. {normalD} Tr­íc ta, {sadA} ta nghÜ vËy.
 14)  CLEMENTINE
-{sadC} {body-handonwrist}I heard her scream two nights ago. {fearA} Maybe one of the monsters got her.
+{sadC} {body-handonwrist}Con nghe c« Êy hÐt vµo hai ®ªm tr­íc. {fearA} Ch¾c lµ mét con qu¸i vËt b¾t ®­îc c« Êy.
 15)  LEE
-[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} Two nights ago? {sadB} Yeah, that's probably what happened.
+[delicately, talking to a little girl about how she heard someone get eaten by a zombie, she says maybe that person is dead.] {surpriseB} Hai ®ªm tr­íc? {sadB} Yeah, ®ã cã vÎ nh­ lµ nh÷ng g× ®· x¶y ra.
 16)  LEE
-There's someone outside.
+Cã ai ®ã ë ngoµi.
 17)  CLEMENTINE
 {cryingA} Oh.
 18)  CLEMENTINE
-{sadA} {body-handsopen}Yeah.{sadC} I want my parents to come home now.
+{sadA} {body-handsopen}Yeah.{sadC} Con muèn cha mÑ con vÒ nhµ b©y giê.
 19)  CLEMENTINE
-Someone alive!
+Ai ®ã cßn sèng!
 20)  LEE
-Yeah, let's go check it out.
+Yeah, h·y ®i kiÓm tra xem.
 21)  LEE
-{sadC} I think that might be a little while, {normalD} you know?
+{sadC} Ta nghÜ sÏ mÊt mét kho¶ng thêi gian cho tíi lóc ®ã, {normalD} con biÕt chø?
 22)  LEE
-{sadA} {body-c2}You've been all by yourself through this?
+{sadA} {body-c2}Con chØ cã mét m×nh trong suèt thêi gian qua µ?
 23)  CLEMENTINE
-[No] {sadB}{body-fists} No. {fearA} But they get shot a lot.
+[No] {sadB}{body-fists} Kh«ng. {fearA} Nh­ng chóng bÞ b¾n nhiÒu l¾m.
 24)  LEE
-{disgustA} But I gotta sit down for a minute and just, you know, gather myself.
+{disgustA} Nh­ng ta ph¶i ngåi xuèng mét tÝ vµ chØ, con biÕt ®Êy, b×nh tÜnh l¹i.
 25)  LEE
-{normalC} Look, I don't know what happened. {thinkingA} But I'll look after you until then.
+{normalC} Nghe nµy, ta kh«ng biÕt chuyÖn g× ®· x¶y ra. {thinkingA} Nh­ng ta sÏ ch¨m sãc con ®Õn lóc ®ã.
 26)  CLEMENTINE
-{fearB}No! Here's not good, {fearA}especially not when it's dark.
+{fearB}Kh«ng! Chç nµy kh«ng æn ®©u, {fearA}nhÊt lµ khi trêi tèi.
 27)  CLEMENTINE
-[tentative] {sadB} Ok... I guess that's ok.
+[tentative] {sadB} §­îc... Con nghÜ lµ thÕ kh«ng sao.
 28)  LEE
-{surpriseA} Where then?
+{surpriseA} VËy th× ë ®©u?
 29)  LEE
-{normalD} Hi there.
+{normalD} Chµo con.
 30)  
-Look for help, before it gets dark.
+§i t×m trî gióp, tr­íc khi trêi tèi.
 31)  CLEMENTINE
-[pickup1] [nervous, scared] What should we do now?
+[pickup1] [nervous, scared] Chóng ta nªn lµm g× b©y giê?
 32)  
-Get out of here once the sun goes down.
+Ra khái ®©y khi mÆt trêi ®· lÆn.
 33)  LEE
-[pickup3] We should look for help... [follows up with "now" or "later"]
+[pickup3] Chóng ta nªn ®i t×m trî gióp... [follows up with "now" or "later"]
 34)  CLEMENTINE
-[pickup1] Yeah, it's not safe at night.
+[pickup1] Yeah, kh«ng an toµn vµo ban ®ªm.
 45)  CLEMENTINE
-[pickup1] Yeah, it's not safe at night.
+[pickup1] Yeah, kh«ng an toµn vµo ban ®ªm.
 35)  LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] §i nµo. H·y ë s¸t ta.
 41)  LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] §i nµo. H·y ë s¸t ta.
 44)  LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] §i nµo. H·y ë s¸t ta.
 50)  LEE
-[pickup3] Let's go. Stay close to me.
+[pickup3] §i nµo. H·y ë s¸t ta.
 36)  LEE
-[pickup3] We need to find help before it gets dark.
+[pickup3] Chóng ta cÇn ph¶i ®i t×m trî gióp tr­íc khi trêi tèi.
 43)  LEE
-[pickup3] We need to find help before it gets dark.
+[pickup3] Chóng ta cÇn ph¶i ®i t×m trî gióp tr­íc khi trêi tèi.
 37)  CLEMENTINE
-[pickup1] That sounds good.  We can hide in my treehouse until then.
+[pickup1] Nh­ vËy nghe æn ®Êy.  Chóng ta cã thÓ trèn trong nhµ trªn c©y cña con ®Õn lóc ®ã.
 49)  CLEMENTINE
-[pickup1] That sounds good.  We can hide in my treehouse until then.
+[pickup1] Nh­ vËy nghe æn ®Êy.  Chóng ta cã thÓ trèn trong nhµ trªn c©y cña con ®Õn lóc ®ã.
 38)  LEE
-[pickup3] We need to get out of this neighborhood; it's not safe. We're less likely to be seen if we move at night.
+[pickup3] Chóng ta cÇn ph¶i ra khái khu nµy; nã kh«ng an toµn. Chóng ta sÏ khã bÞ thÊy h¬n nÕu di chuyÓn vµo ban ®ªm.
 48)  LEE
-[pickup3] We need to get out of this neighborhood; it's not safe. We're less likely to be seen if we move at night.
+[pickup3] Chóng ta cÇn ph¶i ra khái khu nµy; nã kh«ng an toµn. Chóng ta sÏ khã bÞ thÊy h¬n nÕu di chuyÓn vµo ban ®ªm.
 39)  CLEMENTINE
-[pickup1] [nervous]My parents might come home.
+[pickup1] [nervous]Cha mÑ con cã thÓ vÒ nhµ.
 47)  CLEMENTINE
-[pickup1] [nervous]My parents might come home.
+[pickup1] [nervous]Cha mÑ con cã thÓ vÒ nhµ.
 40)  LEE
-[pickup3] We won't go far. We'll try to find a shelter and come back here with others.
+[pickup3] Chóng ta sÏ kh«ng ®i xa. Chóng ta sÏ cè t×m chç Èn n¸u vµ quay l¹i ®©y víi nh÷ng ng­êi kh¸c.
 51)  LEE
-[pickup3] We won't go far. We'll try to find a shelter and come back here with others.
+[pickup3] Chóng ta sÏ kh«ng ®i xa. Chóng ta sÏ cè t×m chç Èn n¸u vµ quay l¹i ®©y víi nh÷ng ng­êi kh¸c.
 42)  LEE
-[pickup3] [talking to clementine] It'll be a tough climb with this leg but that's a good idea.
+[pickup3] [talking to clementine] SÏ khã leo víi c¸i ch©n nµy l¾m ®©y nh­ng ®ã lµ mét ý kiÕn hay.
 46)  LEE
-[pickup3] [talking to clementine] It'll be a tough climb with this leg but that's a good idea.
+[pickup3] [talking to clementine] SÏ khã leo víi c¸i ch©n nµy l¾m ®©y nh­ng ®ã lµ mét ý kiÕn hay.

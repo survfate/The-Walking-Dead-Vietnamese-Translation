@@ -1,241 +1,241 @@
 1)  JAKE
 Oh man I'm such a fart. KAFUCKINGBOOM!
 2)  HERSHEL
-[pickup1][utterly relieved]Thank God, you're ok.
+[pickup1][utterly relieved]C¶m ¬n Chóa, con vÉn æn.
 3)  SHAWN
-{sadA}{body-standB} I was worried it'd be bad here, too.
+{sadA}{body-standB} Con ®· lo r»ng ë ®©y còng tÖ nh­ nh÷ng chç kh¸c.
 4)  HERSHEL
-{thinkingA} We haven't seen a thing. City problem, it seems. {happyA}{body-standhandships} And you've brought guests. What can we do for you?
+{thinkingA} Chóng ta kh«ng hÒ thÊy bÊt cø thø g×. Cã vÎ nh­ lµ vÊn ®Ò cña thµnh phè. {happyA}{body-standhandships} Vµ con cã ®em theo kh¸ch. Chóng t«i cã thÓ lµm g× cho hai ng­êi?
 5)  LEE
-{normalD}{body-A} Your boy's a lifesaver.
+{normalD}{body-A} Con trai cña «ng lµ mét ng­êi cøu m¹ng.
 6)  LEE
-{sadA} We uhh... need a place to stay.
+{sadA} Chóng t«i õmm... cÇn mét n¬i ®Ó ë.
 7)  LEE
-{thinkingA} We just need a little... help. We won't stay long.
+{thinkingA} Chóng t«i chØ cÇn mét chót... gióp ®ì. Chóng t«i sÏ kh«ng ë l©u ®©u.
 8)  LEE
-{sadA} We're looking for anywhere safe.
+{sadA} Chóng t«i ®ang t×m bÊt cø n¬i nµo an toµn.
 9)  
-Your boy is a lifesaver.
+Con trai cña «ng lµ mét ng­êi cøu m¹ng.
 10)  
-We need a place to stay.
+Chóng t«i cÇn mét n¬i ®Ó ë.
 11)  
-We just need some help.
+Chóng t«i chØ cÇn mét chót gióp ®ì.
 12)  
-We're looking for anywhere safe.
+Chóng t«i ®ang t×m bÊt cø n¬i nµo an toµn.
 13)  HERSHEL
-[sarcastic] {normalB} Glad he could be of help to somebody.
+[sarcastic] {normalB} Mõng lµ nã cã thÓ gióp ®­îc ai ®ã.
 14)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 16)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 17)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 18)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 368)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 534)  HERSHEL
-{normalA} You're welcome to stay here, but for just for the night. {disgustA} I don't run a bed and breakfast.
+{normalA} Hai ng­êi ®­îc chµo ®ãn ®Ó ë l¹i ®©y, nh­ng chØ trong ®ªm nay. {disgustA} Ta kh«ng cã gi­êng vµ b÷a s¸ng miÔn phÝ mçi ngµy ®©u.
 15)  HERSHEL
-{normalA} Good.
+{normalA} Tèt.
 19)  SHAWN
-{normalC} He's hurt and he's trying to get to Macon. I told him you could patch him up.
+{normalC} CËu Êy bÞ th­¬ng vµ ®ang cè tíi Macon. Con nãi víi cËu Êy r»ng cha cã thÓ b¨ng cËu Êy l¹i.
 20)  LEE
-{disgustA} My leg's a little banged up. {fearA} Shawn said you might be able to wrap it, at least.
+{disgustA} Ch©n t«i h¬i tÖ. {fearA} Shawn nãi r»ng «ng cã thÓ b¨ng nã l¹i, Ýt nhÊt lµ nh­ vËy.
 21)  HERSHEL
-{happyA}{body-standA} I can help you out.  Shawn, run on in and check on your sister. You, take a seat up on the porch and I'll go see what I have.
+{happyA}{body-standA} T«i cã thÓ gióp cËu.  Shawn, vµo kiÓm tra em con ®i. Cßn cËu, vµo ngåi ë hiªn vµ ta sÏ ®i xem ta cã g×.
 22)  HERSHEL
-{normalC} Let's have a look. [a beat...] {disgustA} Yeah, this is swollen to hell.
+{normalC} Xem nµo. [a beat...] {disgustA} Yeah, s­ng to nh­ quû.
 23)  LEE
-{thinkingB} It HURTS like hell.
+{thinkingB} Nã *®au* nh­ quû.
 24)  LEE
-{normalC} It's not too bad.
+{normalC} Nã kh«ng tÖ l¾m.
 25)  LEE
-{normalC} Could be worse.
+{normalC} Cã thÓ tÖ h¬n.
 26)  HERSHEL
-{sadA} I bet it does
+{sadA} Ta c¸ lµ nh­ vËy.
 27)  HERSHEL
-[Rhetorical] {happyA} Tough guy, huh?
+[Rhetorical] {happyA} Chµng trai cøng r¾n, hö?
 28)  HERSHEL
-{thinkingA} That's what it sounds like. Seems like things got awful bad in the cities.
+{thinkingA} Nghe ®©u ®óng lµ nh­ vËy. Cã vÎ nh­ mäi thø ®Òu rÊt tÖ h¹i trong thµnh phè.
 29)  HERSHEL
-{normalA} Well you don't say much. {happyA}  Wish I had five just like you.
+{normalA} Chµ cËu kh«ng nãi nhiÒu nhØ. {happyA}  ¦íc g× ta cã n¨m ®øa gièng nh­ cËu.
 523)  HERSHEL
-{normalA} Well you don't say much. {happyA}  Wish I had five just like you.
+{normalA} Chµ cËu kh«ng nãi nhiÒu nhØ. {happyA}  ¦íc g× ta cã n¨m ®øa gièng nh­ cËu.
 30)  
-It hurts like hell.
+Nã ®au nh­ quû.
 31)  
-It's not too bad.
+Nã kh«ng tÖ l¾m.
 32)  
-Could be worse.
+Cã thÓ tÖ h¬n.
 33)  HERSHEL
-{thinkingA} What'd you say your name was?
+{thinkingA} CËu nãi tªn cËu lµ g× nhØ?
 34)  LEE
-{happyA} It's Lee.
+{happyA} Lµ Lee.
 35)  LEE
-{angryA} Doesn't matter, right?
+{angryA} Kh«ng quan träng, ph¶i kh«ng?
 36)  LEE
-{angryA} I didn't.
+{angryA} T«i ch­a nãi.
 37)  
-It's Lee.
+Lµ Lee.
 38)  
-Doesn't matter.
+Kh«ng quan träng.
 39)  
-I didn't.
+T«i ch­a nãi.
 40)  HERSHEL
-{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+{happyA} RÊt vui ®­îc gÆp cËu, Lee. Ta lµ Hershel Greene.
 48)  HERSHEL
-{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+{happyA} RÊt vui ®­îc gÆp cËu, Lee. Ta lµ Hershel Greene.
 524)  HERSHEL
-{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+{happyA} RÊt vui ®­îc gÆp cËu, Lee. Ta lµ Hershel Greene.
 544)  HERSHEL
-{happyA} Nice to meet you, Lee. I'm Hershel Greene.
+{happyA} RÊt vui ®­îc gÆp cËu, Lee. Ta lµ Hershel Greene.
 41)  HERSHEL
-{disgustA} Huh. Well, if you're going to be here overnight I'm going to need it. {angryA} Unless you'd rather hit the road.
+{disgustA} Hõ. Chµ, nÕu nh­ cËu ®Þnh ë ®©y qua ®ªm ta sÏ cÇn nã. {angryA} Trõ phi cËu muèn lªn ®­êng.
 42)  LEE
-{thinkingA} It's Lee.
+{thinkingA} Lµ Lee.
 43)  HERSHEL
-{happyA} Well Lee -- just Lee, I take it? I'm Hershel Greene.
+{happyA} Chµ Lee -- chØ Lee th«i, nhØ? Ta lµ Hershel Greene.
 44)  HERSHEL
-{angryA} Well, now's the time.
+{angryA} Chµ, tíi lóc råi ®Êy.
 45)  HERSHEL
-{angryA} I'm gonna need a name.
+{angryA} Ta sÏ cÇn mét c¸i tªn.
 526)  HERSHEL
-{angryA} I'm gonna need a name.
+{angryA} Ta sÏ cÇn mét c¸i tªn.
 542)  HERSHEL
-{angryA} I'm gonna need a name.
+{angryA} Ta sÏ cÇn mét c¸i tªn.
 46)  LEE
-{normalB} It's Lee.
+{normalB} Lµ Lee.
 525)  LEE
-{normalB} It's Lee.
+{normalB} Lµ Lee.
 543)  LEE
-{normalB} It's Lee.
+{normalB} Lµ Lee.
 47)  HERSHEL
-{normalC} That wasn't so hard, was it?
+{normalC} Nh­ thÕ kh«ng khã l¾m, ph¶i kh«ng?
 527)  HERSHEL
-{normalC} That wasn't so hard, was it?
+{normalC} Nh­ thÕ kh«ng khã l¾m, ph¶i kh«ng?
 545)  HERSHEL
-{normalC} That wasn't so hard, was it?
+{normalC} Nh­ thÕ kh«ng khã l¾m, ph¶i kh«ng?
 49)  HERSHEL
-{sadA} How'd this happen?
+{sadA} ViÖc nµy x¶y ra nh­ thÕ nµo?
 50)  LEE
-[Lie] {thinkingA} I fell trying to get away from one of those things.
+[Lie] {thinkingA} T«i ng· khi ®ang cè tr¸nh khái mét trong nh÷ng thø ®ã.
 51)  LEE
-[short] {sadA} Car accident.
+[short] {sadA} Tai n¹n xe.
 52)  LEE
-{sadA} I just twisted it.
+{sadA} T«i chØ bÞ trÆc ch©n th«i.
 53)  LEE
-{thinkingA} I don't even remember. {sadA} It's crazy back there in the city.
+{thinkingA} T«i cßn kh«ng nhí ®­îc. {sadA} Mäi thø ®Òu ®iªn lo¹n ë trong th»nh phè.
 528)  LEE
-{thinkingA} I don't even remember. {sadA} It's crazy back there in the city.
+{thinkingA} T«i cßn kh«ng nhí ®­îc. {sadA} Mäi thø ®Òu ®iªn lo¹n ë trong th»nh phè.
 54)  
-I fell.
+T«i ng·.
 55)  
-Car accident.
+Tai n¹n xe.
 56)  
-Jumping a fence.
+Nh¶y qua hµng rµo.
 409)  LEE
-Jumping a fence.
+Nh¶y qua hµng rµo.
 57)  
-I don't remember.
+T«i kh«ng nhí.
 58)  HERSHEL
-{thinkingA} That so. [doubting]
+{thinkingA} ThÕ sao. [doubting]
 59)  HERSHEL
-{thinkingA} That so. [doubting]
+{thinkingA} ThÕ sao. [doubting]
 60)  HERSHEL
-{thinkingA} That so. [doubting]
+{thinkingA} ThÕ sao. [doubting]
 61)  HERSHEL
-{thinkingA} Huh. It must be.
+{thinkingA} Hõ. Ch¾c lµ nh­ thÕ.
 529)  HERSHEL
-{thinkingA} Huh. It must be.
+{thinkingA} Hõ. Ch¾c lµ nh­ thÕ.
 62)  HERSHEL
-Huh. It must be.
+Hõ. Ch¾c lµ nh­ thÕ.
 63)  LEE
-{sadA} I found her on own just outside of Atlanta.
+{sadA} T«i t×m thÊy c« bÐ ®ang mét m×nh chØ ngay ngoµi Atlanta.
 64)  LEE
-{happyA} Thanks. She's {thinkingA} not my daughter.
+{happyA} C¶m ¬n. C« bÐ {thinkingA} kh«ng ph¶i con t«i.
 65)  HERSHEL
 {thinkingA} Oh?
 66)  SHAWN
-{sadA} {body-standB} Hey dad, {thinkingB} so I'm thinking, first thing tomorrow, we gotta reinforce the fence around the farm.
+{sadA} {body-standB} Nµy cha, {thinkingB} con ®ang nghÜ lµ, ®iÒu ®Çu tiªn ngµy mai, chóng ta ph¶i gia cè hµng rµo xung quanh n«ng tr¹i l¹i.
 67)  HERSHEL
-[pickup1]House is full up with mine. We've got another displaced family of three sleeping in the barn. You and your daughter are welcome to rest there, when we're done here.
+[pickup1]Ng«i nhµ ®· chËt chéi víi gia ®×nh ta råi. Chóng ta cßn mét gia ®×nh ba ng­êi t¸ tóc n÷a ®ang ngñ trong chuång. CËu vµ con g¸i cËu ®­îc chµo mõng nghØ ng¬i ë ®ã, khi mµ chóng ta xong viÖc ë ®©y.
 68)  LEE
-{normalB} I'm looking after her until we {normalC}find her parents.
+{normalB} T«i ch¨m sãc c« bÐ ®Õn lóc chóng t«i {normalC}t×m ®­îc cha mÑ cña c« bÐ.
 69)  HERSHEL
-{disgustA} That doesn't seem necessary.
+{disgustA} §iÒu ®ã kh«ng cã vÎ cÇn thiÕt.
 70)  SHAWN
-[pickup1] I don't know what you saw on TV, or heard on the radio, but there's some {fearA}serious...[keeps it down with a kid around] {thinkingA} SHIT hitting the fan.
+[pickup1] Con kh«ng biÕt cha thÊy g× trªn TV, hay nghe ®­îc trªn radio, nh­ng cã thø g× ®ã {fearA}cùc kú...[keeps it down with a kid around] {thinkingA} *tÖ h¹i* ®· ®ông ®Õn c¸i m¸y.
 71)  
-Your son is right.
+Con «ng ®óng ®Êy.
 72)  
-I wouldn't worry too much.
+T«i kh«ng lo l¾ng l¾m.
 73)  LEE
-{normalA} Your son's right. {angryA} You're going to want to fortify this place.
+{normalA} Con «ng ®óng ®Êy. {angryA} ¤ng sÏ muèn lµm kiªn cè n¬i nµy.
 74)  LEE
-{thinkingA} I wouldn't worry too much.  We're pretty far from the city, it seems like that's where it's the worst.
+{thinkingA} T«i kh«ng lo l¾ng l¾m.  Chóng ta kh¸ xa thµnh phè, cã vÎ nh­ lµ ë ®ã míi lµ n¬i tÖ nhÊt.
 75)  SHAWN
-{angryA} Dad, I'm serious. {sadA} Lee, come on, tell him what you saw out there, man.
+{angryA} Cha, con nghiªm tóc ®Êy. {sadA} Lee, coi nµo, nãi cho «ng Êy cËu thÊy g× ngoµi ®ã ®i.
 76)  HERSHEL
-{happyA} Stuff like that doesn't happen around here, Shawn.
+{happyA} Nh÷ng thø nh­ thÕ kh«ng x¶y ra xung quanh ®©y, Shawn.
 77)  LEE
-{fearA} I watched a man let himself get run over without blinking an eye.
+{fearA} T«i chøng kiÕn mét ng­êi ®µn «ng ®Ó b¶n th©n bÞ c¸n ®Ì trong chíp m¾t.
 78)  LEE
-{fearA} I saw a cop come back from the dead.
+{fearA} T«i thÊy mét ng­êi c¶nh s¸t quay l¹i tõ câi chÕt.
 79)  LEE
-{fearA} I got chased by two undead monsters. Zombies, {thinkingA} as dumb as it sounds.
+{fearA} T«i bÞ ®uæi theo bëi hai con qu¸i vËt ®· chÕt. Zombie, {thinkingA} dï r»ng nghe rÊt ngèc khi nãi nh­ vËy.
 80)  LEE
-{fearA} Teenage girl with her guts spilled out on the floor stood up from the dead and tried to bite me.
+{fearA} Mét c« g¸i trÎ víi ruét gan phßi ra trªn sµn ®øng dËy tõ câi chÕt vµ cè g¾ng c¾n t«i.
 81)  
-I watched a man let himself get run over.
+T«i chøng kiÕn mét ng­êi ®µn «ng ®Ó b¶n th©n bÞ c¸n ®Ì.
 82)  
-A man got run over.
+Mét ng­êi ®µn «ng bÞ c¸n ®Ì.
 83)  
-A dead cop crawling on the ground.
+Mét ng­êi c¶nh s¸t chÕt bß trªn mÆt ®Êt.
 84)  
-Dead people, walking.
+Ng­êi chÕt, b­íc ®i.
 85)  
-A girl with her guts spilled out.
+Mét c« g¸i trÎ víi ruét gan phßi ra.
 86)  SHAWN
-{sadB} Come on, tell him.
+{sadB} Coi nµo, nãi víi «ng Êy ®i.
 87)  SHAWN
-{angryA} Tell him!
+{angryA} Nãi víi «ng Êy ®i!
 88)  LEE
-[giving in] {normalD} All right.
+[giving in] {normalD} §­îc råi.
 89)  HERSHEL
-{happyA} Well, I'm all done here. It should start to feel better tomorrow.
+{happyA} Chµ, Ta xong viÖc ë ®©y råi. Nã sÏ b¾t ®Çu thÊy kh¸ h¬n vµo ngµy mai.
 90)  LEE
-{normalA} All right then.
+{normalA} §­îc råi.
 91)  LEE
-{happyA} Thanks.
+{happyA} C¶m ¬n.
 92)  HERSHEL
-{normalB} There's blankets and such in the barn. We'll be seeing you bright and early.
+{normalB} Cã ch¨n vµ c¸c thø kh¸c trong chuång ®Êy. Bän ta sÏ gÆp cËu t­¬i tØnh h¬n vµo s¸ng mai.
 93)  HERSHEL
-{happyB} Goodnight, Clementine.
+{happyB} Chóc ngñ ngon, Clementine.
 94)  HERSHEL
-{angryA} I already said ok.
+{angryA} Ta ®· nãi ®­îc råi mµ.
 95)  CLEMENTINE
-{happyB} Goodnight.
+{happyB} Chóc ngñ ngon.
 96)  HERSHEL
-{sadA} Well, do what you think you should.  {normalA} We've got plenty of chores as it is.
+{sadA} §­îc råi, cø lµm nh÷ng g× con nghÜ con cho lµ cÇn thiÕt.  {normalA} Chóng ta cßn nhiÒu viÖc vÆt kh¸c n÷a ®Êy.
 97)  SHAWN
-{normalA} Lee and those folks in the barn can help out in the morning. {thinkingA} We gotta do it, really.
+{normalA} Lee vµ nh÷ng ng­êi trong chuång kia cã thÓ phô vµo buæi s¸ng. {thinkingA} Chóng ta ph¶i lµm th«i, thËt ®Êy.
 98)  CLEMENTINE
-[mumbled sleep talk] {fearB} They're-they're out there... eating... I don't want to go...
+[mumbled sleep talk] {fearB} Chóng-chóng ®ang ë ngoµi kia... ¨n... con kh«ng muèn ph¶i ®i...
 99)  LEE
-[kind of to himself] {normalA} The barn is safer {thinkingA} but not any comfier.
+[kind of to himself] {normalA} Chuång an toµn h¬n {thinkingA} nh­ng kh«ng tho¶i m¸i h¬n.
 100)  LEE
-{happyA} I know what it smells like.
+{happyA} Ta biÕt nã cã mïi nh­ thÕ nµo.
 101)  LEE
-[quiet] {sadA} Shh. You're dreaming.
+[quiet] {sadA} Shh. Con ®ang m¬ th«i.
 102)  CLEMENTINE
-[dreaming, asleep, mumbled] Sorry, dad.
+[dreaming, asleep, mumbled] Xin lçi, cha.
 103)  CLEMENTINE
-{normalA} I'm glad I'm not in the treehouse toni...
+{normalA} Con mõng v× con kh«ng ë trong nhµ trªn c©y tèi n...
 104)  CLEMENTINE
-{thinkingB} It smells like...
+{thinkingB} Nã cã mïi nh­...
 105)  MAN
-Lee, you're a good a guy, you know that?
+Lee, cËu lµ ng­êi tèt, cËu biÕt ®iÒu ®ã chø?
 106)  OTHER MAN
 [SCREAM]
 112)  WOMAN
@@ -245,239 +245,239 @@ Lee, you're a good a guy, you know that?
 114)  MAN
 [SCREAM]
 107)  MAN
-What, what are you gonna do?
+Sao, c« tÝnh lµm g×?
 108)  WOMAN
 [Screaming, horribly][WHAT DID YOU DO?]
 109)  WOMAN
 [Laughs]
 110)  KENNY
-Hey, get up.
+Nµy, dËy ®i.
 547)  KENNY
-Hey, get up.
+Nµy, dËy ®i.
 548)  KENNY
-Hey, get up.
+Nµy, dËy ®i.
 111)  WOMAN
-I love you, baby.
+Ta yªu con, con yªu.
 115)  WOMAN
-Oh hons! Don't be ridiculous... I'll be right back...
+Oh c­ng µ! §õng ngèc thÕ chø... Em sÏ quay trë l¹i ngay...
 116)  OTHER MAN
-[Authoritative, like a cop] Sir, get up.
+[Authoritative, like a cop] Th­a Ngµi, dËy ®i.
 117)  KENNY
-{happyA} We better get going or we won't hear the end of it.
+{happyA} Chóng ta nªn ®i th«i kh«ng th× chóng ta sÏ bá lì chuyÖn ®ã mÊt.
 118)  KENNY
-{happyB} But I bet your daddy scared 'em all away, huh?
+{happyB} Nh­ng ta c¸ lµ cha c« ®· däa chóng ®i hÕt, nhØ?
 119)  KENNY
-{normalB} I'm Kenny.
+{normalB} T«i lµ Kenny.
 120)  KENNY
-{happyA}{body-standA} Good morning, pal. {thinkingA} Looks like there's a little work to be done and {happyB}I guess we're helping out.
+{happyA}{body-standA} Chµo buæi s¸ng, anh b¹n. {thinkingA} Cã vÎ nh­ lµ cã vµi viÖc cÇn ph¶i lµm vµ {happyB}t«i ch¾c lµ chóng ta sÏ gióp hä.
 121)  LEE
-{thinkingA} I'm not her father, actually. {happyA} Name's Lee.
+{thinkingA} ThËt ra th×, t«i kh«ng ph¶i cha c« bÐ. {happyA} T«i tªn Lee.
 122)  CLEMENTINE
-{thinkingB} I'm itchy.
+{thinkingB} Con ngøa qu¸.
 123)  LEE
 [groggy] [Yawns]
 124)  KENNY
-{happyC} Well you slept in a barn, little lady. Lucky you don't have spiders in your hair.
+{happyC} C« ngñ trong chuång ®Êy, c« nhãc ¹. May m¾n lµ c« kh«ng cã nhÖn trªn tãc råi.
 125)  CLEMENTINE
 {fearB} [gasp]
 126)  DUCK
-Dad! We're gonna build a fence! There's a tractor and everything!
+Cha! Chóng ta sÏ x©y hµng rµo! Chç nµy cã m¸y kÐo vµ ®ñ mäi thø kh¸c!
 127)  KENNY
-{happyB} That's my boy, Ken Junior. We call him Duck, though.
+{happyB} §ã lµ con trai t«i, Ken con. Chóng t«i gäi nã lµ Duck, dï thÕ.
 128)  LEE
-{thinkingB} Duck?
+{thinkingB} Duck (vÞt)?
 129)  LEE
-{happyA} Dodging or quacking?
+{happyA} "C¹p c¹p" hay "qu¹c qu¹c"?
 130)  LEE
-{thinkingB} Where do parents name their kids Duck?
+{thinkingB} N¬i nµo mµ cha mÑ l¹i ®Æt tªn con hä lµ Duck?
 131)  
 Duck?
 132)  
-Dodging or quacking?
+"C¹p c¹p" hay "qu¹c qu¹c"?
 133)  
-Where do parents name their kid "duck"?
+N¬i nµo mµ cha mÑ l¹i ®Æt tªn con hä lµ "duck" (vÞt)?
 134)  LEE
-{normalC} That's a valuable trait lately.
+{normalC} §ã lµ mét dÊu vÕt gi¸ trÞ gÇn ®©y.
 135)  KENNY
-{normalB} Yea. Nothing bothers him. {happyA} Like water off a duck's back, y'know.
+{normalB} Yea. Ch¼ng cã g× lµm nã bËn t©m c¶. {happyA} Nh­ n­íc ®æ l­ng vÞt, cËu biÕt ®Êy.
 136)  KENNY
-{thinkingA} No kidding. {sadA} But frankly, I think it's because he's dumb as a bag of hammers.
+{thinkingA} Kh«ng ®ïa ®©u. {sadA} Nh­ng thËt t×nh mµ nãi, t«i nghÜ bëi v× nã ngèc nh­ mét c¸i tói ®ùng bóa vËy.
 137)  KENNY
-{happyC} But he makes up for it with enthusiasm.
+{happyC} Nh­ng bï l¹i th× nã cã sù nhiÖt t×nh.
 138)  DUCK
-[from offscreen] DAAAAD!
+[from offscreen] Chaaaa!
 140)  DUCK
-[from offscreen] DAAAAD!
+[from offscreen] Chaaaa!
 139)  KENNY
-{happyA} Quacking.
+{happyA} Qu¹c qu¹c.
 141)  KENNY
-{thinkingA} See?
+{thinkingA} ThÊy ch­a?
 142)  KENNY
-{happyA} We're from Fort Lauderdale. {normalC} We were on our way back before things up and went bananas.
+{happyA} Bän t«i tõ Fort Lauderdale. {normalC} Bän t«i ®ang trªn ®­êng vÒ tr­íc khi mäi chuyÖn hçn lo¹n c¶ lªn.
 143)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 315)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 321)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 322)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 326)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 522)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 538)  KENNY
-{normalC} Well Macon's on the way and, personally, I'd appreciate the company of a guy who can {thinkingA}knock a couple of heads together if he has to.
+{normalC} Macon còng tiÖn ®­êng vµ, c¸ nh©n t«i, T«i rÊt c¶m kÝch cã mét ng­êi b¹n ®ång hµnh cã thÓ {thinkingA}biÕt xoay së khi cÇn.
 144)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 317)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 319)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 323)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 329)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 521)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 539)  KENNY
-{happyA} The word is you were on your way to Macon.
+{happyA} Nghe nãi lµ cËu ®ang trªn ®­êng ®Õn Macon.
 145)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 314)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 320)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 324)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 327)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 519)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 541)  LEE
-{normalC} My family is from there.
+{normalC} Gia ®×nh t«i ë ®ã.
 146)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 316)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 318)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 325)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 328)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 520)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 540)  KENNY
-{normalB} Anyway, Hershel needs some help around here and my truck's leaking oil like a sieve. There's a bit of work to get done before we move on.
+{normalB} Dï sao th×, Hershel cÇn vµi sù trî gióp quanh ®©y vµ xe t¶i cña t«i th× ®ang rØ dÇu nh­ c¸i r©y vËy. Cã kha kh¸ viÖc cÇn ph¶i lµm tr­íc khi chóng ta ®i tiÕp.
 147)  LEE
-{happyA} Sure, we'll... tag along.
+{happyA} §­îc th«i, chóng t«i sÏ... theo cïng.
 148)  LEE
-{normalD} Maybe, we'll see how things shake out with this Hershel guy.
+{normalD} Cã thÓ, chóng t«i sÏ xem mäi thø nh­ thÕ nµo víi g· Hershel nµy ®·.
 149)  LEE
-{normalC} I'll see what the girl would like.
+{normalC} §Ó t«i xem c« bÐ muèn thÕ nµo.
 150)  LEE
-{happyA} Thanks, but no thanks.
+{happyA} C¶m ¬n, nh­ng kh«ng.
 151)  
-Sure, we'll tag along.
+§­îc th«i, chóng t«i sÏ theo cïng.
 152)  
-Maybe. Let's see how things turn out.
+Cã thÓ. H·y xem mäi chuyÖn thÕ nµo ®·.
 153)  
-I'll ask the girl.
+§Ó t«i hái c« bÐ.
 154)  
-No thanks.
+Kh«ng, c¸m ¬n.
 155)  KENNY
-{happyB} It's a plan then.
+{happyB} KÕ ho¹ch vËy ®i nhÐ.
 156)  KENNY
-{happyC} Ha, good luck with that. He's a hard ass.
+{happyC} Ha, chóc may m¾n víi ®iÒu ®ã. H¾n lµ mét tªn cøng cùa khã tÝnh.
 157)  KENNY
-{happyC} Ah, [sarcasm, he's talking about a little girl]Gotta consult the missus. {happyA} I understand.
+{happyC} Ah, [sarcasm, he's talking about a little girl]ph¶i tham kh¶o ý kiÕn quý c« tr­íc nhØ. {happyA} T«i hiÓu mµ.
 158)  KENNY
-{sadA} Damn, friend. {normalB} You must be some kind of something if you think you two can survive out there on your own.
+{sadA} KhØ giã thËt, anh b¹n ¹. {normalB} CËu ch¾c ph¶i lµ mét c¸i thø g× ®ã nÕu cËu nghÜ hai ng­êi cËu cã thÓ tù tån t¹i ngoµi kia.
 159)  KENNY
 [introducing someone after hearing her name for the first time] {happyC} Clementine.
 160)  DUCK
-{surprisedA} On the tractor? {happyC} Cool!
+{surprisedA} Trªn m¸y kÐo? {happyC} TuyÖt!
 161)  SHAWN
-{normalB}{body-standA} Well, we should get to work. {sadA} We've all seen what those things can do out there so the faster we get this fence up, the better.
+{normalB}{body-standA} Råi, chóng ta nªn b¾t ®Çu c«ng viÖc. {sadA} Chóng ®· ®Òu ®· chøng kiÕn nh÷ng thø ®Êy cã thÓ lµm g× ë ngoµi kia v× thÕ cµng sím chóng ta dùng xong hµng rµo nµy, cµng tèt.
 162)  SHAWN
-{happyC} Yeah? Well I need a good foreman. {sadA} You can sit on the tractor and yell at me whenever I take a water break.
+{happyC} Yeah? Anh cÇn mét ng­êi ®èc c«ng giái. {sadA} Em cã thÓ ngåi trªn m¸y kÐo vµ la anh mçi khi anh nghØ gi¶i lao ®Ó uèng n­íc.
 163)  KATJAA
-{happyA} I can keep an eye on your little girl here on the porch. We can visit.
+{happyA} T«i cã thÓ tr«ng c« bÐ con cña cËu ë ®©y trªn hiªn. CËu cã thÓ gÆp con bÐ ®Õn bÊt cø lóc nµo.
 164)  CLEMENTINE
-[shy, quiet] Thanks.
+[shy, quiet] C¶m ¬n c«.
 165)  LEE
 {normalB} Clementine.
 166)  KATJAA
-{happyD} That is a very pretty name.
+{happyD} §ã lµ mét c¸i tªn rÊt ®Ñp ®Êy.
 167)  SHAWN
-{normalC} My dad's over at the barn doing some work, so he could use some help too. {happyA} For now, Duck and I will hop to it.
+{normalC} Bè t«i ®ang ë chuång lµm vµi viÖc, vËy nªn «ng Êy còng cã thÓ cÇn gióp vµi viÖc. {happyA} B©y giê, Duck vµ t«i sÏ b¾t tay vµo lµm viÖc.
 168)  KENNY
-{happyA} Honey, Duck, this is Lee and uh, {thinkingA} what's the girl's name?
+{happyA} Em yªu µ, Duck, ®©y lµ Lee vµ õm, {thinkingA} c« bÐ tªn g×?
 169)  DUCK
-{happyB}{body-standA}  I want to build a fence.
+{happyB}{body-standA}  Con muèn x©y hµng rµo.
 170)  LEE
-{happyA} Ok, I'd appreciate that.
+{happyA} §­îc råi, t«i tr©n träng ®iÒu ®ã.
 171)  LEE
-{thinkingA} I don't know if that's a good idea.
+{thinkingA} T«i kh«ng biÕt ®ã cã ph¶i ý hay hay kh«ng.
 172)  LEE
-{sadA} If you see anything, you get inside and lock the door.
+{sadA} NÕu con thÊy bÊt cø thø g×, h·y vµo trong vµ khãa cöa l¹i.
 173)  
-Ok, thanks.
+§­îc råi, c¸m ¬n.
 174)  
-I don't know if that's a good idea.
+T«i kh«ng biÕt ®ã cã ph¶i ý hay hay kh«ng.
 175)  
-If you see anything, get inside.
+NÕu con thÊy bÊt cø thø g×, h·y vµo trong.
 176)  KATJAA
-{happyC} My pleasure.
+{happyC} RÊt h©n h¹nh.
 177)  KENNY
-{normalA} She'll be ok, Lee. My wife might not look like much, {happyA}but I'd rather meet a pack of flesh-eaters in a dark alley than Katjaa in her mama lion mode.
+{normalA} C« bÐ sÏ æn th«i, Lee ¹. Vî t«i cã thÓ kh«ng thÓ hiÖn ®iÒu nµy nhiÒu, {happyA}nh­ng t«i thµ gÆp mét bÇy bän ¨n thÞt sèng con mét con hÎm tèi cßn h¬n lµ Katjaa trong chÕ ®é s­ tö mÑ cña c« Êy.
 181)  KENNY
-{normalA} She'll be ok, Lee. My wife might not look like much, {happyA}but I'd rather meet a pack of flesh-eaters in a dark alley than Katjaa in her mama lion mode.
+{normalA} C« bÐ sÏ æn th«i, Lee ¹. Vî t«i cã thÓ kh«ng thÓ hiÖn ®iÒu nµy nhiÒu, {happyA}nh­ng t«i thµ gÆp mét bÇy bän ¨n thÞt sèng con mét con hÎm tèi cßn h¬n lµ Katjaa trong chÕ ®é s­ tö mÑ cña c« Êy.
 178)  KATJAA
-{normalA} Best to keep her out of trouble. {happyA}Plus we'll be safest near the house.
+{normalA} Tèt nhÊt lµ gi÷ c« bÐ khái nguy hiÓm. {happyA}Thªm n÷a bän t«i sÏ an toµn nhÊt khi ë s¸t nhµ.
 179)  LEE
-{happyA} That ok with you, Clementine?
+{happyA} Nh­ vËy æn víi con chø, Clementine?
 180)  KATJAA
-{fearA} Of course.
+{fearA} TÊt nhiªn råi.
 182)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 191)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 194)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 288)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 306)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 311)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 551)  KENNY
-[overcome, having just saved his son] I got you!
+[overcome, having just saved his son] Ta gi÷ ®­îc con råi!
 183)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 189)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 264)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 338)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 341)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 345)  SHAWN
-KENNY! HELP LEE!
+KENNY! *Gióp Lee ®i*!
 184)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 190)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 263)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 340)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 343)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 348)  LEE
-I CAN'T MOVE THIS BY MYSELF!
+*T«i kh«ng thÓ dÞch chuyÓn nã mét m×nh*!
 185)  SHAWN
 KENNY!!!
 187)  SHAWN
@@ -491,63 +491,63 @@ KENNY!!!
 346)  SHAWN
 KENNY!!!
 186)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 188)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 262)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 339)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 342)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 347)  LEE
-[pushing with all of his might] I'm trying...
+[pushing with all of his might] T«i ®ang cè ®©y...
 192)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 292)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 308)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 310)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 352)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 353)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 357)  SHAWN
-LEE, HELP ME! PLEASE!
+*Lee, gióp t«i*! *Lµm ¬n ®i*!
 193)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 290)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 305)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 312)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 350)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 356)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 359)  SHAWN
-They're almost through!
+Chóng s¾p qua ®­îc råi!
 195)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 291)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 304)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 309)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 349)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 355)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 360)  SHAWN
-GET THIS TRACTOR OFF OF ME!
+*LÊy c¸i m¸y kÐo nµy ra khái ch©n t«i*!
 196)  LEE
-Now Shawn!
+Giê tíi Shawn!
 289)  LEE
-Now Shawn!
+Giê tíi Shawn!
 197)  SHAWN
 AHHHH!
 362)  SHAWN
@@ -557,31 +557,31 @@ AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
 363)  SHAWN
 AAHH! [gurgling, being eaten all over the neck and face] AHH!!!
 199)  SHAWN
-It just rolled onto me! AHHH!
+Nã l¨n vµo ch©n t«i! AHHH!
 200)  LEE
-Can we drive it off?!
+Chóng ta cã thÓ l¸i nã ra kh«ng?!
 201)  SHAWN
-Just get it off!
+Cø ®Èy ®i!
 202)  LEE
-I don't know how to drive this thing!
+T«i kh«ng biÕt c¸ch l¸i thø nµy!
 203)  SHAWN
-JUST PUSH!
+*Cø ®Èy th«i*!
 204)  KENNY
-They've got Duck! THEY'VE GOT HIM!
+Chóng b¾t ®­îc Duck råi! *Chóng b¾t ®­îc nã råi*!
 274)  KENNY
-They've got Duck! THEY'VE GOT HIM!
+Chóng b¾t ®­îc Duck råi! *Chóng b¾t ®­îc nã råi*!
 205)  LEE
-KENNY, I need your help!
+KENNY, t«i cÇn anh gióp!
 273)  LEE
-KENNY, I need your help!
+KENNY, t«i cÇn anh gióp!
 206)  LEE
-Free  your son and then HELP!
+Gi¶i tho¸t con anh råi *gióp*!
 207)  LEE
-KENNY, PLEASE. I'm going to need your help!
+KENNY, *lµm ¬n*. T«i cÇn sù trî gióp cña anh!
 208)  LEE
-COME ON...COME ON...
+*Coi nµo*...*Coi nµo*...
 277)  LEE
-COME ON...COME ON...
+*Coi nµo*...*Coi nµo*...
 209)  LEE
 GRRRRR! [pushing tractor hard]
 272)  LEE
@@ -589,135 +589,135 @@ GRRRRR! [pushing tractor hard]
 210)  LEE
 GRRRRAAAA!!! [pushing as hard as you can]
 211)  LEE
-How are these things to drive?
+C¸i nµy l¸i cã thÝch kh«ng?
 212)  DUCK
-Awesome![how is that to drive?]
+TuyÖt có mÌo![how is that to drive?]
 213)  SHAWN
-Pain in the ass, mostly. Big, heavy as hell and slower than uh...
+Nh­ c¸i nhät ë m«ng, chñ yÕu lµ thÕ. To, nÆng nÒ nh­ quû sø vµ chËm h¬n õm...
 214)  SHAWN
-It's just whatever scraps I could find around the property.
+Nã chØ lµ thø s¾t vôn cã thÓ t×m thÊy quanh ®©y.
 215)  SHAWN
-Dad's been asking me to haul that stuff to the dump for weeks. Glad I didn't.
+Cha t«i ®· yªu cÇu t«i t«i kÐo nã ®Õn b·i r¸c hµng tuÇn liÒn. Mõng lµ t«i ®· kh«ng lµm thÕ.
 216)  KENNY
-It's not the most reliable pick-up in the world, but it gets the job done.
+Nã kh«ng ph¶i lµ thø ®¸ng tin cËy nhÊt trªn thÕ giíi, nh­ng nã lµm tèt viÖc cña nã.
 217)  KENNY
-It's actually a piece of shit, but hauls all right.
+ThËt ra nã lµ mét mÈu phÕ th¶i, nh­ng chë kh¸ tèt.
 218)  LEE
-Do you uh… think this thing will keep them out?
+CËu cã õm… nghÜ r»ng thø nµy sÏ gi÷ chóng ë ngoµi?
 219)  SHAWN
-Not yet; I'm planning on coming back through on a "fortification pass" if you will. We'll lock this place up good.
+Ch­a ®©u; T«i cßn ®ang lªn kÕ ho¹ch quay trë l¹i th«ng qua mét c¸i "cæng ph¸o ®µi" anh thÊy ®óng chø. Chóng ta sÏ khãa chÆt n¬i nµy.
 220)  HERSHEL
-[explodes] {angryD} GET THE FUCK OUT OF HERE.
+[explodes] {angryD} *Cót hÕt mÑ ra khái ®©y*.
 221)  HERSHEL
-{angryC} SORRY? {angryB} Your son is alive. You don't get to be sorry.
+{angryC} SORRY? {angryB} Con trai ng­¬i cßn sèng. Ng­¬i cÇn g× ph¶i xin lçi.
 222)  KENNY
-{sadB}{body-standA} I'm sorry.
+{sadB}{body-standA} T«i xin lçi.
 223)  HERSHEL
-[quiet, snarling, about to explode] {disgustA}{body-standB} Get out.
+[quiet, snarling, about to explode] {disgustA}{body-standB} BiÕn ®i.
 224)  HERSHEL
-{angryD} And YOU. You didn't even try to help.
+{angryD} Vµ *ng­¬i*. Ng­¬i cßn ch¼ng thÌm cè gióp.
 225)  LEE
-{sadC}{body-A} I'm sorry.
+{sadC}{body-A} T«i xin lçi.
 226)  LEE
-{sadB}{body-A} I panicked.
+{sadB}{body-A} T«i ®· ho¶ng lo¹n.
 227)  LEE
-{sadA}{body-A} I was worried about the boy.
+{sadA}{body-A} T«i ®· lo vÒ th»ng bÐ.
 228)  LEE
-{sadB}{body-A} I thought I could help them both.
+{sadB}{body-A} T«i ®· nghÜ r»ng t«i cã thÓ gióp c¶ hai.
 229)  
-I'm sorry.
+T«i xin lçi.
 230)  
-I panicked.
+T«i ®· ho¶ng lo¹n.
 231)  
-I was worried about the little boy.
+T«i ®· lo vÒ th»ng bÐ con.
 232)  
-I thought I could help them both.
+T«i ®· nghÜ r»ng t«i cã thÓ gióp c¶ hai.
 233)  HERSHEL
-{disgustA} Look at him.
+{disgustA} Nh×n nã ®i.
 234)  HERSHEL
-{angryC} LOOK AT HIM.
+{angryC} *Nh×n nã ®i*.
 235)  HERSHEL
-{angryB} Sorry is no damn good.
+{angryB} Xin lçi kh«ng cã Ých lîi g× hÕt.
 236)  HERSHEL
-{angryC} Remember THAT next time you panic.
+{angryC} H·y nhí ®iÒu *®ã* lÇn tíi ng­¬i ho¶ng lo¹n.
 237)  HERSHEL
-{angryC} But you weren't worried about THAT.
+{angryC} Nh­ng ng­¬i ®©u cã lo l¾ng g× vÒ *®iÒu ®ã* ®©u.
 238)  HERSHEL
-{disgustA} You thought wrong. {fearA} And now...
+{disgustA} Ng­¬i nghÜ sai. {fearA} Vµ giê...
 239)  HERSHEL
-{disgustA} You've got nothing to say to him, do you?
+{disgustA} CËu kh«ng cã g× ®Ó nãi víi h¾n, ph¶i kh«ng?
 240)  HERSHEL
-You've got nothing to say to that???
+Ng­¬i kh«ng cã g× ®Ó nãi vÒ ®iÒu ®ã sao???
 241)  HERSHEL
-{fearA} You tried to help him, {angryC} but this piece of shit let him die.
+{fearA} CËu ®· cè gióp nã, {angryC} nh­ng c¸i ®å cøt chã nµy ®· ®Ó nã chÕt.
 242)  
 ...
 243)  
-It's my fault.
+Lçi cña t«i.
 244)  
-It's nobody's fault.
+§©y kh«ng ph¶i lçi cña ai c¶.
 245)  
-It's Kenny's fault.
+§©y lµ lçi cña Kenny.
 246)  LEE
-{sadC}{body-A} I wasn't strong enough. I'm sorry.
+{sadC}{body-A} T«i kh«ng ®ñ kháe. T«i xin lçi.
 247)  LEE
-{sadA}{body-A} You can't blame Kenny.
+{sadA}{body-A} ¤ng kh«ng thÓ ®ç lçi cho Kenny ®­îc.
 248)  LEE
-{angryA}{body-A} If Kenny had helped, your son would be alive.
+{angryA}{body-A} NÕu nh­ Kenny chÞu gióp, con trai «ng sÏ vÉn cßn sèng.
 249)  HERSHEL
-[crying, losing it] {sadB} Please, just go. {angryD} Get out and never come back.
+[crying, losing it] {sadB} Lµm ¬n, ®i ®i. {angryD} BiÕn ®i vµ ®õng bao giê quay trë l¹i.
 537)  HERSHEL
-[crying, losing it] {sadB} Please, just go. {angryD} Get out and never come back.
+[crying, losing it] {sadB} Lµm ¬n, ®i ®i. {angryD} BiÕn ®i vµ ®õng bao giê quay trë l¹i.
 250)  KENNY
-{fearA} You've got that ride to Macon if you want it.
+{fearA} ChuyÕn ®i tíi Macon lµ cña cËu nÕu nh­ cËu muèn.
 251)  HERSHEL
-{sadB} You don't need to say anything. {angryA}You tried.
+{sadB} CËu kh«ng cÇn nãi g× c¶. {angryA}CËu ®· cè.
 536)  HERSHEL
-{sadB} You don't need to say anything. {angryA}You tried.
+{sadB} CËu kh«ng cÇn nãi g× c¶. {angryA}CËu ®· cè.
 252)  HERSHEL
-{disgustA} If your girl is ever trapped you better hope you get stronger or your {angryA}friends aren't cowards.
+{disgustA} NÕu con g¸i cËu bÞ m¾c kÑt cËu nªn mong lµ cËu trë nªn kháe h¬n hay b¹n {angryA}cËu kh«ng ph¶i kÎ hÌn nh¸t.
 253)  HERSHEL
-{angryC} The hell I can't. You watch your back. {disgustA}Wait until it's your daughter and you need his help.
+{angryC} Kh«ng thÓ h¶. CËu coi chõng ®Êy. {disgustA}Chê tíi khi ®ã lµ con g¸i cËu vµ cËu cÇn sù gióp ®ì cña h¾n.
 254)  HERSHEL
-{angryB} And that's why I'll wish you were dead for the rest of my life.
+{angryB} Vµ ®ã lµ lý do v× sao ta sÏ ­íc r»ng ng­¬i sÏ chÕt cho ®Õn cuèi cuéc ®êi ta.
 255)  SHAWN
-[avoiding a topic of convo] I'm good.
+[avoiding a topic of convo] T«i æn.
 256)  LEE
-Sure don't. I can give you a hell of a critique of the US Farm Bill though.
+Kh«ng hÒ. Nh­ng mµ t«i cã thÓ cho cËu hµng t¸ ®¸nh gi¸ vÒ LuËt N«ng Tr¹i Mü.
 257)  SHAWN
-You know how to drive it?
+Anh biÕt l¸i nã kh«ng?
 258)  
-Tractor
+M¸y kÐo
 259)  
-Truck
+Xe t¶i
 260)  
-Wood
+Gç
 265)  LEE
-[pickup1] [urgent] I'll get Shawn! [you save the other guy]
+[pickup1] [urgent] T«i sÏ cøu Shawn! [you save the other guy]
 361)  LEE
-[pickup1] [urgent] I'll get Shawn! [you save the other guy]
+[pickup1] [urgent] T«i sÏ cøu Shawn! [you save the other guy]
 266)  KENNY
-[pickup1] [urgent] I've got you son!
+[pickup1] [urgent] Ta gi÷ ®­îc con råi!
 267)  LEE
 [pickup1] [urgent!]
 268)  SHAWN
-Get it off of me!
+§Èy nã ra khái t«i!
 301)  SHAWN
-Get it off of me!
+§Èy nã ra khái t«i!
 269)  KENNY
-[pickup1][panicked] Get this thing off of him!
+[pickup1][panicked] §Èy thø nµy ra khái nã!
 270)  LEE
-We're gonna get this thing off you!
+Chóng t«i sÏ lÊy thø nµy ra khái ng­êi cËu!
 271)  SHAWN
-Fuck, they're coming man, they're coming!
+Chã chÕt, chóng tíi k×a anh b¹n, chóng tíi k×a!
 275)  SHAWN
-Fuck, it's crushed! Move this thing!
+Chã chÕt, nã ®Ì lªn råi! §Èy thø nµy ®i!
 297)  SHAWN
-Fuck, it's crushed! Move this thing!
+Chã chÕt, nã ®Ì lªn råi! §Èy thø nµy ®i!
 303)  SHAWN
-Fuck, it's crushed! Move this thing!
+Chã chÕt, nã ®Ì lªn råi! §Èy thø nµy ®i!
 550)  SHAWN
-Fuck, it's crushed! Move this thing!
+Chã chÕt, nã ®Ì lªn råi! §Èy thø nµy ®i!
 276)  LEE
 [pickup1] [lee struggles to pull a guy free from underneath a tractor]
 549)  LEE
@@ -731,45 +731,45 @@ Fuck, it's crushed! Move this thing!
 284)  LEE
 [Lee hits something with his fist]
 280)  KENNY
-[pickup1] Help me pull him!
+[pickup1] Gióp t«i kÐo nã!
 285)  KENNY
-[pickup1] Help me pull him!
+[pickup1] Gióp t«i kÐo nã!
 281)  DUCK
-DON'T LET 'EM TAKE ME!
+*§õng ®Ó chóng b¾t con!*
 286)  DUCK
-DON'T LET 'EM TAKE ME!
+*§õng ®Ó chóng b¾t con!*
 282)  KENNY
-[pickup1] KNOCK THAT THING BACK! [a zombie]
+[pickup1] *§Ëp nã lïi l¹i ®i*! [a zombie]
 287)  KENNY
-[pickup1] KNOCK THAT THING BACK! [a zombie]
+[pickup1] *§Ëp nã lïi l¹i ®i*! [a zombie]
 516)  KENNY
-[pickup1] KNOCK THAT THING BACK! [a zombie]
+[pickup1] *§Ëp nã lïi l¹i ®i*! [a zombie]
 293)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 307)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 313)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 351)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 354)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 358)  KENNY
-[pickup1] What the hell's wrong with you?
+[pickup1] CËu bÞ c¸i qu¸i g× vËy?
 294)  DUCK
 [a bunch of panicked/trapped/I don't want to die sounds1]
 295)  DUCK
 [a bunch of panicked/trapped/I don't want to die sounds1]
 296)  SHAWN
-My leg is stuck!
+Ch©n t«i kÑt råi!
 298)  SHAWN
-KENNY! FUCK! HELP ME!
+KENNY! *Khèn khiÕp*! *Gióp t«i*!
 299)  SHAWN
-LEE, please help me!
+LEE, lµm ¬n gióp t«i víi!
 300)  SHAWN
-HELP! FUCK! HELP!
+*Gióp víi*! *Khèn khiÕp*! *Gióp t«i víi*!
 302)  LEE
-[pickup1] I'll try to pull you out! [super panicked]
+[pickup1] T«i sÏ cè kÐo cËu ra! [super panicked]
 330)  
 Kenny
 335)  
@@ -781,277 +781,277 @@ Zombie
 333)  
 Shawn
 334)  
-Push Tractor
+§Èy M¸y KÐo
 336)  
-Help Kenny
+Gióp Kenny
 364)  HERSHEL
-[pickup1] Been quiet as usual the past couple days. Ol' Breckon down the way thinks his mare's gone lame but that ain't nothing new.
+[pickup1] VÉn yªn tÜnh nh­ th­êng vµi ngµy gÇn ®©y. L·o giµ Breckon ë cuèi ®­êng nghÜ r»ng con ngùa c¸i cña l·o ®· kiÖt quÖ ®ã kh«ng ph¶i ®iÒu g× míi mÎ.
 365)  HERSHEL
-[pickup1]You've brought a couple guests.
+[pickup1]Con cã ®em theo vµi vÞ kh¸ch.
 366)  SHAWN
-[pickup1] I told him we could help him out.
+[pickup1] Con nãi víi anh Êy chóng ta cã thÓ gióp anh Êy.
 535)  SHAWN
-[pickup1] I told him we could help him out.
+[pickup1] Con nãi víi anh Êy chóng ta cã thÓ gióp anh Êy.
 367)  LEE
-[pickup1] We'd really appreciate it.
+[pickup1] Chóng t«i v« cïng c¶m kÝch ®iÒu nµy.
 533)  LEE
-[pickup1] We'd really appreciate it.
+[pickup1] Chóng t«i v« cïng c¶m kÝch ®iÒu nµy.
 369)  HERSHEL
-[pickup1] So it's just you and your daughter then.
+[pickup1] VËy chØ cã cËu vµ con g¸i cËu.
 370)  SHAWN
-[pickup1] Oh, not his daughter, he's the babysitter.
+[pickup1] Oh, kh«ng ph¶i con g¸i anh Êy, anh Êy lµ ng­êi tr«ng trÎ.
 371)  SHAWN
-[pickup1] Oh, not his daughter, he was her neighbor.
+[pickup1] Oh, kh«ng ph¶i con g¸i anh Êy, anh Êy lµ hµng xãm c« bÐ.
 372)  SHAWN
-[pickup1] Oh, not his daughter, he's... well... Just some guy who found her alone.
+[pickup1] Oh, kh«ng ph¶i con g¸i anh Êy, anh Êy... chµ... ChØ lµ mét ng­êi t×m thÊy c« bÐ mét m×nh.
 373)  SHAWN
-[pickup1] Oh, not his daughter, he's.. a good Samaritan. [sincere]
+[pickup1] Oh, kh«ng ph¶i con g¸i anh Êy, anh Êy lµ.. mét ng­êi Samari nh©n ®øc. [sincere]
 374)  HERSHEL
-[pickup1][talking to a little girl] Honey, do you know this man?
+[pickup1][talking to a little girl] Con g¸i, con cã biÕt ng­êi ®µn «ng nµy kh«ng?
 375)  CLEMENTINE
-[pickup1] [small, shy, nervous] Yes.
+[pickup1] [small, shy, nervous] Cã.
 376)  HERSHEL
-[pickup1] Ok then.
+[pickup1] §­îc råi.
 377)  HERSHEL
-[pickup1] Well, looks like you hurt your leg pretty bad there.
+[pickup1] Chµ, cã vÎ nh­ cËu bÞ th­¬ng ch©n kh¸ tÖ ®Êy.
 378)  LEE
-[pickup1] Yeah, it's not doing so good.
+[pickup1] Yeah, nã kh«ng ®­îc tèt l¾m.
 379)  LEE
-[pickup1] Pretty far.
+[pickup1] Kh¸ xa.
 380)  CLEMENTINE
-[pickup1] [laying in bed. breaking the silence] I miss my mom and dad.
+[pickup1] [laying in bed. breaking the silence] Con nhí mÑ vµ cha con.
 381)  CLEMENTINE
-[pickup1] How far is Savannah?
+[pickup1] Savannah xa kh«ng ¹?
 382)  LEE
-[pickup1] [sincere]I bet, Clem.
+[pickup1] [sincere]Ta c¸ lµ nh­ thÕ, Clem ¹.
 383)  CLEMENTINE
-[pickup1][savannah is 'pretty far', quiet, in bed] Oh. Ok.
+[pickup1][savannah is 'pretty far', quiet, in bed] Oh. V©ng ¹.
 384)  
-Shit.
+Cøt chã.
 385)  
 Silent
 386)  
-You know...
+Con biÕt ®Êy...
 387)  CLEMENTINE
-[pickup1][it smells like...] Doo-dee.
+[pickup1][it smells like...] Côc-Þ.
 394)  CLEMENTINE
-[pickup1][it smells like...] Doo-dee.
+[pickup1][it smells like...] Côc-Þ.
 553)  CLEMENTINE
-[pickup1][it smells like...] Doo-dee.
+[pickup1][it smells like...] Côc-Þ.
 388)  LEE
-[pickup1] Yeah, it does smell like doo-dee.
+[pickup1] Yeah, mïi nã gièng nh­ côc-Þ.
 552)  LEE
-[pickup1] Yeah, it does smell like doo-dee.
+[pickup1] Yeah, mïi nã gièng nh­ côc-Þ.
 389)  
-Manure
+Ph©n
 390)  LEE
-[pickup1][it smells like...] Manure.
+[pickup1][it smells like...] Ph©n.
 391)  LEE
-[pickup1][it smells like...] Shit.
+[pickup1][it smells like...] Cøt chã.
 392)  LEE
 [pickup1][it smells like... trying to endear yoursefl to a little girl] Uhh… Poo.
 393)  LEE
-[pickup1][it smells like...] I know what it smells like.
+[pickup1][it smells like...] Ta biÕt mïi nã nh­ thÕ nµo.
 395)  CLEMENTINE
-[pickup1] Manure?
+[pickup1] Ph©n?
 396)  CLEMENTINE
-[pickup1] Like when a horse... plops?
+[pickup1] Nh­ khi mµ con ngùa nã... Þ?
 397)  LEE
 [pickup1] Just like that.
 398)  CLEMENTINE
 [pickup1][small, disapointed you has to sleep in a place that smells like poop] Eww...
 399)  CLEMENTINE
-[pickup1] That was a swear.
+[pickup1] §ã lµ lêi chöi thÒ.
 400)  CLEMENTINE
 [pickup1][a little kid gasp when an adult swears]
 401)  LEE
-[pickup1] I know it was.
+[pickup1] Ta biÕt.
 402)  LEE
-[pickup1] I'm sorry; shouldn't talk like that.
+[pickup1] Ta xin lçi; kh«ng nªn nãi nh­ vËy.
 403)  CLEMENTINE
-[pickup1] My dad says "droppings."
+[pickup1] Cha con nãi "®i nÆng."
 404)  SHAWN
-[pickup1] I don't think anyone knows how big it is yet.
+[pickup1] T«i kh«ng nghÜ r»ng cã ai biÕt nã lín cì nµo.
 405)  HERSHEL
-[pickup1]You and the little girl are welcome to rest in there.
+[pickup1]CËu vµ c« bÐ con ®­îc chµo mõng ®Ó nghØ ng¬i ë ®©y.
 406)  HERSHEL
-[pickup1] I didn't catch your name, darlin'.
+[pickup1] Ta ch­a râ tªn con, con g¸i ¹.
 407)  CLEMENTINE
 [pickup1] Clem-Clementine.
 408)  HERSHEL
-[pickup1] Can't imagine what you've been through, Clementine.
+[pickup1] Kh«ng thÓ t­ëng t­îng ®­îc con ®· tr¶i qua nh÷ng g×, Clementine ¹.
 410)  HERSHEL
-[pickup1] Running from something? [suspicious]
+[pickup1] Ch¹y trèn khái thø g× ®ã? [suspicious]
 411)  LEE
-Just like everybody else.
+Còng nh­ mäi ng­êi kh¸c th«i.
 412)  HERSHEL
 [pickup1] [Agreeing] Yeah,
 413)  LEE
-I got chased by a couple of dead people.
+T«i bÞ r­ît bëi mét vµi ng­êi chÕt.
 414)  LEE
-[awkward] Ok, that'd be preferable.
+[awkward] §­îc råi, t«i ­u tiªn nã h¬n.
 415)  HERSHEL
-[pickup1] We'll clean it, re-dress it and you'll be fine.
+[pickup1] Chóng t«i sÏ röa s¹ch nã, thay b¨ng vµ cËu sÏ æn th«i.
 416)  HERSHEL
-[pickup1] If your leg gets hot or the swelling doesn't go down; you're probably dealing with an infection.
+[pickup1] NÕu ch©n cËu trë nªn nãng hoÆc chç s­ng kh«ng xÑp xuèng; rÊt cã thÓ cËu ®· bÞ nhiÔm trïng.
 417)  HERSHEL
-[pickup1] We'll probably just have to shoot you.
+[pickup1] Bän ta cã thÓ sÏ ph¶i b¾n cËu.
 418)  LEE
-[pickup1] What do we do then?
+[pickup1] Khi Êy chóng ta ph¶i lµm g×?
 419)  HERSHEL
-[pickup1] Where were you headed? Before the car accident?
+[pickup1] CËu ®ang h­íng vÒ ®©u? Tr­íc khi vô tai n¹n x¶y ra?
 420)  HERSHEL
-[pickup1] {thinkingA} What type'a danger has the girl seen?
+[pickup1] {thinkingA} Nh÷ng lo¹i hiÓm nguy nµo mµ c« bÐ ®· tr¶i qua?
 421)  
-Home.
+Nhµ.
 422)  
-Nowhere.
+Kh«ng ®©u c¶.
 423)  
-Just out.
+ChØ lµ ®ang ë ngoµi.
 424)  
-Out of Atlanta.
+Ngoµi Atlanta.
 425)  LEE
-{normalD} Home.
+{normalD} Nhµ.
 426)  HERSHEL
-[pickup1] Where's home?
+[pickup1] Nhµ ë ®©u?
 427)  LEE
-I grew up in Macon.
+T«i lín lªn ë Macon.
 428)  HERSHEL
-[pickup1] I hope you're family's ok.
+[pickup1] Ta mong gia ®×nh cËu vÉn æn.
 429)  LEE
-{thinkingA} Nobody.
+{thinkingA} Kh«ng ai c¶.
 436)  LEE
-{thinkingA} Nobody.
+{thinkingA} Kh«ng ai c¶.
 446)  LEE
-{thinkingA} Nobody.
+{thinkingA} Kh«ng ai c¶.
 449)  LEE
-{thinkingA} Nobody.
+{thinkingA} Kh«ng ai c¶.
 430)  HERSHEL
-[pickup1] You said "we," that's all.
+[pickup1] CËu nãi "chóng t«i", chØ thÕ th«i.
 439)  HERSHEL
-[pickup1] You said "we," that's all.
+[pickup1] CËu nãi "chóng t«i", chØ thÕ th«i.
 444)  HERSHEL
-[pickup1] You said "we," that's all.
+[pickup1] CËu nãi "chóng t«i", chØ thÕ th«i.
 450)  HERSHEL
-[pickup1] You said "we," that's all.
+[pickup1] CËu nãi "chóng t«i", chØ thÕ th«i.
 431)  HERSHEL
-[pickup1] Who were you with, the girl? [puzzled]
+[pickup1] Lóc ®Êy cËu ®ang ë víi ai, c« bÐ? [puzzled]
 438)  HERSHEL
-[pickup1] Who were you with, the girl? [puzzled]
+[pickup1] Lóc ®Êy cËu ®ang ë víi ai, c« bÐ? [puzzled]
 443)  HERSHEL
-[pickup1] Who were you with, the girl? [puzzled]
+[pickup1] Lóc ®Êy cËu ®ang ë víi ai, c« bÐ? [puzzled]
 452)  HERSHEL
-[pickup1] Who were you with, the girl? [puzzled]
+[pickup1] Lóc ®Êy cËu ®ang ë víi ai, c« bÐ? [puzzled]
 432)  LEE
-{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+{fearA} Chóng t«i ®ông ph¶i mét ng­êi, mét trong nh÷ng thø mµ mäi ng­êi ®ang ®­îc nghe nãi ®Õn, trªn ®­êng.
 437)  LEE
-{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+{fearA} Chóng t«i ®ông ph¶i mét ng­êi, mét trong nh÷ng thø mµ mäi ng­êi ®ang ®­îc nghe nãi ®Õn, trªn ®­êng.
 445)  LEE
-{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+{fearA} Chóng t«i ®ông ph¶i mét ng­êi, mét trong nh÷ng thø mµ mäi ng­êi ®ang ®­îc nghe nãi ®Õn, trªn ®­êng.
 451)  LEE
-{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+{fearA} Chóng t«i ®ông ph¶i mét ng­êi, mét trong nh÷ng thø mµ mäi ng­êi ®ang ®­îc nghe nãi ®Õn, trªn ®­êng.
 532)  LEE
-{fearA} We hit a guy, one of those things you've been hearing about, on the road.
+{fearA} Chóng t«i ®ông ph¶i mét ng­êi, mét trong nh÷ng thø mµ mäi ng­êi ®ang ®­îc nghe nãi ®Õn, trªn ®­êng.
 433)  HERSHEL
-With the supposed apocalypse startin'?
+Víi c¸i ®­îc cho lµ tËn thÕ b¾t ®Çu?
 434)  LEE
-Hadn't started yet.
+Ch­a b¾t ®Çu ®©u.
 435)  LEE
-{normalD} Just out for a drive.
+{normalD} ChØ ra ngoµi l¸t chót th«i.
 440)  HERSHEL
-[pickup1] The news says stay.
+[pickup1] Tin tøc nãi r»ng nªn ë l¹i.
 441)  LEE
-Yeah, well that's a mistake.
+Yeah, chµ ®ã lµ mét sai lÇm.
 442)  LEE
 {normalD} I was getting out of Atlanta.
 447)  LEE
-{thinkingA} Nowhere.
+{thinkingA} Kh«ng ®©u c¶.
 530)  LEE
-{thinkingA} Nowhere.
+{thinkingA} Kh«ng ®©u c¶.
 448)  HERSHEL
-Heard of it but never been there.
+§· tõng nghe tªn nh­ng ch­a bao giê ta ®Õn ®ã.
 531)  HERSHEL
-Heard of it but never been there.
+§· tõng nghe tªn nh­ng ch­a bao giê ta ®Õn ®ã.
 453)  
-Plenty.
+Kh¸ nhiÒu thø.
 454)  
-Who knows.
+Ai biÕt ®­îc.
 455)  
-She's safe now.
+C« bÐ giê ®· an toµn.
 456)  
-Nothing bad.
+Kh«ng cã g× tÖ c¶.
 457)  LEE
-{sadA} The kind there's a lot of.
+{sadA} Kh¸ nhiÒu thø.
 458)  HERSHEL
-[pickup1] I still just can't imagine it.
+[pickup1] T«i vÉn kh«ng thÓ t­ëng t­îng næi ®iÒu ®ã.
 464)  HERSHEL
-[pickup1] I still just can't imagine it.
+[pickup1] T«i vÉn kh«ng thÓ t­ëng t­îng næi ®iÒu ®ã.
 459)  LEE
-Consider yourself lucky.
+H·y nghÜ r»ng «ng ®· may m¾n ®i.
 463)  LEE
-Consider yourself lucky.
+H·y nghÜ r»ng «ng ®· may m¾n ®i.
 460)  LEE
-She had a few lonely days with nothing but the dead keeping her company.
+C« bÐ cã vµi ngay ®¬n ®éc víi kh«ng g× ngoµi x¸c chÕt lµm bÇu b¹n.
 462)  LEE
-She had a few lonely days with nothing but the dead keeping her company.
+C« bÐ cã vµi ngay ®¬n ®éc víi kh«ng g× ngoµi x¸c chÕt lµm bÇu b¹n.
 461)  LEE
-{sadA} Who knows.
+{sadA} Ai biÕt ®­îc.
 465)  LEE
-{surpriseA} What choice is there?
+{surpriseA} Cßn lùa chän nµo kh¸c?
 466)  HERSHEL
-[pickup1] You're serious about taking care of her then?
+[pickup1] CËu nghiªm tóc vÒ viÖc ch¨m sãc c« bÐ chø?
 467)  LEE
-{normalD} She's safe now.
+{normalD} C« bÐ giê ®· an toµn.
 468)  LEE
-{angryA} I'm not some kidnapper, all right? I'm just trying to help.
+{angryA} T«i kh«ng ph¶i lµ mét kÎ b¾t cãc nµo ®ã, ®­îc chø? T«i chØ cè gióp ®ì th«i.
 469)  LEE
-{normalD} Nothing bad.
+{normalD} Kh«ng cã g× tÖ c¶.
 470)  HERSHEL
-[pickup1] I just hope she's not in any now.
+[pickup1] T«i chØ mong c« bÐ kh«ng gÆp ph¶i bÊt cø ®iÒu g× b©y giê.
 471)  HERSHEL
-[pickup1] We can just leave it at that.
+[pickup1] Chóng ta cã thÓ ®Ó yªn ®iÒu ®ã.
 472)  LEE
-I'm not her dad. Name's Lee.
+T«i kh«ng ph¶i lµ cha c« bÐ. Tªn lµ Lee.
 473)  LEE
-Towards Macon, I suppose.
+H­íng vÒ Macon, t«i nghÜ thÕ.
 474)  HERSHEL
-[pickup1]Come tomorrow, which way you think you're headed?
+[pickup1]Cßn ngµy mai, cËu nghÜ cËu sÏ ®i ®©u?
 475)  
-Look At
+Nh×n vµo
 476)  
-Look At
+Nh×n vµo
 512)  
-Look At
+Nh×n vµo
 514)  
-Look At
+Nh×n vµo
 477)  CHET
-Hey, Shawn... I'm a' run on home. My mama's gonna be in a snit.
+Nµy, Shawn... M×nh ph¶i vÒ nhµ th«i. MÑ m×nh ch¾c ®ang ®iªn tiÕt ®©y.
 478)  SHAWN
-[pickup1] No sweat, man. I'll catch you tomorrow night.
+[pickup1] Kh«ng cã g× ph¶i lo, anh b¹n ¹. M×nh sÏ gÆp cËu tèi mai.
 479)  CHET
-It was nice to meet ya both.
+RÊt vui ®­îc gÆp hai ng­êi.
 480)  SHAWN
 [pickup1][down] Yeah.
 481)  MITCHELL
-Take care, you two.
+B¶o träng, hai ng­êi.
 482)  MITCHELL
-I'm sorry, Shawn. Chet was a good dude.
+T«i rÊt tiÕc, Shawn. Chet lµ mét chµng trai tèt.
 483)  SHAWN
-[pickup1][down] One of the best.
+[pickup1][down] Mét trong nh÷ng ng­êi tèt nhÊt.
 484)  MITCHELL
-Say hi to your dad for me.
+Göi lêi chµo tíi cha cËu dïm t«i.
 485)  SHAWN
-[pickup1] I wouldn't have made it back without Chet.
+[pickup1] Con ®· kh«ng thÓ quay trë vÒ nÕu kh«ng cã Chet.
 486)  SHAWN
-[pickup1][down] I ran into Andre outside of Atlanta. And uh...Chet...he got killed.
+[pickup1][down] Con gÆp Andre ë ngo¹i « Atlanta. Vµ uh...Chet...cËu Êy bÞ giÕt råi.
 487)  HERSHEL
-[pickup1] I'm sorry, Shawn.
+[pickup1] Ta rÊt tiÕc, Shawn µ.
 488)  SHAWN
-[pickup1] Those things got him. Dad, I don't know what's going on.
+[pickup1] Nh÷ng thø ®ã b¾t ®­îc cËu Êy. Cha µ, con kh«ng biÕt chuyÖn g× ®ang x¶y ra.
 489)  HERSHEL
-[pickup1] No. You're kidding.
+[pickup1] Kh«ng. Con kh«ng ®ïa chø.
 490)  HERSHEL
-[pickup1] Well, I'm glad you took him with you then.
+[pickup1] Chµ, ta mõng v× con ®· dÉn cËu Êy ®i cïng víi con.
 491)  
 [Remain Silent]
 493)  
@@ -1059,46 +1059,46 @@ Say hi to your dad for me.
 492)  
 [Remain silent]
 494)  
-Nobody.
+Kh«ng ai c¶.
 495)  
-A police officer.
+Mét sÜ quan c¶nh s¸t.
 497)  HERSHEL
-[pickup1] Awful nice of him.
+[pickup1] Ng­êi ®Êy kh¸ tèt bông nhØ.
 498)  LEE
-[pickup3] I was with a police officer. He was giving me a ride.
+[pickup3] T«i ®i cïng víi mét viªn sÜ quan c¶nh s¸t. ¤ng Êy cho t«i ®i nhê.
 499)  LEE
-[pickup3] I'm an awful nice guy.
+[pickup3] T«i còng lµ ng­êi kh¸ tèt mµ.
 500)  LEE
-[pickup3] Yeah, it is.
+[pickup3] V©ng, ®óng vËy.
 501)  HERSHEL
-[pickup1] Is that so.
+[pickup1] ThÕ sao.
 502)  HERSHEL
-[pickup1]You said we, that's all. Was just making conversation.
+[pickup1]CËu nãi chóng t«i, thÕ th«i. T«i chØ cè trß chuyÖn th«i.
 503)  HERSHEL
-[pickup1] Asked you a question...
+[pickup1] Hái cËu mét c©u hái...
 504)  HERSHEL
-[pickup1] With what happened to your friend, maybe that's not a bad idea.
+[pickup1] Víi nh÷ng g× ®· x¶y ra cho b¹n cña con, cã lÏ ®Êy kh«ng ph¶i lµ ý tÖ.
 505)  SHAWN
-[pickup1] Duck and I will hop to it.
+[pickup1] Duck vµ t«i sÏ b¾t tay vµo viÖc ®ã.
 506)  SHAWN
-[pickup1] [hurt, mortally] I'm ok pop...I'm ok...
+[pickup1] [hurt, mortally] Con æn mµ cha...Con æn mµ...
 507)  HERSHEL
-[pickup1] I can fix you, don't worry, we'll stitch you up.
+[pickup1] Ta cã thÓ ch÷a cho con, ®õng lo, bän ta sÏ kh©u vÕt th­¬ng l¹i cho con.
 508)  SHAWN
-[pickup1] It almost… almost got me, man. [it did get him] Lee tried to save me.
+[pickup1] Nã suýt… suýt n÷a th× ®· b¾t ®­îc con, cha ¹. [it did get him] Lee ®· cè cøu con.
 509)  HERSHEL
-[pickup1] I know, son.
+[pickup1] Ta biÕt, con trai ¹.
 510)  SHAWN
-[pickup1] I...[dies]
+[pickup1] Con...[dies]
 511)  
-Push
+§Èy
 513)  
-Push
+§Èy
 515)  
-Help
+Gióp
 517)  
-Board
+V¸n
 518)  
 2 x 4
 546)  
-Fence
+Hµng rµo
